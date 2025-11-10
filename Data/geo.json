@@ -1,0 +1,1570 @@
+[
+    {
+        "sceneName": "aspid_01",
+        "gameObject": "Geo Small Persistent",
+        "active": true,
+        "localPosition": [
+            17.420000076293945,
+            6.25,
+            0.0
+        ],
+        "worldPosition": [
+            17.420000076293945,
+            6.25,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "aspid_01",
+        "gameObject": "Geo Small Persistent (2)",
+        "active": true,
+        "localPosition": [
+            11.079999923706055,
+            6.25,
+            0.0
+        ],
+        "worldPosition": [
+            11.079999923706055,
+            6.25,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "aspid_01",
+        "gameObject": "Geo Small Persistent (1)",
+        "active": true,
+        "localPosition": [
+            15.1899995803833,
+            6.25,
+            0.0
+        ],
+        "worldPosition": [
+            15.1899995803833,
+            6.25,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "bellway_peak_02",
+        "gameObject": "Geo Small Persistent (1)",
+        "active": true,
+        "localPosition": [
+            26.556995391845703,
+            24.360000610351562,
+            0.0
+        ],
+        "worldPosition": [
+            26.556995391845703,
+            24.360000610351562,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "bellway_peak_02",
+        "gameObject": "Geo Small Persistent (3)",
+        "active": true,
+        "localPosition": [
+            31.15999984741211,
+            10.289999961853027,
+            0.0
+        ],
+        "worldPosition": [
+            31.15999984741211,
+            10.289999961853027,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "bellway_peak_02",
+        "gameObject": "Geo Small Persistent (2)",
+        "active": true,
+        "localPosition": [
+            33.0099983215332,
+            10.289999961853027,
+            0.0
+        ],
+        "worldPosition": [
+            33.0099983215332,
+            10.289999961853027,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "bonegrave",
+        "gameObject": "Pilgrim Groups/Rosary Pilgrim Scene/Geo Small Persistent (3)",
+        "active": true,
+        "localPosition": [
+            216.19000244140625,
+            6.309999942779541,
+            0.0
+        ],
+        "worldPosition": [
+            216.19000244140625,
+            6.309999942779541,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "bonegrave",
+        "gameObject": "Pilgrim Groups/Rosary Pilgrim Scene/Geo Small Persistent (5)",
+        "active": true,
+        "localPosition": [
+            226.17999267578125,
+            6.309999942779541,
+            0.0
+        ],
+        "worldPosition": [
+            226.17999267578125,
+            6.309999942779541,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "bonegrave",
+        "gameObject": "Pilgrim Groups/Rosary Pilgrim Scene/Geo Small Persistent (4)",
+        "active": true,
+        "localPosition": [
+            221.92999267578125,
+            6.309999942779541,
+            0.0
+        ],
+        "worldPosition": [
+            221.92999267578125,
+            6.309999942779541,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "bonegrave",
+        "gameObject": "Geo Small Persistent",
+        "active": true,
+        "localPosition": [
+            274.0500183105469,
+            71.37975311279297,
+            0.0
+        ],
+        "worldPosition": [
+            274.0500183105469,
+            71.37975311279297,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "bonegrave",
+        "gameObject": "Geo Small Persistent (1)",
+        "active": true,
+        "localPosition": [
+            272.5299987792969,
+            71.37975311279297,
+            0.0
+        ],
+        "worldPosition": [
+            272.5299987792969,
+            71.37975311279297,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "bonegrave",
+        "gameObject": "Pilgrim Groups/Rosary Pilgrim Scene/Geo Small Persistent (2)",
+        "active": true,
+        "localPosition": [
+            222.9199981689453,
+            6.309999942779541,
+            0.0
+        ],
+        "worldPosition": [
+            222.9199981689453,
+            6.309999942779541,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "bonetown",
+        "gameObject": "Geo Small Persistent (2)",
+        "active": true,
+        "localPosition": [
+            214.97000122070312,
+            79.24009704589844,
+            0.0
+        ],
+        "worldPosition": [
+            214.97000122070312,
+            79.24009704589844,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "bonetown",
+        "gameObject": "Geo Small Persistent (3)",
+        "active": true,
+        "localPosition": [
+            226.24600219726562,
+            79.31244659423828,
+            0.0
+        ],
+        "worldPosition": [
+            226.24600219726562,
+            79.31244659423828,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "bonetown",
+        "gameObject": "Geo Small Persistent (1)",
+        "active": true,
+        "localPosition": [
+            216.22999572753906,
+            79.24009704589844,
+            0.0
+        ],
+        "worldPosition": [
+            216.22999572753906,
+            79.24009704589844,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "bonetown",
+        "gameObject": "Geo Med Persistent",
+        "active": true,
+        "localPosition": [
+            220.6848602294922,
+            79.38577270507812,
+            0.0
+        ],
+        "worldPosition": [
+            220.6848602294922,
+            79.38577270507812,
+            0.0
+        ],
+        "amount": 5
+    },
+    {
+        "sceneName": "bone_01",
+        "gameObject": "Geo Small Persistent (3)",
+        "active": true,
+        "localPosition": [
+            118.33999633789062,
+            6.409999847412109,
+            0.0
+        ],
+        "worldPosition": [
+            118.33999633789062,
+            6.409999847412109,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "bone_01",
+        "gameObject": "Geo Small Persistent (4)",
+        "active": true,
+        "localPosition": [
+            114.87999725341797,
+            6.409999847412109,
+            0.0
+        ],
+        "worldPosition": [
+            114.87999725341797,
+            6.409999847412109,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "bone_01c",
+        "gameObject": "Geo Small Persistent (1)",
+        "active": true,
+        "localPosition": [
+            139.7080078125,
+            6.409999847412109,
+            0.0
+        ],
+        "worldPosition": [
+            139.7080078125,
+            6.409999847412109,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "bone_01c",
+        "gameObject": "Geo Small Persistent (2)",
+        "active": true,
+        "localPosition": [
+            138.76800537109375,
+            6.409999847412109,
+            0.0
+        ],
+        "worldPosition": [
+            138.76800537109375,
+            6.409999847412109,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "bone_01c",
+        "gameObject": "Geo Med Persistent",
+        "active": true,
+        "localPosition": [
+            143.94000244140625,
+            6.329999923706055,
+            0.0
+        ],
+        "worldPosition": [
+            143.94000244140625,
+            6.329999923706055,
+            0.0
+        ],
+        "amount": 5
+    },
+    {
+        "sceneName": "bone_02",
+        "gameObject": "Bellway Pilgrim Corpse/Geo Small Persistent",
+        "active": true,
+        "localPosition": [
+            -2.3399999141693115,
+            -0.9900000095367432,
+            0.0
+        ],
+        "worldPosition": [
+            142.40000557899475,
+            33.32000136375427,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "bone_02",
+        "gameObject": "Bellway Pilgrim Corpse/Geo Small Persistent (1)",
+        "active": true,
+        "localPosition": [
+            -4.340000152587891,
+            -0.9900016784667969,
+            0.0
+        ],
+        "worldPosition": [
+            140.40000534057617,
+            33.31999969482422,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "bone_04",
+        "gameObject": "Geo Small Persistent (6)",
+        "active": true,
+        "localPosition": [
+            61.369998931884766,
+            3.3299999237060547,
+            0.0
+        ],
+        "worldPosition": [
+            61.369998931884766,
+            3.3299999237060547,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "bone_04",
+        "gameObject": "Geo Small Persistent (2)",
+        "active": true,
+        "localPosition": [
+            11.276505470275879,
+            2.5250909328460693,
+            0.0
+        ],
+        "worldPosition": [
+            11.276505470275879,
+            2.5250909328460693,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "bone_04",
+        "gameObject": "Geo Small Persistent",
+        "active": true,
+        "localPosition": [
+            11.997477531433105,
+            2.306614398956299,
+            0.0
+        ],
+        "worldPosition": [
+            11.997477531433105,
+            2.306614398956299,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "bone_04",
+        "gameObject": "Geo Small Persistent (1)",
+        "active": true,
+        "localPosition": [
+            12.64904499053955,
+            2.304441213607788,
+            0.0
+        ],
+        "worldPosition": [
+            12.64904499053955,
+            2.304441213607788,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "bone_04",
+        "gameObject": "Geo Small Persistent (3)",
+        "active": true,
+        "localPosition": [
+            14.073003768920898,
+            2.306614398956299,
+            0.0
+        ],
+        "worldPosition": [
+            14.073003768920898,
+            2.306614398956299,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "bone_04",
+        "gameObject": "Geo Small Persistent (4)",
+        "active": true,
+        "localPosition": [
+            14.859518051147461,
+            2.306614398956299,
+            0.0
+        ],
+        "worldPosition": [
+            14.859518051147461,
+            2.306614398956299,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "bone_04",
+        "gameObject": "Geo Small Persistent (5)",
+        "active": true,
+        "localPosition": [
+            62.220001220703125,
+            3.3299999237060547,
+            0.0
+        ],
+        "worldPosition": [
+            62.220001220703125,
+            3.3299999237060547,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "bone_10",
+        "gameObject": "Geo Small Persistent (1)",
+        "active": true,
+        "localPosition": [
+            94.91000366210938,
+            44.441402435302734,
+            0.0
+        ],
+        "worldPosition": [
+            94.91000366210938,
+            44.441402435302734,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "bone_10",
+        "gameObject": "Geo Small Persistent",
+        "active": true,
+        "localPosition": [
+            96.21261596679688,
+            44.441402435302734,
+            0.0
+        ],
+        "worldPosition": [
+            96.21261596679688,
+            44.441402435302734,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "bone_14",
+        "gameObject": "Geo Small Persistent (1)",
+        "active": true,
+        "localPosition": [
+            115.3499984741211,
+            7.1830549240112305,
+            0.0
+        ],
+        "worldPosition": [
+            115.3499984741211,
+            7.1830549240112305,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "bone_14",
+        "gameObject": "Geo Small Persistent (2)",
+        "active": true,
+        "localPosition": [
+            113.94000244140625,
+            7.1830549240112305,
+            0.0
+        ],
+        "worldPosition": [
+            113.94000244140625,
+            7.1830549240112305,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "bone_14",
+        "gameObject": "Geo Small Persistent",
+        "active": true,
+        "localPosition": [
+            118.64502716064453,
+            7.1830549240112305,
+            0.0
+        ],
+        "worldPosition": [
+            118.64502716064453,
+            7.1830549240112305,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "bone_19",
+        "gameObject": "Geo Small Persistent",
+        "active": true,
+        "localPosition": [
+            32.20773696899414,
+            6.236067771911621,
+            0.0
+        ],
+        "worldPosition": [
+            32.20773696899414,
+            6.236067771911621,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "bone_19",
+        "gameObject": "Geo Small Persistent (1)",
+        "active": true,
+        "localPosition": [
+            33.630001068115234,
+            6.236067771911621,
+            0.0
+        ],
+        "worldPosition": [
+            33.630001068115234,
+            6.236067771911621,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "bone_19",
+        "gameObject": "Geo Small Persistent (2)",
+        "active": true,
+        "localPosition": [
+            28.809999465942383,
+            2.190000057220459,
+            0.0
+        ],
+        "worldPosition": [
+            28.809999465942383,
+            2.190000057220459,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "bone_east_10_room",
+        "gameObject": "Black Thread States/Black Thread World/Geo Small Persistent (3)",
+        "active": true,
+        "localPosition": [
+            5.610000133514404,
+            -1.7000000476837158,
+            0.0
+        ],
+        "worldPosition": [
+            61.09877347946167,
+            12.281866788864136,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "bone_east_10_room",
+        "gameObject": "Black Thread States/Black Thread World/Geo Small Persistent (1)",
+        "active": true,
+        "localPosition": [
+            4.710000038146973,
+            -1.7000000476837158,
+            0.0
+        ],
+        "worldPosition": [
+            60.19877338409424,
+            12.281866788864136,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "bone_east_10_room",
+        "gameObject": "Black Thread States/Black Thread World/Geo Small Persistent",
+        "active": true,
+        "localPosition": [
+            1.2300000190734863,
+            -1.7000000476837158,
+            0.0
+        ],
+        "worldPosition": [
+            56.71877336502075,
+            12.281866788864136,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "chapel_wanderer",
+        "gameObject": "Geo Small Persistent (2)",
+        "active": true,
+        "localPosition": [
+            35.736114501953125,
+            122.2300033569336,
+            0.0
+        ],
+        "worldPosition": [
+            35.736114501953125,
+            122.2300033569336,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "chapel_wanderer",
+        "gameObject": "Geo Small Persistent",
+        "active": true,
+        "localPosition": [
+            37.65999984741211,
+            122.2300033569336,
+            0.0
+        ],
+        "worldPosition": [
+            37.65999984741211,
+            122.2300033569336,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "chapel_wanderer",
+        "gameObject": "Geo Small Persistent (1)",
+        "active": false,
+        "localPosition": [
+            44.77000045776367,
+            122.2300033569336,
+            0.0
+        ],
+        "worldPosition": [
+            44.77000045776367,
+            122.2300033569336,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "chapel_wanderer",
+        "gameObject": "Geo Small Persistent (3)",
+        "active": true,
+        "localPosition": [
+            28.996116638183594,
+            117.20999908447266,
+            0.0
+        ],
+        "worldPosition": [
+            28.996116638183594,
+            117.20999908447266,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "coral_19",
+        "gameObject": "Geo Small Persistent",
+        "active": true,
+        "localPosition": [
+            258.489990234375,
+            43.25,
+            0.0
+        ],
+        "worldPosition": [
+            258.489990234375,
+            43.25,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "coral_19",
+        "gameObject": "Geo Small Persistent (2)",
+        "active": true,
+        "localPosition": [
+            260.08001708984375,
+            43.25,
+            0.0
+        ],
+        "worldPosition": [
+            260.08001708984375,
+            43.25,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "coral_19",
+        "gameObject": "Geo Small Persistent (1)",
+        "active": true,
+        "localPosition": [
+            259.4000244140625,
+            43.25,
+            0.0
+        ],
+        "worldPosition": [
+            259.4000244140625,
+            43.25,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "greymoor_04",
+        "gameObject": "Geo Small Persistent (4)",
+        "active": true,
+        "localPosition": [
+            7.9670000076293945,
+            25.257999420166016,
+            0.0
+        ],
+        "worldPosition": [
+            7.9670000076293945,
+            25.257999420166016,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "greymoor_04",
+        "gameObject": "Geo Small Persistent (1)",
+        "active": true,
+        "localPosition": [
+            31.138181686401367,
+            35.14099884033203,
+            0.0
+        ],
+        "worldPosition": [
+            31.138181686401367,
+            35.14099884033203,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "greymoor_04",
+        "gameObject": "Geo Small Persistent (2)",
+        "active": true,
+        "localPosition": [
+            6.210000038146973,
+            25.224000930786133,
+            0.0
+        ],
+        "worldPosition": [
+            6.210000038146973,
+            25.224000930786133,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "greymoor_04",
+        "gameObject": "Geo Small Persistent (3)",
+        "active": true,
+        "localPosition": [
+            7.053999900817871,
+            25.257999420166016,
+            0.0
+        ],
+        "worldPosition": [
+            7.053999900817871,
+            25.257999420166016,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "greymoor_04",
+        "gameObject": "Geo Small Persistent (5)",
+        "active": true,
+        "localPosition": [
+            5.630000114440918,
+            25.17873191833496,
+            0.006000000052154064
+        ],
+        "worldPosition": [
+            5.630000114440918,
+            25.17873191833496,
+            0.006000000052154064
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "greymoor_04",
+        "gameObject": "Geo Small Persistent",
+        "active": true,
+        "localPosition": [
+            30.131999969482422,
+            35.14099884033203,
+            0.0
+        ],
+        "worldPosition": [
+            30.131999969482422,
+            35.14099884033203,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "greymoor_11",
+        "gameObject": "Geo Small Persistent (1)",
+        "active": true,
+        "localPosition": [
+            62.72999954223633,
+            50.188743591308594,
+            0.0
+        ],
+        "worldPosition": [
+            62.72999954223633,
+            50.188743591308594,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "greymoor_11",
+        "gameObject": "Geo Small Persistent",
+        "active": true,
+        "localPosition": [
+            61.831024169921875,
+            50.188743591308594,
+            0.0
+        ],
+        "worldPosition": [
+            61.831024169921875,
+            50.188743591308594,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "greymoor_15",
+        "gameObject": "Geo Small Persistent",
+        "active": true,
+        "localPosition": [
+            62.099998474121094,
+            24.170000076293945,
+            0.0
+        ],
+        "worldPosition": [
+            62.099998474121094,
+            24.170000076293945,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "greymoor_15",
+        "gameObject": "Geo Small Persistent (1)",
+        "active": true,
+        "localPosition": [
+            59.910423278808594,
+            24.170000076293945,
+            0.0
+        ],
+        "worldPosition": [
+            59.910423278808594,
+            24.170000076293945,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "greymoor_15b",
+        "gameObject": "Geo Small Persistent",
+        "active": true,
+        "localPosition": [
+            181.69383239746094,
+            98.32394409179688,
+            0.0
+        ],
+        "worldPosition": [
+            181.69383239746094,
+            98.32394409179688,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "greymoor_15b",
+        "gameObject": "Geo Small Persistent (3)",
+        "active": true,
+        "localPosition": [
+            172.5500030517578,
+            98.26000213623047,
+            0.0
+        ],
+        "worldPosition": [
+            172.5500030517578,
+            98.26000213623047,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "greymoor_15b",
+        "gameObject": "Geo Small Persistent (1)",
+        "active": true,
+        "localPosition": [
+            175.05999755859375,
+            98.32394409179688,
+            0.0
+        ],
+        "worldPosition": [
+            175.05999755859375,
+            98.32394409179688,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "greymoor_15b",
+        "gameObject": "Geo Small Persistent (2)",
+        "active": true,
+        "localPosition": [
+            171.7100067138672,
+            98.26000213623047,
+            0.0
+        ],
+        "worldPosition": [
+            171.7100067138672,
+            98.26000213623047,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "greymoor_16",
+        "gameObject": "Geo Small Persistent (4)",
+        "active": true,
+        "localPosition": [
+            164.17999267578125,
+            12.260000228881836,
+            0.0
+        ],
+        "worldPosition": [
+            164.17999267578125,
+            12.260000228881836,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "greymoor_16",
+        "gameObject": "Geo Small Persistent (6)",
+        "active": true,
+        "localPosition": [
+            158.19000244140625,
+            12.329999923706055,
+            0.0
+        ],
+        "worldPosition": [
+            158.19000244140625,
+            12.329999923706055,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "greymoor_16",
+        "gameObject": "Geo Small Persistent (5)",
+        "active": true,
+        "localPosition": [
+            158.87998962402344,
+            12.329999923706055,
+            0.0
+        ],
+        "worldPosition": [
+            158.87998962402344,
+            12.329999923706055,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "greymoor_16",
+        "gameObject": "Geo Small Persistent (3)",
+        "active": true,
+        "localPosition": [
+            162.97999572753906,
+            12.260000228881836,
+            0.0
+        ],
+        "worldPosition": [
+            162.97999572753906,
+            12.260000228881836,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "greymoor_16",
+        "gameObject": "Geo Small Persistent (2)",
+        "active": true,
+        "localPosition": [
+            162.22999572753906,
+            12.260000228881836,
+            0.0
+        ],
+        "worldPosition": [
+            162.22999572753906,
+            12.260000228881836,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "greymoor_16",
+        "gameObject": "Geo Med Persistent (1)",
+        "active": true,
+        "localPosition": [
+            156.87998962402344,
+            12.389999389648438,
+            0.0
+        ],
+        "worldPosition": [
+            156.87998962402344,
+            12.389999389648438,
+            0.0
+        ],
+        "amount": 5
+    },
+    {
+        "sceneName": "greymoor_16",
+        "gameObject": "Geo Med Persistent",
+        "active": true,
+        "localPosition": [
+            159.75941467285156,
+            12.389999389648438,
+            0.0
+        ],
+        "worldPosition": [
+            159.75941467285156,
+            12.389999389648438,
+            0.0
+        ],
+        "amount": 5
+    },
+    {
+        "sceneName": "hang_06_bank",
+        "gameObject": "Geo Small Persistent (1)",
+        "active": true,
+        "localPosition": [
+            84.16999816894531,
+            13.319999694824219,
+            0.0
+        ],
+        "worldPosition": [
+            84.16999816894531,
+            13.319999694824219,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "hang_06_bank",
+        "gameObject": "Geo Small Persistent (5)",
+        "active": true,
+        "localPosition": [
+            36.31999969482422,
+            12.649999618530273,
+            0.0
+        ],
+        "worldPosition": [
+            36.31999969482422,
+            12.649999618530273,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "hang_06_bank",
+        "gameObject": "Thief Scene Control/Thieves Not Here/Geo Small Persistent (6)",
+        "active": true,
+        "localPosition": [
+            77.81999969482422,
+            24.2631778717041,
+            0.0
+        ],
+        "worldPosition": [
+            77.81999969482422,
+            24.2631778717041,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "hang_06_bank",
+        "gameObject": "Geo Small Persistent (4)",
+        "active": true,
+        "localPosition": [
+            42.68000030517578,
+            12.262775421142578,
+            0.0
+        ],
+        "worldPosition": [
+            42.68000030517578,
+            12.262775421142578,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "hang_06_bank",
+        "gameObject": "Geo Small Persistent (3)",
+        "active": true,
+        "localPosition": [
+            41.60908508300781,
+            12.262775421142578,
+            0.0
+        ],
+        "worldPosition": [
+            41.60908508300781,
+            12.262775421142578,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "hang_06_bank",
+        "gameObject": "Geo Small Persistent (11)",
+        "active": true,
+        "localPosition": [
+            73.41000366210938,
+            5.230000019073486,
+            0.0
+        ],
+        "worldPosition": [
+            73.41000366210938,
+            5.230000019073486,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "hang_06_bank",
+        "gameObject": "Geo Small Persistent (10)",
+        "active": true,
+        "localPosition": [
+            74.52999877929688,
+            5.230000019073486,
+            0.0
+        ],
+        "worldPosition": [
+            74.52999877929688,
+            5.230000019073486,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "hang_06_bank",
+        "gameObject": "Thief Scene Control/Thieves Not Here/Geo Small Persistent",
+        "active": true,
+        "localPosition": [
+            84.2699966430664,
+            24.2631778717041,
+            0.0
+        ],
+        "worldPosition": [
+            84.2699966430664,
+            24.2631778717041,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "hang_06_bank",
+        "gameObject": "Thief Scene Control/Thieves Not Here/Geo Small Persistent (7)",
+        "active": true,
+        "localPosition": [
+            78.55000305175781,
+            24.2631778717041,
+            0.006000000052154064
+        ],
+        "worldPosition": [
+            78.55000305175781,
+            24.2631778717041,
+            0.006000000052154064
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "mosstown_01",
+        "gameObject": "Geo Small Persistent (2)",
+        "active": true,
+        "localPosition": [
+            126.94630432128906,
+            22.249616622924805,
+            0.0
+        ],
+        "worldPosition": [
+            126.94630432128906,
+            22.249616622924805,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "mosstown_01",
+        "gameObject": "Geo Small Persistent (3)",
+        "active": true,
+        "localPosition": [
+            46.55514144897461,
+            22.285743713378906,
+            0.0
+        ],
+        "worldPosition": [
+            46.55514144897461,
+            22.285743713378906,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "mosstown_01",
+        "gameObject": "Geo Small Persistent (1)",
+        "active": true,
+        "localPosition": [
+            127.63630676269531,
+            22.249616622924805,
+            0.0
+        ],
+        "worldPosition": [
+            127.63630676269531,
+            22.249616622924805,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "mosstown_01",
+        "gameObject": "Geo Small Persistent",
+        "active": true,
+        "localPosition": [
+            128.78285217285156,
+            22.249616622924805,
+            0.0
+        ],
+        "worldPosition": [
+            128.78285217285156,
+            22.249616622924805,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "peak_01",
+        "gameObject": "Geo Small Persistent (1)",
+        "active": true,
+        "localPosition": [
+            85.5199966430664,
+            146.2100067138672,
+            0.0
+        ],
+        "worldPosition": [
+            85.5199966430664,
+            146.2100067138672,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "peak_01",
+        "gameObject": "Geo Small Persistent (2)",
+        "active": true,
+        "localPosition": [
+            84.73999786376953,
+            146.2100067138672,
+            0.0
+        ],
+        "worldPosition": [
+            84.73999786376953,
+            146.2100067138672,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "peak_01",
+        "gameObject": "Geo Small Persistent (3)",
+        "active": true,
+        "localPosition": [
+            82.58999633789062,
+            146.2100067138672,
+            0.0
+        ],
+        "worldPosition": [
+            82.58999633789062,
+            146.2100067138672,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "peak_01",
+        "gameObject": "Geo Small Persistent",
+        "active": true,
+        "localPosition": [
+            87.7300033569336,
+            146.2100067138672,
+            0.0
+        ],
+        "worldPosition": [
+            87.7300033569336,
+            146.2100067138672,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "shellgrave",
+        "gameObject": "Group/Geo Small Persistent",
+        "active": true,
+        "localPosition": [
+            -11.49094009399414,
+            -3.6111345291137695,
+            -2.1950809955596924
+        ],
+        "worldPosition": [
+            55.479061126708984,
+            9.291707992553711,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "shellgrave",
+        "gameObject": "Group/Geo Small Persistent (1)",
+        "active": true,
+        "localPosition": [
+            -9.390937805175781,
+            -3.6111345291137695,
+            -2.1950809955596924
+        ],
+        "worldPosition": [
+            57.579063415527344,
+            9.291707992553711,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "shellwood_11",
+        "gameObject": "Geo Small Persistent (1)",
+        "active": true,
+        "localPosition": [
+            60.65999984741211,
+            20.270000457763672,
+            0.0
+        ],
+        "worldPosition": [
+            60.65999984741211,
+            20.270000457763672,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "shellwood_11",
+        "gameObject": "Geo Small Persistent",
+        "active": true,
+        "localPosition": [
+            59.59000015258789,
+            20.270000457763672,
+            0.0
+        ],
+        "worldPosition": [
+            59.59000015258789,
+            20.270000457763672,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "slab_06",
+        "gameObject": "Geo Small Persistent",
+        "active": true,
+        "localPosition": [
+            88.80000305175781,
+            26.272926330566406,
+            0.0
+        ],
+        "worldPosition": [
+            88.80000305175781,
+            26.272926330566406,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "song_01b",
+        "gameObject": "Geo Small Persistent (1)",
+        "active": true,
+        "localPosition": [
+            14.194007873535156,
+            3.2403321266174316,
+            0.0
+        ],
+        "worldPosition": [
+            14.194007873535156,
+            3.2403321266174316,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "song_01b",
+        "gameObject": "Geo Small Persistent",
+        "active": true,
+        "localPosition": [
+            13.459569931030273,
+            3.203610420227051,
+            0.0
+        ],
+        "worldPosition": [
+            13.459569931030273,
+            3.203610420227051,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "song_01b",
+        "gameObject": "Geo Med Persistent",
+        "active": true,
+        "localPosition": [
+            15.51393985748291,
+            3.297135829925537,
+            0.0
+        ],
+        "worldPosition": [
+            15.51393985748291,
+            3.297135829925537,
+            0.0
+        ],
+        "amount": 5
+    },
+    {
+        "sceneName": "song_07",
+        "gameObject": "Geo Small Persistent",
+        "active": true,
+        "localPosition": [
+            5.059999942779541,
+            4.248743057250977,
+            0.0
+        ],
+        "worldPosition": [
+            5.059999942779541,
+            4.248743057250977,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "song_07",
+        "gameObject": "Geo Med Persistent",
+        "active": true,
+        "localPosition": [
+            5.849999904632568,
+            4.326980113983154,
+            0.0
+        ],
+        "worldPosition": [
+            5.849999904632568,
+            4.326980113983154,
+            0.0
+        ],
+        "amount": 5
+    },
+    {
+        "sceneName": "under_16",
+        "gameObject": "Geo Small Persistent (2)",
+        "active": true,
+        "localPosition": [
+            30.969999313354492,
+            27.222000122070312,
+            0.0
+        ],
+        "worldPosition": [
+            30.969999313354492,
+            27.222000122070312,
+            0.0
+        ],
+        "amount": 1
+    },
+    {
+        "sceneName": "under_16",
+        "gameObject": "Geo Small Persistent",
+        "active": true,
+        "localPosition": [
+            32.560001373291016,
+            27.222000122070312,
+            0.0
+        ],
+        "worldPosition": [
+            32.560001373291016,
+            27.222000122070312,
+            0.0
+        ],
+        "amount": 1
+    }
+]

@@ -1,0 +1,563 @@
+[
+    {
+        "sceneName": "aqueduct_08",
+        "gameObject": "Geo Rock 1 (1)",
+        "active": true,
+        "componentType": "GeoRock",
+        "localPosition": [
+            47.27000045776367,
+            4.079999923706055,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            47.27000045776367,
+            4.079999923706055,
+            0.009999999776482582
+        ],
+        "geoAmount": 20
+    },
+    {
+        "sceneName": "aqueduct_08",
+        "gameObject": "Geo Rock 1",
+        "active": true,
+        "componentType": "GeoRock",
+        "localPosition": [
+            36.22999954223633,
+            4.079999923706055,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            36.22999954223633,
+            4.079999923706055,
+            0.009999999776482582
+        ],
+        "geoAmount": 20
+    },
+    {
+        "sceneName": "aqueduct_08",
+        "gameObject": "Geo Rock 3",
+        "active": true,
+        "componentType": "GeoRock",
+        "localPosition": [
+            39.369998931884766,
+            4.317553520202637,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            39.369998931884766,
+            4.317553520202637,
+            0.009999999776482582
+        ],
+        "geoAmount": 40
+    },
+    {
+        "sceneName": "aspid_01",
+        "gameObject": "Geo Rock 2",
+        "active": true,
+        "componentType": "GeoRock",
+        "localPosition": [
+            8.890000343322754,
+            7.269999980926514,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            8.890000343322754,
+            7.269999980926514,
+            0.009999999776482582
+        ],
+        "geoAmount": 25
+    },
+    {
+        "sceneName": "bone_01c",
+        "gameObject": "Geo Rock 3",
+        "active": true,
+        "componentType": "GeoRock",
+        "localPosition": [
+            184.0500030517578,
+            58.459999084472656,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            184.0500030517578,
+            58.459999084472656,
+            0.009999999776482582
+        ],
+        "geoAmount": 40
+    },
+    {
+        "sceneName": "bone_01c",
+        "gameObject": "Geo Rock 1 (1)",
+        "active": true,
+        "componentType": "GeoRock",
+        "localPosition": [
+            180.02999877929688,
+            57.98424530029297,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            180.02999877929688,
+            57.98424530029297,
+            0.009999999776482582
+        ],
+        "geoAmount": 20
+    },
+    {
+        "sceneName": "bone_04",
+        "gameObject": "Geo Rock 3",
+        "active": true,
+        "componentType": "GeoRock",
+        "localPosition": [
+            205.0302276611328,
+            5.261951923370361,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            205.0302276611328,
+            5.261951923370361,
+            0.009999999776482582
+        ],
+        "geoAmount": 40
+    },
+    {
+        "sceneName": "bone_08",
+        "gameObject": "Geo Rock 1",
+        "active": true,
+        "componentType": "GeoRock",
+        "localPosition": [
+            33.160003662109375,
+            47.07472229003906,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            33.160003662109375,
+            47.07472229003906,
+            0.009999999776482582
+        ],
+        "geoAmount": 20
+    },
+    {
+        "sceneName": "bone_08",
+        "gameObject": "Geo Rock 2",
+        "active": true,
+        "componentType": "GeoRock",
+        "localPosition": [
+            28.790000915527344,
+            47.130001068115234,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            28.790000915527344,
+            47.130001068115234,
+            0.009999999776482582
+        ],
+        "geoAmount": 25
+    },
+    {
+        "sceneName": "bone_14",
+        "gameObject": "Geo Rock 1",
+        "active": true,
+        "componentType": "GeoRock",
+        "localPosition": [
+            129.07000732421875,
+            8.010000228881836,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            129.07000732421875,
+            8.010000228881836,
+            0.007000000216066837
+        ],
+        "geoAmount": 20
+    },
+    {
+        "sceneName": "bone_16",
+        "gameObject": "Geo Rock 1",
+        "active": true,
+        "componentType": "GeoRock",
+        "localPosition": [
+            28.459999084472656,
+            45.02278137207031,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            28.459999084472656,
+            45.02278137207031,
+            0.009999999776482582
+        ],
+        "geoAmount": 20
+    },
+    {
+        "sceneName": "bone_16",
+        "gameObject": "Geo Rock 2 (1)",
+        "active": true,
+        "componentType": "GeoRock",
+        "localPosition": [
+            112.0199966430664,
+            66.14439392089844,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            112.0199966430664,
+            66.14439392089844,
+            0.009999999776482582
+        ],
+        "geoAmount": 25
+    },
+    {
+        "sceneName": "bone_16",
+        "gameObject": "Geo Rock 2",
+        "active": true,
+        "componentType": "GeoRock",
+        "localPosition": [
+            31.488271713256836,
+            45.18229293823242,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            31.488271713256836,
+            45.18229293823242,
+            0.009999999776482582
+        ],
+        "geoAmount": 25
+    },
+    {
+        "sceneName": "bone_east_08",
+        "gameObject": "Geo Rock 2",
+        "active": true,
+        "componentType": "GeoRock",
+        "localPosition": [
+            58.66999816894531,
+            21.100000381469727,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            58.66999816894531,
+            21.100000381469727,
+            0.009999999776482582
+        ],
+        "geoAmount": 25
+    },
+    {
+        "sceneName": "bone_east_15",
+        "gameObject": "Geo Rock 2",
+        "active": true,
+        "componentType": "GeoRock",
+        "localPosition": [
+            48.470001220703125,
+            8.210000038146973,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            48.470001220703125,
+            8.210000038146973,
+            0.009999999776482582
+        ],
+        "geoAmount": 25
+    },
+    {
+        "sceneName": "bone_east_15",
+        "gameObject": "Geo Rock 1",
+        "active": true,
+        "componentType": "GeoRock",
+        "localPosition": [
+            45.48554611206055,
+            7.9857282638549805,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            45.48554611206055,
+            7.9857282638549805,
+            0.009999999776482582
+        ],
+        "geoAmount": 20
+    },
+    {
+        "sceneName": "coral_12",
+        "gameObject": "Geo Rock Deepnest",
+        "active": true,
+        "componentType": "GeoRock",
+        "localPosition": [
+            86.7699966430664,
+            33.59000015258789,
+            0.012529999949038029
+        ],
+        "worldPosition": [
+            86.7699966430664,
+            33.59000015258789,
+            0.012529999949038029
+        ],
+        "geoAmount": 21
+    },
+    {
+        "sceneName": "dust_02",
+        "gameObject": "Geo Rock Deepnest",
+        "active": true,
+        "componentType": "GeoRock",
+        "localPosition": [
+            3.640000104904175,
+            7.820000171661377,
+            0.012529999949038029
+        ],
+        "worldPosition": [
+            3.640000104904175,
+            7.820000171661377,
+            0.012529999949038029
+        ],
+        "geoAmount": 21
+    },
+    {
+        "sceneName": "dust_10",
+        "gameObject": "Geo Rock Deepnest",
+        "active": true,
+        "componentType": "GeoRock",
+        "localPosition": [
+            145.1199951171875,
+            53.65999984741211,
+            0.012529999949038029
+        ],
+        "worldPosition": [
+            145.1199951171875,
+            53.65999984741211,
+            0.012529999949038029
+        ],
+        "geoAmount": 21
+    },
+    {
+        "sceneName": "greymoor_01",
+        "gameObject": "Geo Rock Deepnest",
+        "active": true,
+        "componentType": "GeoRock",
+        "localPosition": [
+            8.550000190734863,
+            16.8799991607666,
+            0.012529999949038029
+        ],
+        "worldPosition": [
+            8.550000190734863,
+            16.8799991607666,
+            0.012529999949038029
+        ],
+        "geoAmount": 21
+    },
+    {
+        "sceneName": "greymoor_04",
+        "gameObject": "Geo Rock Deepnest",
+        "active": true,
+        "componentType": "GeoRock",
+        "localPosition": [
+            32.720001220703125,
+            35.7599983215332,
+            0.012529999949038029
+        ],
+        "worldPosition": [
+            32.720001220703125,
+            35.7599983215332,
+            0.012529999949038029
+        ],
+        "geoAmount": 21
+    },
+    {
+        "sceneName": "greymoor_05",
+        "gameObject": "Geo Rock Deepnest",
+        "active": true,
+        "componentType": "GeoRock",
+        "localPosition": [
+            95.08999633789062,
+            61.81999969482422,
+            0.012529999949038029
+        ],
+        "worldPosition": [
+            95.08999633789062,
+            61.81999969482422,
+            0.012529999949038029
+        ],
+        "geoAmount": 21
+    },
+    {
+        "sceneName": "greymoor_06",
+        "gameObject": "Geo Rock Deepnest",
+        "active": true,
+        "componentType": "GeoRock",
+        "localPosition": [
+            6.369603157043457,
+            78.80081939697266,
+            0.012529999949038029
+        ],
+        "worldPosition": [
+            6.369603157043457,
+            78.80081939697266,
+            0.012529999949038029
+        ],
+        "geoAmount": 21
+    },
+    {
+        "sceneName": "greymoor_07",
+        "gameObject": "Geo Rock Deepnest",
+        "active": true,
+        "componentType": "GeoRock",
+        "localPosition": [
+            68.53182983398438,
+            71.8488540649414,
+            0.012529999949038029
+        ],
+        "worldPosition": [
+            68.53182983398438,
+            71.8488540649414,
+            0.012529999949038029
+        ],
+        "geoAmount": 21
+    },
+    {
+        "sceneName": "greymoor_11",
+        "gameObject": "Geo Rock Deepnest (1)",
+        "active": true,
+        "componentType": "GeoRock",
+        "localPosition": [
+            64.61000061035156,
+            50.880001068115234,
+            0.012529999949038029
+        ],
+        "worldPosition": [
+            64.61000061035156,
+            50.880001068115234,
+            0.012529999949038029
+        ],
+        "geoAmount": 21
+    },
+    {
+        "sceneName": "greymoor_15",
+        "gameObject": "Geo Rock 1",
+        "active": true,
+        "componentType": "GeoRock",
+        "localPosition": [
+            57.28821563720703,
+            74.01197052001953,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            57.28821563720703,
+            74.01197052001953,
+            0.009999999776482582
+        ],
+        "geoAmount": 20
+    },
+    {
+        "sceneName": "shadow_05",
+        "gameObject": "Geo Rock Deepnest",
+        "active": true,
+        "componentType": "GeoRock",
+        "localPosition": [
+            34.964454650878906,
+            16.889999389648438,
+            0.012530088424682617
+        ],
+        "worldPosition": [
+            34.964454650878906,
+            16.889999389648438,
+            0.012530088424682617
+        ],
+        "geoAmount": 21
+    },
+    {
+        "sceneName": "shadow_14",
+        "gameObject": "Geo Rock 1",
+        "active": true,
+        "componentType": "GeoRock",
+        "localPosition": [
+            25.139999389648438,
+            61.94681930541992,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            25.139999389648438,
+            61.94681930541992,
+            0.009999999776482582
+        ],
+        "geoAmount": 20
+    },
+    {
+        "sceneName": "shadow_19",
+        "gameObject": "Geo Rock 1",
+        "active": true,
+        "componentType": "GeoRock",
+        "localPosition": [
+            40.04999923706055,
+            87.08999633789062,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            40.04999923706055,
+            87.08999633789062,
+            0.009999999776482582
+        ],
+        "geoAmount": 20
+    },
+    {
+        "sceneName": "shadow_19",
+        "gameObject": "Geo Rock 3",
+        "active": true,
+        "componentType": "GeoRock",
+        "localPosition": [
+            36.400001525878906,
+            87.41000366210938,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            36.400001525878906,
+            87.41000366210938,
+            0.009999999776482582
+        ],
+        "geoAmount": 40
+    },
+    {
+        "sceneName": "shadow_20",
+        "gameObject": "Geo Rock 1",
+        "active": true,
+        "componentType": "GeoRock",
+        "localPosition": [
+            169.96499633789062,
+            2.96016263961792,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            169.96499633789062,
+            2.96016263961792,
+            0.009999999776482582
+        ],
+        "geoAmount": 20
+    },
+    {
+        "sceneName": "shadow_20",
+        "gameObject": "Geo Rock 3",
+        "active": true,
+        "componentType": "GeoRock",
+        "localPosition": [
+            173.3300018310547,
+            3.348672389984131,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            173.3300018310547,
+            3.348672389984131,
+            0.009999999776482582
+        ],
+        "geoAmount": 40
+    },
+    {
+        "sceneName": "shellwood_26",
+        "gameObject": "Geo Rock 3",
+        "active": true,
+        "componentType": "GeoRock",
+        "localPosition": [
+            98.60399627685547,
+            75.31900024414062,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            98.60399627685547,
+            75.31900024414062,
+            0.009999999776482582
+        ],
+        "geoAmount": 40
+    }
+]

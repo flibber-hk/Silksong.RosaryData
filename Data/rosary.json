@@ -1,0 +1,3612 @@
+[
+    {
+        "sceneName": "ant_05b",
+        "gameObject": "rosary_shrine_small",
+        "active": true,
+        "componentType": "RosaryCacheShrine",
+        "localPosition": [
+            65.16000366210938,
+            38.04999923706055,
+            0.0
+        ],
+        "worldPosition": [
+            65.16000366210938,
+            38.04999923706055,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "belltown",
+        "gameObject": "Mapper Control/Mapper Scenery/Mapper_Hang_Rings/rings/rosary_string_empty (2)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            -2.426666259765625,
+            -1.7866668701171875,
+            0.0
+        ],
+        "worldPosition": [
+            90.17333221435547,
+            16.03333282470703,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "belltown",
+        "gameObject": "Mapper Control/Mapper Scenery/Mapper_Hang_Rings/rings/rosary_string_empty (3)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            0.19000244140625,
+            -0.026666641235351562,
+            0.0
+        ],
+        "worldPosition": [
+            92.79000091552734,
+            17.793333053588867,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "belltown_04",
+        "gameObject": "rosary_cache_bell_ground",
+        "active": true,
+        "componentType": "RosaryCache",
+        "localPosition": [
+            76.93000030517578,
+            47.61000061035156,
+            0.0071999989449977875
+        ],
+        "worldPosition": [
+            76.93000030517578,
+            47.61000061035156,
+            0.0071999989449977875
+        ],
+        "cacheAmt": 30,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 30
+    },
+    {
+        "sceneName": "belltown_04",
+        "gameObject": "rosary_string_medium",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            62.349998474121094,
+            22.911029815673828,
+            0.0
+        ],
+        "worldPosition": [
+            62.349998474121094,
+            22.911029815673828,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 18,
+        "rosaryAmountGuess": 18
+    },
+    {
+        "sceneName": "belltown_04",
+        "gameObject": "rosary_string_empty",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            64.66999816894531,
+            23.6299991607666,
+            0.0
+        ],
+        "worldPosition": [
+            64.66999816894531,
+            23.6299991607666,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "belltown_04",
+        "gameObject": "rosary_string_small",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            63.70973205566406,
+            23.37195587158203,
+            0.0
+        ],
+        "worldPosition": [
+            63.70973205566406,
+            23.37195587158203,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 8,
+        "rosaryAmountGuess": 8
+    },
+    {
+        "sceneName": "belltown_07",
+        "gameObject": "Group/rosary_cache_hang_bell",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            1.1200000047683716,
+            1.440000057220459,
+            2.5804407596588135
+        ],
+        "worldPosition": [
+            26.519999623298645,
+            25.239999294281006,
+            0.00950002670288086
+        ],
+        "cacheAmt": 30,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 30
+    },
+    {
+        "sceneName": "belltown_basement_03",
+        "gameObject": "rosary_cache_bell_ground",
+        "active": true,
+        "componentType": "RosaryCache",
+        "localPosition": [
+            71.31000518798828,
+            115.44000244140625,
+            0.0071999989449977875
+        ],
+        "worldPosition": [
+            71.31000518798828,
+            115.44000244140625,
+            0.0071999989449977875
+        ],
+        "cacheAmt": 30,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 30
+    },
+    {
+        "sceneName": "belltown_basement_03",
+        "gameObject": "rosary_cache_bell_ground (1)",
+        "active": true,
+        "componentType": "RosaryCache",
+        "localPosition": [
+            70.93221282958984,
+            5.1554484367370605,
+            0.0071999989449977875
+        ],
+        "worldPosition": [
+            70.93221282958984,
+            5.1554484367370605,
+            0.0071999989449977875
+        ],
+        "cacheAmt": 30,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 30
+    },
+    {
+        "sceneName": "belltown_basement_03",
+        "gameObject": "rosary_cache_hang_bell",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            110.4803695678711,
+            67.52000427246094,
+            0.009499999694526196
+        ],
+        "worldPosition": [
+            110.4803695678711,
+            67.52000427246094,
+            0.009499999694526196
+        ],
+        "cacheAmt": 30,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 30
+    },
+    {
+        "sceneName": "belltown_room_relic",
+        "gameObject": "rosary_string_empty",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            23.729999542236328,
+            15.930000305175781,
+            0.0
+        ],
+        "worldPosition": [
+            23.729999542236328,
+            15.930000305175781,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "belltown_room_relic",
+        "gameObject": "rosary_string_empty (1)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            24.809999465942383,
+            16.600000381469727,
+            0.0
+        ],
+        "worldPosition": [
+            24.809999465942383,
+            16.600000381469727,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "belltown_room_spare",
+        "gameObject": "furnishings/fairy_lights_states/rosary strings/rosary_string_empty (2)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            0.5199999809265137,
+            3.8399999141693115,
+            3.05859375
+        ],
+        "worldPosition": [
+            25.120412349700928,
+            16.00387167930603,
+            3.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "belltown_room_spare",
+        "gameObject": "furnishings/fairy_lights_states/rosary strings/rosary_string_empty (1)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            1.2000000476837158,
+            4.889999866485596,
+            0.05859375
+        ],
+        "worldPosition": [
+            25.80041241645813,
+            17.053871631622314,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "bellway_peak",
+        "gameObject": "rosary_string_small_mixed",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            10.960000038146973,
+            41.82304000854492,
+            0.0
+        ],
+        "worldPosition": [
+            10.960000038146973,
+            41.82304000854492,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 8,
+        "rosaryAmountGuess": 8
+    },
+    {
+        "sceneName": "bellway_peak",
+        "gameObject": "rosary_string_medium (1)",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            8.789767265319824,
+            40.87940979003906,
+            0.0
+        ],
+        "worldPosition": [
+            8.789767265319824,
+            40.87940979003906,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 18,
+        "rosaryAmountGuess": 18
+    },
+    {
+        "sceneName": "bellway_peak",
+        "gameObject": "rosary_string_medium",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            9.862884521484375,
+            40.226749420166016,
+            0.0
+        ],
+        "worldPosition": [
+            9.862884521484375,
+            40.226749420166016,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 18,
+        "rosaryAmountGuess": 18
+    },
+    {
+        "sceneName": "bellway_peak_02",
+        "gameObject": "rosary_cache_hang",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            24.876995086669922,
+            27.75,
+            0.009499999694526196
+        ],
+        "worldPosition": [
+            24.876995086669922,
+            27.75,
+            0.009499999694526196
+        ],
+        "cacheAmt": 24,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 24
+    },
+    {
+        "sceneName": "bonegrave",
+        "gameObject": "rosary_string_small_half",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            269.85400390625,
+            78.10092163085938,
+            0.0
+        ],
+        "worldPosition": [
+            269.85400390625,
+            78.10092163085938,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "bonegrave",
+        "gameObject": "rosary_string_small",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            270.7926025390625,
+            76.73571014404297,
+            0.0
+        ],
+        "worldPosition": [
+            270.7926025390625,
+            76.73571014404297,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 8,
+        "rosaryAmountGuess": 8
+    },
+    {
+        "sceneName": "bonetown",
+        "gameObject": "rosary_shrine_small",
+        "active": true,
+        "componentType": "RosaryCacheShrine",
+        "localPosition": [
+            153.5869903564453,
+            70.00049591064453,
+            0.0
+        ],
+        "worldPosition": [
+            153.5869903564453,
+            70.00049591064453,
+            0.0
+        ],
+        "cacheAmt": 24,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 24
+    },
+    {
+        "sceneName": "bonetown",
+        "gameObject": "rosary_string_small_half",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            225.3699951171875,
+            85.97000122070312,
+            0.0
+        ],
+        "worldPosition": [
+            225.3699951171875,
+            85.97000122070312,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "bonetown",
+        "gameObject": "rosary_string_medium",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            226.42002868652344,
+            84.13424682617188,
+            0.0
+        ],
+        "worldPosition": [
+            226.42002868652344,
+            84.13424682617188,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 18,
+        "rosaryAmountGuess": 18
+    },
+    {
+        "sceneName": "bonetown",
+        "gameObject": "Mapper Control/Shakra Away/Rings (1)/rosary_string_empty (2)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            298.05999755859375,
+            16.8799991607666,
+            0.0
+        ],
+        "worldPosition": [
+            298.05999755859375,
+            16.8799991607666,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "bonetown",
+        "gameObject": "Mapper Control/Shakra Resting/Rings/rosary_string_empty (2)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            298.05999755859375,
+            16.8799991607666,
+            0.0
+        ],
+        "worldPosition": [
+            298.05999755859375,
+            16.8799991607666,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "bonetown",
+        "gameObject": "Mapper Control/Shakra Away/Rings (1)/rosary_string_empty (3)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            300.5199890136719,
+            18.639999389648438,
+            0.0
+        ],
+        "worldPosition": [
+            300.5199890136719,
+            18.639999389648438,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "bonetown",
+        "gameObject": "Mapper Control/Shakra Resting/Rings/rosary_string_empty (4)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            302.8800048828125,
+            20.479999542236328,
+            0.0
+        ],
+        "worldPosition": [
+            302.8800048828125,
+            20.479999542236328,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "bonetown",
+        "gameObject": "rosary_string_empty",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            154.1999969482422,
+            75.69000244140625,
+            0.0
+        ],
+        "worldPosition": [
+            154.1999969482422,
+            75.69000244140625,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "bonetown",
+        "gameObject": "rosary_string_empty (1)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            152.7100067138672,
+            76.12999725341797,
+            0.0
+        ],
+        "worldPosition": [
+            152.7100067138672,
+            76.12999725341797,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "bonetown",
+        "gameObject": "rosary_string_empty (2)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            227.75,
+            84.9000015258789,
+            1.3009999990463257
+        ],
+        "worldPosition": [
+            227.75,
+            84.9000015258789,
+            1.3009999990463257
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "bonetown",
+        "gameObject": "Mapper Control/Shakra Away/Rings (1)/rosary_string_empty (4)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            302.8800048828125,
+            20.479999542236328,
+            0.0
+        ],
+        "worldPosition": [
+            302.8800048828125,
+            20.479999542236328,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "bonetown",
+        "gameObject": "Mapper Control/Shakra Resting/Rings/rosary_string_empty (3)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            300.5199890136719,
+            18.639999389648438,
+            0.0
+        ],
+        "worldPosition": [
+            300.5199890136719,
+            18.639999389648438,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "bone_01",
+        "gameObject": "rosary_string_small_half (2)",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            116.7300033569336,
+            13.760000228881836,
+            0.0
+        ],
+        "worldPosition": [
+            116.7300033569336,
+            13.760000228881836,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "bone_01",
+        "gameObject": "rosary_string_small",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            117.58999633789062,
+            12.949999809265137,
+            0.0
+        ],
+        "worldPosition": [
+            117.58999633789062,
+            12.949999809265137,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 8,
+        "rosaryAmountGuess": 8
+    },
+    {
+        "sceneName": "bone_01b",
+        "gameObject": "rosary_shrine_small",
+        "active": true,
+        "componentType": "RosaryCacheShrine",
+        "localPosition": [
+            6.8142924308776855,
+            85.98127746582031,
+            0.0
+        ],
+        "worldPosition": [
+            6.8142924308776855,
+            85.98127746582031,
+            0.0
+        ],
+        "cacheAmt": 24,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 24
+    },
+    {
+        "sceneName": "bone_01b",
+        "gameObject": "rosary_string_small_half",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            14.100000381469727,
+            88.0,
+            0.0
+        ],
+        "worldPosition": [
+            14.100000381469727,
+            88.0,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "bone_01b",
+        "gameObject": "rosary_string_small",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            13.015054702758789,
+            87.4310302734375,
+            0.0
+        ],
+        "worldPosition": [
+            13.015054702758789,
+            87.4310302734375,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 8,
+        "rosaryAmountGuess": 8
+    },
+    {
+        "sceneName": "bone_01c",
+        "gameObject": "rosary_string_small_half (1)",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            138.47000122070312,
+            13.130000114440918,
+            0.0
+        ],
+        "worldPosition": [
+            138.47000122070312,
+            13.130000114440918,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "bone_01c",
+        "gameObject": "rosary_string_medium",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            139.42999267578125,
+            11.739999771118164,
+            0.0
+        ],
+        "worldPosition": [
+            139.42999267578125,
+            11.739999771118164,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 18,
+        "rosaryAmountGuess": 18
+    },
+    {
+        "sceneName": "bone_10",
+        "gameObject": "rosary_shrine_small",
+        "active": true,
+        "componentType": "RosaryCacheShrine",
+        "localPosition": [
+            7.934762001037598,
+            44.189998626708984,
+            0.0
+        ],
+        "worldPosition": [
+            7.934762001037598,
+            44.189998626708984,
+            0.0
+        ],
+        "cacheAmt": 24,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 24
+    },
+    {
+        "sceneName": "bone_11",
+        "gameObject": "rosary_string_small_mixed",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            9.729999542236328,
+            12.470000267028809,
+            0.0010999999940395355
+        ],
+        "worldPosition": [
+            9.729999542236328,
+            12.470000267028809,
+            0.0010999999940395355
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 8,
+        "rosaryAmountGuess": 8
+    },
+    {
+        "sceneName": "bone_11",
+        "gameObject": "rosary_string_small",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            8.850000381469727,
+            11.720000267028809,
+            0.0010000000474974513
+        ],
+        "worldPosition": [
+            8.850000381469727,
+            11.720000267028809,
+            0.0010000000474974513
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 8,
+        "rosaryAmountGuess": 8
+    },
+    {
+        "sceneName": "bone_19",
+        "gameObject": "Group/rosary_string_small_half (1)",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            -33.7400016784668,
+            7.010000228881836,
+            0.4411369562149048
+        ],
+        "worldPosition": [
+            50.65999984741211,
+            22.3100004196167,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "bone_19",
+        "gameObject": "Group/rosary_string_small_half",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            55.18114471435547,
+            2.874429702758789,
+            0.4411369562149048
+        ],
+        "worldPosition": [
+            139.58114624023438,
+            18.174429893493652,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "bone_19",
+        "gameObject": "Group/rosary_string_empty (3)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            -33.10387420654297,
+            6.201074600219727,
+            0.4411369562149048
+        ],
+        "worldPosition": [
+            51.29612731933594,
+            21.50107479095459,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "bone_19",
+        "gameObject": "Group/rosary_string_empty (2)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            -34.7599983215332,
+            5.941076278686523,
+            0.4411369562149048
+        ],
+        "worldPosition": [
+            49.6400032043457,
+            21.241076469421387,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "bone_19",
+        "gameObject": "Group/rosary_string_empty",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            49.84632110595703,
+            3.032949447631836,
+            0.4411369562149048
+        ],
+        "worldPosition": [
+            134.24632263183594,
+            18.3329496383667,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "bone_19",
+        "gameObject": "Group/rosary_string_empty (1)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            48.616127014160156,
+            2.841075897216797,
+            0.4411369562149048
+        ],
+        "worldPosition": [
+            133.01612854003906,
+            18.14107608795166,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "bone_19",
+        "gameObject": "Group/rosary_string_small",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            54.080284118652344,
+            2.162111282348633,
+            0.4411369562149048
+        ],
+        "worldPosition": [
+            138.48028564453125,
+            17.462111473083496,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 8,
+        "rosaryAmountGuess": 8
+    },
+    {
+        "sceneName": "bone_east_07",
+        "gameObject": "rosary_string_small_half",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            10.79456901550293,
+            168.5746307373047,
+            0.0
+        ],
+        "worldPosition": [
+            10.79456901550293,
+            168.5746307373047,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "bone_east_07",
+        "gameObject": "rosary_string_empty",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            12.239631652832031,
+            169.16000366210938,
+            0.0
+        ],
+        "worldPosition": [
+            12.239631652832031,
+            169.16000366210938,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "bone_east_14",
+        "gameObject": "rosary_string_medium",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            87.36000061035156,
+            42.38999938964844,
+            0.0
+        ],
+        "worldPosition": [
+            87.36000061035156,
+            42.38999938964844,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 18,
+        "rosaryAmountGuess": 18
+    },
+    {
+        "sceneName": "bone_east_14",
+        "gameObject": "rosary_string_empty",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            89.27786254882812,
+            43.30990219116211,
+            0.0
+        ],
+        "worldPosition": [
+            89.27786254882812,
+            43.30990219116211,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "bone_east_14",
+        "gameObject": "rosary_string_small",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            88.28504943847656,
+            42.72999954223633,
+            0.0
+        ],
+        "worldPosition": [
+            88.28504943847656,
+            42.72999954223633,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 8,
+        "rosaryAmountGuess": 8
+    },
+    {
+        "sceneName": "bone_east_14b",
+        "gameObject": "Black Thread States Thread Only Variant/Normal World/rosary_string_small_half",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            50.96984100341797,
+            34.757476806640625,
+            0.0
+        ],
+        "worldPosition": [
+            251.54199981689453,
+            58.01287078857422,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "bone_east_14b",
+        "gameObject": "Black Thread States Thread Only Variant/Normal World/rosary_string_small",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            50.054195404052734,
+            34.01127243041992,
+            0.0
+        ],
+        "worldPosition": [
+            250.6263542175293,
+            57.266666412353516,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 8,
+        "rosaryAmountGuess": 8
+    },
+    {
+        "sceneName": "chapel_wanderer",
+        "gameObject": "rosary_string_small_half (4)",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            11.359999656677246,
+            106.69000244140625,
+            0.0
+        ],
+        "worldPosition": [
+            11.359999656677246,
+            106.69000244140625,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "chapel_wanderer",
+        "gameObject": "rosary_string_small_half (1)",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            8.254985809326172,
+            106.69000244140625,
+            0.0
+        ],
+        "worldPosition": [
+            8.254985809326172,
+            106.69000244140625,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "chapel_wanderer",
+        "gameObject": "rosary_string_small_half (5)",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            79.52611541748047,
+            110.79000091552734,
+            0.0
+        ],
+        "worldPosition": [
+            79.52611541748047,
+            110.79000091552734,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "chapel_wanderer",
+        "gameObject": "rosary_string_medium",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            80.7296371459961,
+            109.59192657470703,
+            0.0
+        ],
+        "worldPosition": [
+            80.7296371459961,
+            109.59192657470703,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 18,
+        "rosaryAmountGuess": 18
+    },
+    {
+        "sceneName": "chapel_wanderer",
+        "gameObject": "Group (1)/rosary_string_empty (6)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            -235.72900390625,
+            -10.498260498046875,
+            -2.7880165576934814
+        ],
+        "worldPosition": [
+            44.6671142578125,
+            67.30174255371094,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "chapel_wanderer",
+        "gameObject": "rosary_string_empty (4)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            41.34611511230469,
+            135.07000732421875,
+            0.059999942779541016
+        ],
+        "worldPosition": [
+            41.34611511230469,
+            135.07000732421875,
+            0.059999942779541016
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "chapel_wanderer",
+        "gameObject": "rosary_string_empty (6)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            65.17611694335938,
+            109.94999694824219,
+            0.059999942779541016
+        ],
+        "worldPosition": [
+            65.17611694335938,
+            109.94999694824219,
+            0.059999942779541016
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "chapel_wanderer",
+        "gameObject": "rosary_string_empty (5)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            39.856117248535156,
+            135.63999938964844,
+            3.428999900817871
+        ],
+        "worldPosition": [
+            39.856117248535156,
+            135.63999938964844,
+            3.428999900817871
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "dock_02",
+        "gameObject": "rosary_string_small_half (1)",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            103.04000091552734,
+            57.540000915527344,
+            0.0
+        ],
+        "worldPosition": [
+            103.04000091552734,
+            57.540000915527344,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "dock_02",
+        "gameObject": "rosary_string_small_half (2)",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            103.91999816894531,
+            58.09000015258789,
+            0.0
+        ],
+        "worldPosition": [
+            103.91999816894531,
+            58.09000015258789,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "dock_06_church",
+        "gameObject": "Black Thread States Thread Only Variant/Normal World/rosary_string_small_half (1)",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            29.147533416748047,
+            14.474108695983887,
+            0.0
+        ],
+        "worldPosition": [
+            29.54460906982422,
+            30.948250770568848,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "dock_06_church",
+        "gameObject": "rosary_string_small_half",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            41.892173767089844,
+            30.57133674621582,
+            0.0
+        ],
+        "worldPosition": [
+            41.892173767089844,
+            30.57133674621582,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "dock_06_church",
+        "gameObject": "Black Thread States Thread Only Variant/Normal World/rosary_string_small (1)",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            26.66126823425293,
+            12.28079605102539,
+            0.0
+        ],
+        "worldPosition": [
+            27.0583438873291,
+            28.75493812561035,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 8,
+        "rosaryAmountGuess": 8
+    },
+    {
+        "sceneName": "dock_06_church",
+        "gameObject": "rosary_string_small",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            40.647335052490234,
+            29.80246353149414,
+            0.0
+        ],
+        "worldPosition": [
+            40.647335052490234,
+            29.80246353149414,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 8,
+        "rosaryAmountGuess": 8
+    },
+    {
+        "sceneName": "dust_02",
+        "gameObject": "Black Thread States Thread Only Variant/Normal World/cage_mid_small_sway (1)/Art Parent/Art/rosary_string_small_half",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            -1.5263633728027344,
+            1.5500030517578125,
+            0.0
+        ],
+        "worldPosition": [
+            23.166515350341797,
+            73.18149375915527,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "dust_02",
+        "gameObject": "Black Thread States Thread Only Variant/Normal World/cage_mid_small_sway (1)/Art Parent/Art/rosary_string_small_half (1)",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            -0.7700004577636719,
+            1.9499969482421875,
+            0.0
+        ],
+        "worldPosition": [
+            23.92287826538086,
+            73.58148765563965,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "dust_03",
+        "gameObject": "rosary_string_small_half",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            68.56829833984375,
+            23.115766525268555,
+            0.0
+        ],
+        "worldPosition": [
+            68.56829833984375,
+            23.115766525268555,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "dust_03",
+        "gameObject": "rosary_string_empty (1)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            67.19000244140625,
+            22.309999465942383,
+            0.9900000095367432
+        ],
+        "worldPosition": [
+            67.19000244140625,
+            22.309999465942383,
+            0.9900000095367432
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "dust_03",
+        "gameObject": "rosary_string_empty",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            69.44000244140625,
+            21.56999969482422,
+            0.0
+        ],
+        "worldPosition": [
+            69.44000244140625,
+            21.56999969482422,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "dust_06",
+        "gameObject": "cage_mid_small_longer_sway/Art Parent/Art/rosary_string_small_half",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            0.07999992370605469,
+            1.3300018310546875,
+            0.0
+        ],
+        "worldPosition": [
+            12.619999885559082,
+            84.72000122070312,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "dust_06",
+        "gameObject": "cage_mid_small_longer_sway/Art Parent/Art/rosary_string_medium",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            -1.6139640808105469,
+            -1.0441741943359375,
+            0.0
+        ],
+        "worldPosition": [
+            10.92603588104248,
+            82.3458251953125,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 18,
+        "rosaryAmountGuess": 18
+    },
+    {
+        "sceneName": "dust_06",
+        "gameObject": "cage_mid_small_longer_sway/Art Parent/Art/rosary_string_small",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            -0.7399997711181641,
+            0.2700042724609375,
+            0.0
+        ],
+        "worldPosition": [
+            11.800000190734863,
+            83.66000366210938,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 8,
+        "rosaryAmountGuess": 8
+    },
+    {
+        "sceneName": "greymoor_02",
+        "gameObject": "rosary_string_small_half",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            52.9483528137207,
+            96.33983612060547,
+            0.0
+        ],
+        "worldPosition": [
+            52.9483528137207,
+            96.33983612060547,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "greymoor_02",
+        "gameObject": "rosary_string_small",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            52.0099983215332,
+            95.12000274658203,
+            0.0
+        ],
+        "worldPosition": [
+            52.0099983215332,
+            95.12000274658203,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 8,
+        "rosaryAmountGuess": 8
+    },
+    {
+        "sceneName": "greymoor_03",
+        "gameObject": "rosary_string_small_half",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            91.11000061035156,
+            101.8499984741211,
+            0.0
+        ],
+        "worldPosition": [
+            91.11000061035156,
+            101.8499984741211,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "greymoor_03",
+        "gameObject": "rosary_string_small",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            89.76701354980469,
+            100.71553039550781,
+            0.0
+        ],
+        "worldPosition": [
+            89.76701354980469,
+            100.71553039550781,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 8,
+        "rosaryAmountGuess": 8
+    },
+    {
+        "sceneName": "greymoor_05",
+        "gameObject": "rosary_string_small_half",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            6.619999885559082,
+            24.709999084472656,
+            0.0
+        ],
+        "worldPosition": [
+            6.619999885559082,
+            24.709999084472656,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "greymoor_05",
+        "gameObject": "rosary_string_small_half (1)",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            7.349999904632568,
+            25.950000762939453,
+            0.0
+        ],
+        "worldPosition": [
+            7.349999904632568,
+            25.950000762939453,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "greymoor_05",
+        "gameObject": "rosary_string_empty (1)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            21.459999084472656,
+            55.7599983215332,
+            1.25
+        ],
+        "worldPosition": [
+            21.459999084472656,
+            55.7599983215332,
+            1.25
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "greymoor_05",
+        "gameObject": "rosary_string_empty (2)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            7.480000019073486,
+            55.13999938964844,
+            1.25
+        ],
+        "worldPosition": [
+            7.480000019073486,
+            55.13999938964844,
+            1.25
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "greymoor_05",
+        "gameObject": "rosary_string_empty",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            22.850000381469727,
+            55.150001525878906,
+            1.25
+        ],
+        "worldPosition": [
+            22.850000381469727,
+            55.150001525878906,
+            1.25
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "greymoor_07",
+        "gameObject": "rosary_shrine_small",
+        "active": true,
+        "componentType": "RosaryCacheShrine",
+        "localPosition": [
+            28.110000610351562,
+            11.037420272827148,
+            0.0
+        ],
+        "worldPosition": [
+            28.110000610351562,
+            11.037420272827148,
+            0.0
+        ],
+        "cacheAmt": 24,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 24
+    },
+    {
+        "sceneName": "greymoor_07",
+        "gameObject": "rosary_string_small_half (1)",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            28.43381690979004,
+            16.25,
+            0.0
+        ],
+        "worldPosition": [
+            28.43381690979004,
+            16.25,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "greymoor_07",
+        "gameObject": "rosary_string_small",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            27.329423904418945,
+            15.29284381866455,
+            0.0
+        ],
+        "worldPosition": [
+            27.329423904418945,
+            15.29284381866455,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 8,
+        "rosaryAmountGuess": 8
+    },
+    {
+        "sceneName": "greymoor_08",
+        "gameObject": "rosary_string_small_half",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            140.0824737548828,
+            33.81586837768555,
+            0.0
+        ],
+        "worldPosition": [
+            140.0824737548828,
+            33.81586837768555,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "greymoor_08",
+        "gameObject": "rosary_string_empty",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            140.9499969482422,
+            33.75,
+            0.0
+        ],
+        "worldPosition": [
+            140.9499969482422,
+            33.75,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "greymoor_11",
+        "gameObject": "rosary_string_small_half",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            25.897401809692383,
+            57.08563995361328,
+            0.0
+        ],
+        "worldPosition": [
+            25.897401809692383,
+            57.08563995361328,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "greymoor_11",
+        "gameObject": "rosary_string_small",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            25.059999465942383,
+            55.67647171020508,
+            0.0
+        ],
+        "worldPosition": [
+            25.059999465942383,
+            55.67647171020508,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 8,
+        "rosaryAmountGuess": 8
+    },
+    {
+        "sceneName": "greymoor_15b",
+        "gameObject": "rosary_string_small_half (2)",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            197.47000122070312,
+            44.20000076293945,
+            0.0
+        ],
+        "worldPosition": [
+            197.47000122070312,
+            44.20000076293945,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "greymoor_15b",
+        "gameObject": "rosary_string_small_half (3)",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            182.97999572753906,
+            103.6500015258789,
+            0.0
+        ],
+        "worldPosition": [
+            182.97999572753906,
+            103.6500015258789,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "greymoor_15b",
+        "gameObject": "rosary_string_small_half (1)",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            204.0500030517578,
+            69.66999816894531,
+            0.0
+        ],
+        "worldPosition": [
+            204.0500030517578,
+            69.66999816894531,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "greymoor_15b",
+        "gameObject": "Group/rosary_string_empty - Tri Pin",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            0.7299957275390625,
+            7.670005798339844,
+            3.253124952316284
+        ],
+        "worldPosition": [
+            184.3199920654297,
+            102.92000579833984,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "greymoor_15b",
+        "gameObject": "rosary_string_empty",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            198.49000549316406,
+            44.09000015258789,
+            0.0
+        ],
+        "worldPosition": [
+            198.49000549316406,
+            44.09000015258789,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "greymoor_15b",
+        "gameObject": "rosary_string_small",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            205.73460388183594,
+            67.430419921875,
+            0.0
+        ],
+        "worldPosition": [
+            205.73460388183594,
+            67.430419921875,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 8,
+        "rosaryAmountGuess": 8
+    },
+    {
+        "sceneName": "greymoor_16",
+        "gameObject": "rosary_string_small_half",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            162.37818908691406,
+            26.585750579833984,
+            0.0
+        ],
+        "worldPosition": [
+            162.37818908691406,
+            26.585750579833984,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "greymoor_16",
+        "gameObject": "rosary_string_medium",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            160.61000061035156,
+            24.84000015258789,
+            0.0
+        ],
+        "worldPosition": [
+            160.61000061035156,
+            24.84000015258789,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 18,
+        "rosaryAmountGuess": 18
+    },
+    {
+        "sceneName": "greymoor_16",
+        "gameObject": "rosary_string_empty (1)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            162.67999267578125,
+            26.770000457763672,
+            2.200000047683716
+        ],
+        "worldPosition": [
+            162.67999267578125,
+            26.770000457763672,
+            2.200000047683716
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "greymoor_16",
+        "gameObject": "rosary_string_empty",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            159.61038208007812,
+            26.910539627075195,
+            0.0
+        ],
+        "worldPosition": [
+            159.61038208007812,
+            26.910539627075195,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "greymoor_16",
+        "gameObject": "rosary_string_small",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            161.48451232910156,
+            25.565900802612305,
+            0.0
+        ],
+        "worldPosition": [
+            161.48451232910156,
+            25.565900802612305,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 8,
+        "rosaryAmountGuess": 8
+    },
+    {
+        "sceneName": "greymoor_20b",
+        "gameObject": "scissor_string (7)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            21.770000457763672,
+            11.180000305175781,
+            5.690000057220459
+        ],
+        "worldPosition": [
+            21.770000457763672,
+            11.180000305175781,
+            5.690000057220459
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "greymoor_20b",
+        "gameObject": "scissor_string (5)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            13.199999809265137,
+            11.619999885559082,
+            0.0
+        ],
+        "worldPosition": [
+            13.199999809265137,
+            11.619999885559082,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "greymoor_20b",
+        "gameObject": "scissor_string (6)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            20.290000915527344,
+            13.140000343322754,
+            5.46999979019165
+        ],
+        "worldPosition": [
+            20.290000915527344,
+            13.140000343322754,
+            5.46999979019165
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "greymoor_20b",
+        "gameObject": "scissor_string (4)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            18.299997329711914,
+            12.739995956420898,
+            0.0
+        ],
+        "worldPosition": [
+            18.299997329711914,
+            12.739995956420898,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "greymoor_20c",
+        "gameObject": "scissor_string (8)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            46.849998474121094,
+            77.55000305175781,
+            0.36000001430511475
+        ],
+        "worldPosition": [
+            46.849998474121094,
+            77.55000305175781,
+            0.36000001430511475
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "greymoor_20c",
+        "gameObject": "scissor_string (7)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            44.599998474121094,
+            27.6200008392334,
+            0.00950002670288086
+        ],
+        "worldPosition": [
+            44.599998474121094,
+            27.6200008392334,
+            0.00950002670288086
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "greymoor_20c",
+        "gameObject": "scissor_string (2)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            29.100000381469727,
+            55.84000015258789,
+            0.029999971389770508
+        ],
+        "worldPosition": [
+            29.100000381469727,
+            55.84000015258789,
+            0.029999971389770508
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "greymoor_20c",
+        "gameObject": "scissor_string (4)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            40.959999084472656,
+            70.30999755859375,
+            0.0
+        ],
+        "worldPosition": [
+            40.959999084472656,
+            70.30999755859375,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "greymoor_20c",
+        "gameObject": "scissor_string (1)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            27.860000610351562,
+            54.369998931884766,
+            -0.08000004291534424
+        ],
+        "worldPosition": [
+            27.860000610351562,
+            54.369998931884766,
+            -0.08000004291534424
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "greymoor_20c",
+        "gameObject": "scissor_string (6)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            48.09000015258789,
+            25.81999969482422,
+            -0.08000004291534424
+        ],
+        "worldPosition": [
+            48.09000015258789,
+            25.81999969482422,
+            -0.08000004291534424
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "greymoor_20c",
+        "gameObject": "scissor_string (5)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            39.029998779296875,
+            70.16999816894531,
+            0.2999999523162842
+        ],
+        "worldPosition": [
+            39.029998779296875,
+            70.16999816894531,
+            0.2999999523162842
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "greymoor_20c",
+        "gameObject": "scissor_string (9)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            48.5,
+            75.47000122070312,
+            0.11000001430511475
+        ],
+        "worldPosition": [
+            48.5,
+            75.47000122070312,
+            0.11000001430511475
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "greymoor_22",
+        "gameObject": "rosary_string_small_half",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            88.56999969482422,
+            31.712984085083008,
+            0.0
+        ],
+        "worldPosition": [
+            88.56999969482422,
+            31.712984085083008,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "greymoor_22",
+        "gameObject": "rosary_string_empty (3)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            89.37000274658203,
+            30.65999984741211,
+            0.0
+        ],
+        "worldPosition": [
+            89.37000274658203,
+            30.65999984741211,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "greymoor_22",
+        "gameObject": "rosary_string_empty (1)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            86.63999938964844,
+            41.06999969482422,
+            0.0
+        ],
+        "worldPosition": [
+            86.63999938964844,
+            41.06999969482422,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "greymoor_22",
+        "gameObject": "rosary_string_empty (2)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            102.47000122070312,
+            38.83000183105469,
+            0.0
+        ],
+        "worldPosition": [
+            102.47000122070312,
+            38.83000183105469,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "greymoor_22",
+        "gameObject": "rosary_string_empty",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            85.73999786376953,
+            41.68000030517578,
+            0.0
+        ],
+        "worldPosition": [
+            85.73999786376953,
+            41.68000030517578,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "greymoor_22",
+        "gameObject": "rosary_string_small",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            104.60346984863281,
+            33.57070541381836,
+            0.0
+        ],
+        "worldPosition": [
+            104.60346984863281,
+            33.57070541381836,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 8,
+        "rosaryAmountGuess": 8
+    },
+    {
+        "sceneName": "hang_06_bank",
+        "gameObject": "Thief Scene Control/Thieves Not Here/rosary_string_small_half",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            85.42288208007812,
+            41.89263153076172,
+            0.0
+        ],
+        "worldPosition": [
+            85.42288208007812,
+            41.89263153076172,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "hang_06_bank",
+        "gameObject": "Thief Scene Control/Thieves Not Here/rosary_string_small_half (1)",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            91.58999633789062,
+            32.09000015258789,
+            0.0
+        ],
+        "worldPosition": [
+            91.58999633789062,
+            32.09000015258789,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "hang_06_bank",
+        "gameObject": "Thief Scene Control/Thieves Not Here/rosary_string_medium",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            86.3822021484375,
+            40.6135368347168,
+            0.0
+        ],
+        "worldPosition": [
+            86.3822021484375,
+            40.6135368347168,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 18,
+        "rosaryAmountGuess": 18
+    },
+    {
+        "sceneName": "hang_06_bank",
+        "gameObject": "Thief Scene Control/Thieves Here/rosary_string_empty",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            91.98234558105469,
+            40.5099983215332,
+            0.0
+        ],
+        "worldPosition": [
+            91.98234558105469,
+            40.5099983215332,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "hang_06_bank",
+        "gameObject": "Thief Scene Control/Thieves Here/rosary_string_empty (3)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            86.38999938964844,
+            41.06999969482422,
+            0.0
+        ],
+        "worldPosition": [
+            86.38999938964844,
+            41.06999969482422,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "hang_06_bank",
+        "gameObject": "Thief Scene Control/Thieves Here/rosary_string_empty (1)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            81.82376098632812,
+            40.61000061035156,
+            0.0
+        ],
+        "worldPosition": [
+            81.82376098632812,
+            40.61000061035156,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "hang_06_bank",
+        "gameObject": "Thief Scene Control/Thieves Here/rosary_string_empty (2)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            80.93000030517578,
+            41.040000915527344,
+            0.0
+        ],
+        "worldPosition": [
+            80.93000030517578,
+            41.040000915527344,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "hang_06_bank",
+        "gameObject": "Thief Scene Control/Thieves Not Here/rosary_string_small",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            80.9244155883789,
+            40.69287872314453,
+            0.0
+        ],
+        "worldPosition": [
+            80.9244155883789,
+            40.69287872314453,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 8,
+        "rosaryAmountGuess": 8
+    },
+    {
+        "sceneName": "hang_06_bank",
+        "gameObject": "Thief Scene Control/Thieves Not Here/rosary_string_large_full Variant",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            91.98234558105469,
+            39.62599182128906,
+            0.0
+        ],
+        "worldPosition": [
+            91.98234558105469,
+            39.62599182128906,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 60,
+        "rosaryAmountGuess": 60
+    },
+    {
+        "sceneName": "hang_06_bank",
+        "gameObject": "Thief Scene Control/Thieves Not Here/rosary_string_large_mixed Variant",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            81.82376098632812,
+            40.14686965942383,
+            0.0
+        ],
+        "worldPosition": [
+            81.82376098632812,
+            40.14686965942383,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 48,
+        "rosaryAmountGuess": 48
+    },
+    {
+        "sceneName": "library_04",
+        "gameObject": "rosary_bucket_library",
+        "active": true,
+        "componentType": "RosaryCache",
+        "localPosition": [
+            51.38999938964844,
+            78.9800033569336,
+            0.0
+        ],
+        "worldPosition": [
+            51.38999938964844,
+            78.9800033569336,
+            0.0
+        ],
+        "cacheAmt": 30,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 30
+    },
+    {
+        "sceneName": "library_06",
+        "gameObject": "rosary_bucket_library",
+        "active": true,
+        "componentType": "RosaryCache",
+        "localPosition": [
+            38.83815002441406,
+            64.69173431396484,
+            0.0
+        ],
+        "worldPosition": [
+            38.83815002441406,
+            64.69173431396484,
+            0.0
+        ],
+        "cacheAmt": 30,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 30
+    },
+    {
+        "sceneName": "library_06",
+        "gameObject": "rosary_string_small_half",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            37.16389465332031,
+            68.37189483642578,
+            0.0
+        ],
+        "worldPosition": [
+            37.16389465332031,
+            68.37189483642578,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "library_06",
+        "gameObject": "rosary_string_small",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            36.15999984741211,
+            67.12999725341797,
+            0.0
+        ],
+        "worldPosition": [
+            36.15999984741211,
+            67.12999725341797,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 8,
+        "rosaryAmountGuess": 8
+    },
+    {
+        "sceneName": "library_07",
+        "gameObject": "rosary_cache_bell_ground",
+        "active": true,
+        "componentType": "RosaryCache",
+        "localPosition": [
+            39.54999923706055,
+            138.4600067138672,
+            0.007199999876320362
+        ],
+        "worldPosition": [
+            39.54999923706055,
+            138.4600067138672,
+            0.007199999876320362
+        ],
+        "cacheAmt": 30,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 30
+    },
+    {
+        "sceneName": "library_08",
+        "gameObject": "rosary_string_small_half",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            107.91712188720703,
+            37.42113494873047,
+            0.0
+        ],
+        "worldPosition": [
+            107.91712188720703,
+            37.42113494873047,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "library_08",
+        "gameObject": "rosary_string_small",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            109.1500015258789,
+            35.59000015258789,
+            0.0
+        ],
+        "worldPosition": [
+            109.1500015258789,
+            35.59000015258789,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 8,
+        "rosaryAmountGuess": 8
+    },
+    {
+        "sceneName": "mosstown_01",
+        "gameObject": "rosary_string_empty (1)",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            45.58000183105469,
+            25.649999618530273,
+            0.0
+        ],
+        "worldPosition": [
+            45.58000183105469,
+            25.649999618530273,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "mosstown_01",
+        "gameObject": "rosary_string_small (1)",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            47.4900016784668,
+            25.600000381469727,
+            0.0
+        ],
+        "worldPosition": [
+            47.4900016784668,
+            25.600000381469727,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 8,
+        "rosaryAmountGuess": 8
+    },
+    {
+        "sceneName": "mosstown_01",
+        "gameObject": "rosary_string_small (2)",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            48.380001068115234,
+            25.299999237060547,
+            0.0
+        ],
+        "worldPosition": [
+            48.380001068115234,
+            25.299999237060547,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 8,
+        "rosaryAmountGuess": 8
+    },
+    {
+        "sceneName": "mosstown_02",
+        "gameObject": "Black Thread States Thread Only Variant/Normal World/rosary_string_small_half",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            155.89022827148438,
+            12.984889030456543,
+            11.750720977783203
+        ],
+        "worldPosition": [
+            157.72022831439972,
+            33.434889793395996,
+            3.2474212646484375
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "mosstown_02",
+        "gameObject": "rosary_string_empty",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            18.06999969482422,
+            25.09018898010254,
+            0.0
+        ],
+        "worldPosition": [
+            18.06999969482422,
+            25.09018898010254,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "mosstown_02",
+        "gameObject": "Black Thread States Thread Only Variant/Normal World/rosary_string_small",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            156.7125244140625,
+            11.729957580566406,
+            11.750720977783203
+        ],
+        "worldPosition": [
+            158.54252445697784,
+            32.17995834350586,
+            3.2474212646484375
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 8,
+        "rosaryAmountGuess": 8
+    },
+    {
+        "sceneName": "room_crowcourt",
+        "gameObject": "rosary strings/rosary_string_small_half (8)",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            -10.539999961853027,
+            2.8499999046325684,
+            1.4252521991729736
+        ],
+        "worldPosition": [
+            24.671250343322754,
+            38.0935378074646,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "room_crowcourt",
+        "gameObject": "rosary strings/rosary_string_small_half (7)",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            -9.489999771118164,
+            2.440000057220459,
+            1.4252521991729736
+        ],
+        "worldPosition": [
+            25.721250534057617,
+            37.68353796005249,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "room_crowcourt",
+        "gameObject": "rosary strings/rosary_string_small_half (6)",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            11.738750457763672,
+            3.636463165283203,
+            1.4252521991729736
+        ],
+        "worldPosition": [
+            46.95000076293945,
+            38.880001068115234,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "room_crowcourt",
+        "gameObject": "rosary strings/rosary_string_small_half (1)",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            -1.7100000381469727,
+            -8.310314178466797,
+            1.4252521991729736
+        ],
+        "worldPosition": [
+            33.50125026702881,
+            26.933223724365234,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "room_crowcourt",
+        "gameObject": "rosary strings/rosary_string_small_half",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            -11.08125114440918,
+            -8.310314178466797,
+            1.4252521991729736
+        ],
+        "worldPosition": [
+            24.1299991607666,
+            26.933223724365234,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "room_crowcourt",
+        "gameObject": "rosary strings/rosary_string_medium",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            -8.881250381469727,
+            -9.703536987304688,
+            1.4252521991729736
+        ],
+        "worldPosition": [
+            26.329999923706055,
+            25.540000915527344,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 18,
+        "rosaryAmountGuess": 18
+    },
+    {
+        "sceneName": "room_crowcourt",
+        "gameObject": "rosary strings/rosary_string_small",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            -3.2200000286102295,
+            -9.600000381469727,
+            1.4252521991729736
+        ],
+        "worldPosition": [
+            31.99125027656555,
+            25.643537521362305,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 8,
+        "rosaryAmountGuess": 8
+    },
+    {
+        "sceneName": "room_crowcourt_02",
+        "gameObject": "rosary_string_small_half (2)",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            8.539999961853027,
+            81.08999633789062,
+            0.0
+        ],
+        "worldPosition": [
+            8.539999961853027,
+            81.08999633789062,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "room_crowcourt_02",
+        "gameObject": "rosary_string_small_half (3)",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            17.690000534057617,
+            53.16999816894531,
+            0.0
+        ],
+        "worldPosition": [
+            17.690000534057617,
+            53.16999816894531,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "room_crowcourt_02",
+        "gameObject": "rosary_string_small",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            19.29621696472168,
+            50.520545959472656,
+            0.0
+        ],
+        "worldPosition": [
+            19.29621696472168,
+            50.520545959472656,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 8,
+        "rosaryAmountGuess": 8
+    },
+    {
+        "sceneName": "shadow_05",
+        "gameObject": "Black Thread States/Normal World/rosary_string_small_half",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            102.5491714477539,
+            33.725250244140625,
+            0.0
+        ],
+        "worldPosition": [
+            102.5491714477539,
+            33.725250244140625,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "shadow_05",
+        "gameObject": "Black Thread States/Normal World/rosary_string_empty",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            101.47000122070312,
+            32.86000061035156,
+            0.0
+        ],
+        "worldPosition": [
+            101.47000122070312,
+            32.86000061035156,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "slab_18",
+        "gameObject": "rosary_string_small_half",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            16.360000610351562,
+            25.540000915527344,
+            0.0
+        ],
+        "worldPosition": [
+            16.360000610351562,
+            25.540000915527344,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "slab_19b",
+        "gameObject": "rosary_string_small_half",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            28.055967330932617,
+            12.675936698913574,
+            0.0
+        ],
+        "worldPosition": [
+            28.055967330932617,
+            12.675936698913574,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "slab_19b",
+        "gameObject": "rosary_string_medium",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            20.0555362701416,
+            17.0212459564209,
+            0.0
+        ],
+        "worldPosition": [
+            20.0555362701416,
+            17.0212459564209,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 18,
+        "rosaryAmountGuess": 18
+    },
+    {
+        "sceneName": "slab_19b",
+        "gameObject": "rosary_string_small",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            21.170000076293945,
+            16.65999984741211,
+            0.0
+        ],
+        "worldPosition": [
+            21.170000076293945,
+            16.65999984741211,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 8,
+        "rosaryAmountGuess": 8
+    },
+    {
+        "sceneName": "slab_19b",
+        "gameObject": "rosary_string_small (1)",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            23.1299991607666,
+            15.010000228881836,
+            0.0
+        ],
+        "worldPosition": [
+            23.1299991607666,
+            15.010000228881836,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 8,
+        "rosaryAmountGuess": 8
+    },
+    {
+        "sceneName": "song_01",
+        "gameObject": "rosary_string_small_half",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            109.45237731933594,
+            134.36581420898438,
+            0.0
+        ],
+        "worldPosition": [
+            109.45237731933594,
+            134.36581420898438,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "song_01",
+        "gameObject": "Black Thread States/Normal World/rosary_string_medium",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            -13.026926040649414,
+            73.19880676269531,
+            0.0
+        ],
+        "worldPosition": [
+            20.16307258605957,
+            85.33880710601807,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 18,
+        "rosaryAmountGuess": 18
+    },
+    {
+        "sceneName": "song_01",
+        "gameObject": "Black Thread States/Normal World/rosary_string_small (1)",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            -13.799999237060547,
+            72.55000305175781,
+            0.0
+        ],
+        "worldPosition": [
+            19.389999389648438,
+            84.69000339508057,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 8,
+        "rosaryAmountGuess": 8
+    },
+    {
+        "sceneName": "song_01",
+        "gameObject": "rosary_string_small",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            110.47626495361328,
+            132.23269653320312,
+            0.0
+        ],
+        "worldPosition": [
+            110.47626495361328,
+            132.23269653320312,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 8,
+        "rosaryAmountGuess": 8
+    },
+    {
+        "sceneName": "song_01b",
+        "gameObject": "rosary_string_small_mixed",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            12.720000267028809,
+            10.739999771118164,
+            0.0
+        ],
+        "worldPosition": [
+            12.720000267028809,
+            10.739999771118164,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 8,
+        "rosaryAmountGuess": 8
+    },
+    {
+        "sceneName": "song_01b",
+        "gameObject": "rosary_string_medium",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            16.811473846435547,
+            10.903366088867188,
+            0.0
+        ],
+        "worldPosition": [
+            16.811473846435547,
+            10.903366088867188,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 18,
+        "rosaryAmountGuess": 18
+    },
+    {
+        "sceneName": "song_01b",
+        "gameObject": "rosary_string_small",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            13.65335750579834,
+            10.540416717529297,
+            0.0
+        ],
+        "worldPosition": [
+            13.65335750579834,
+            10.540416717529297,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 8,
+        "rosaryAmountGuess": 8
+    },
+    {
+        "sceneName": "song_03",
+        "gameObject": "rosary_string_small_half (1)",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            39.529998779296875,
+            34.790000915527344,
+            0.0
+        ],
+        "worldPosition": [
+            39.529998779296875,
+            34.790000915527344,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "song_03",
+        "gameObject": "rosary_string_small",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            40.551761627197266,
+            34.1956672668457,
+            0.0
+        ],
+        "worldPosition": [
+            40.551761627197266,
+            34.1956672668457,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 8,
+        "rosaryAmountGuess": 8
+    },
+    {
+        "sceneName": "song_07",
+        "gameObject": "rosary_string_medium",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            3.1237897872924805,
+            8.712918281555176,
+            0.0
+        ],
+        "worldPosition": [
+            3.1237897872924805,
+            8.712918281555176,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 18,
+        "rosaryAmountGuess": 18
+    },
+    {
+        "sceneName": "song_09",
+        "gameObject": "rosary_string_small_half (1)",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            11.720000267028809,
+            60.650001525878906,
+            0.0
+        ],
+        "worldPosition": [
+            11.720000267028809,
+            60.650001525878906,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "song_09",
+        "gameObject": "rosary_string_small_half",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            9.866534233093262,
+            61.63600158691406,
+            0.0
+        ],
+        "worldPosition": [
+            9.866534233093262,
+            61.63600158691406,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "song_09",
+        "gameObject": "rosary_string_small",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            10.777199745178223,
+            59.844268798828125,
+            0.0
+        ],
+        "worldPosition": [
+            10.777199745178223,
+            59.844268798828125,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 8,
+        "rosaryAmountGuess": 8
+    },
+    {
+        "sceneName": "song_11",
+        "gameObject": "rosary_string_small_half (1)",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            46.7400016784668,
+            50.9900016784668,
+            0.0
+        ],
+        "worldPosition": [
+            46.7400016784668,
+            50.9900016784668,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "song_11",
+        "gameObject": "rosary_string_small_half",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            43.349998474121094,
+            52.59000015258789,
+            0.0
+        ],
+        "worldPosition": [
+            43.349998474121094,
+            52.59000015258789,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "song_11",
+        "gameObject": "rosary_string_small",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            45.710357666015625,
+            50.418121337890625,
+            0.0
+        ],
+        "worldPosition": [
+            45.710357666015625,
+            50.418121337890625,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 8,
+        "rosaryAmountGuess": 8
+    },
+    {
+        "sceneName": "song_15",
+        "gameObject": "rosary_string_small_half",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            7.74581241607666,
+            12.0389404296875,
+            0.0
+        ],
+        "worldPosition": [
+            7.74581241607666,
+            12.0389404296875,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "song_15",
+        "gameObject": "rosary_string_medium",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            5.159665107727051,
+            10.039999961853027,
+            0.0
+        ],
+        "worldPosition": [
+            5.159665107727051,
+            10.039999961853027,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 18,
+        "rosaryAmountGuess": 18
+    },
+    {
+        "sceneName": "song_15",
+        "gameObject": "rosary_string_small",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            6.429957389831543,
+            10.54365062713623,
+            0.0
+        ],
+        "worldPosition": [
+            6.429957389831543,
+            10.54365062713623,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 8,
+        "rosaryAmountGuess": 8
+    },
+    {
+        "sceneName": "under_07",
+        "gameObject": "rosary_string_small_half",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            78.05558013916016,
+            20.110000610351562,
+            0.0
+        ],
+        "worldPosition": [
+            78.05558013916016,
+            20.110000610351562,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "under_07",
+        "gameObject": "rosary_string_empty",
+        "active": true,
+        "componentType": "RosaryCacheHanging",
+        "localPosition": [
+            77.19000244140625,
+            20.6299991607666,
+            0.0
+        ],
+        "worldPosition": [
+            77.19000244140625,
+            20.6299991607666,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 0,
+        "rosaryAmountGuess": 0
+    },
+    {
+        "sceneName": "under_07c",
+        "gameObject": "rosary_string_small_half",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            18.199443817138672,
+            73.0,
+            0.0
+        ],
+        "worldPosition": [
+            18.199443817138672,
+            73.0,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "under_07c",
+        "gameObject": "rosary_string_small_half (1)",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            19.110000610351562,
+            72.2770004272461,
+            0.0
+        ],
+        "worldPosition": [
+            19.110000610351562,
+            72.2770004272461,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "under_23",
+        "gameObject": "rosary_string_small_half",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            38.470001220703125,
+            5.349999904632568,
+            0.0
+        ],
+        "worldPosition": [
+            38.470001220703125,
+            5.349999904632568,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "ward_06",
+        "gameObject": "rosary_string_small_half",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            72.83250427246094,
+            53.14836502075195,
+            0.0
+        ],
+        "worldPosition": [
+            72.83250427246094,
+            53.14836502075195,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 4,
+        "rosaryAmountGuess": 4
+    },
+    {
+        "sceneName": "ward_06",
+        "gameObject": "rosary_string_medium",
+        "active": true,
+        "componentType": "RosaryCacheString",
+        "localPosition": [
+            71.9000015258789,
+            51.7400016784668,
+            0.0
+        ],
+        "worldPosition": [
+            71.9000015258789,
+            51.7400016784668,
+            0.0
+        ],
+        "cacheAmt": 0,
+        "stringAmount": 18,
+        "rosaryAmountGuess": 18
+    }
+]

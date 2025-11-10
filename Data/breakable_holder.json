@@ -1,0 +1,3206 @@
+[
+    {
+        "sceneName": "abyss_03",
+        "gameObject": "Shell Shard Fossil Tiny Bumpy",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            75.19000244140625,
+            8.529999732971191,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            75.19000244140625,
+            8.529999732971191,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "abyss_03",
+        "gameObject": "Shell Shard Fossil Tiny Egg",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            70.94000244140625,
+            13.289999961853027,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            70.94000244140625,
+            13.289999961853027,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "abyss_03",
+        "gameObject": "Shell Shard Fossil Tiny Front (1)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            76.94999694824219,
+            13.899999618530273,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            76.94999694824219,
+            13.899999618530273,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "abyss_03",
+        "gameObject": "Shell Shard Fossil Tiny Front",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            73.13999938964844,
+            14.680000305175781,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            73.13999938964844,
+            14.680000305175781,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "abyss_05",
+        "gameObject": "Shell Shard Fossil Tiny Bumpy",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            138.9499969482422,
+            49.77000045776367,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            138.9499969482422,
+            49.77000045776367,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "abyss_05",
+        "gameObject": "Shell Shard Fossil Tiny Egg",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            137.08999633789062,
+            51.15999984741211,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            137.08999633789062,
+            51.15999984741211,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "abyss_05",
+        "gameObject": "Shell Shard Fossil Tiny Egg (1)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            56.52358627319336,
+            58.38999938964844,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            56.52358627319336,
+            58.38999938964844,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "abyss_05",
+        "gameObject": "Shell Shard Fossil Tiny Front",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            140.4199981689453,
+            47.7400016784668,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            140.4199981689453,
+            47.7400016784668,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "abyss_05",
+        "gameObject": "Shell Shard Fossil Mid Variant",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            51.60482406616211,
+            55.81230545043945,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            51.60482406616211,
+            55.81230545043945,
+            0.007000000216066837
+        ],
+        "amount": 33,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "ant_02",
+        "gameObject": "Shell Shard Fossil Tiny Egg",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            72.9000015258789,
+            15.039999961853027,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            72.9000015258789,
+            15.039999961853027,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "ant_02",
+        "gameObject": "Shell Shard Fossil Tiny Front",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            71.51000213623047,
+            16.81999969482422,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            71.51000213623047,
+            16.81999969482422,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "ant_04",
+        "gameObject": "Black Thread States Thread Only Variant/Normal World/ant_shell_shard_string (2)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            328.00146484375,
+            78.33169555664062,
+            0.4000999927520752
+        ],
+        "worldPosition": [
+            323.80146503448486,
+            101.2316951751709,
+            9.998679161071777e-05
+        ],
+        "amount": 9,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "ant_04",
+        "gameObject": "Black Thread States Thread Only Variant/Normal World/ant_shell_shard_string (1)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            330.1744689941406,
+            78.79126739501953,
+            0.4099999964237213
+        ],
+        "worldPosition": [
+            325.9744691848755,
+            101.6912670135498,
+            0.009999990463256836
+        ],
+        "amount": 9,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "ant_04_left",
+        "gameObject": "ant_rosary_string",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            6.059999942779541,
+            30.68000030517578,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            6.059999942779541,
+            30.68000030517578,
+            0.009999999776482582
+        ],
+        "amount": 10,
+        "currency": "rosaries"
+    },
+    {
+        "sceneName": "ant_04_left",
+        "gameObject": "ant_rosary_string (1)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            7.869999885559082,
+            30.68000030517578,
+            0.012000000104308128
+        ],
+        "worldPosition": [
+            7.869999885559082,
+            30.68000030517578,
+            0.012000000104308128
+        ],
+        "amount": 10,
+        "currency": "rosaries"
+    },
+    {
+        "sceneName": "ant_21",
+        "gameObject": "ant_rosary_string",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            49.779998779296875,
+            76.25,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            49.779998779296875,
+            76.25,
+            0.009999999776482582
+        ],
+        "amount": 10,
+        "currency": "rosaries"
+    },
+    {
+        "sceneName": "ant_21",
+        "gameObject": "ant_rosary_string (3)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            43.459999084472656,
+            76.33999633789062,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            43.459999084472656,
+            76.33999633789062,
+            0.009999999776482582
+        ],
+        "amount": 10,
+        "currency": "rosaries"
+    },
+    {
+        "sceneName": "ant_21",
+        "gameObject": "ant_rosary_string_large",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            42.11000061035156,
+            76.44000244140625,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            42.11000061035156,
+            76.44000244140625,
+            0.009999999776482582
+        ],
+        "amount": 120,
+        "currency": "rosaries"
+    },
+    {
+        "sceneName": "ant_21",
+        "gameObject": "ant_rosary_string_medium Variant",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            53.66999816894531,
+            76.27999877929688,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            53.66999816894531,
+            76.27999877929688,
+            0.009999999776482582
+        ],
+        "amount": 45,
+        "currency": "rosaries"
+    },
+    {
+        "sceneName": "ant_21",
+        "gameObject": "ant_rosary_string_medium (3)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            47.650001525878906,
+            76.69999694824219,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            47.650001525878906,
+            76.69999694824219,
+            0.009999999776482582
+        ],
+        "amount": 45,
+        "currency": "rosaries"
+    },
+    {
+        "sceneName": "ant_21",
+        "gameObject": "ant_rosary_string_large (1)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            51.0,
+            76.02999877929688,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            51.0,
+            76.02999877929688,
+            0.009999999776482582
+        ],
+        "amount": 120,
+        "currency": "rosaries"
+    },
+    {
+        "sceneName": "ant_21",
+        "gameObject": "ant_rosary_string_medium (1)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            46.540000915527344,
+            76.37000274658203,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            46.540000915527344,
+            76.37000274658203,
+            0.009999999776482582
+        ],
+        "amount": 45,
+        "currency": "rosaries"
+    },
+    {
+        "sceneName": "ant_merchant",
+        "gameObject": "ant_shell_shard_string (3)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            141.10000610351562,
+            17.6299991607666,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            141.10000610351562,
+            17.6299991607666,
+            0.009999999776482582
+        ],
+        "amount": 9,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "ant_merchant",
+        "gameObject": "ant_shell_shard_string (2)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            132.75999450683594,
+            10.369999885559082,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            132.75999450683594,
+            10.369999885559082,
+            0.009999999776482582
+        ],
+        "amount": 9,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "ant_merchant",
+        "gameObject": "ant_shell_shard_string (1)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            134.69000244140625,
+            17.799999237060547,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            134.69000244140625,
+            17.799999237060547,
+            0.009999999776482582
+        ],
+        "amount": 9,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "ant_merchant",
+        "gameObject": "ant_shell_shard_string",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            132.1999969482422,
+            17.75,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            132.1999969482422,
+            17.75,
+            0.009999999776482582
+        ],
+        "amount": 9,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "aqueduct_01",
+        "gameObject": "Shell Shard Fossil Tiny Egg",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            212.42999267578125,
+            16.920000076293945,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            212.42999267578125,
+            16.920000076293945,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "aqueduct_01",
+        "gameObject": "Shell Shard Fossil Tiny Front",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            212.6300048828125,
+            19.639999389648438,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            212.6300048828125,
+            19.639999389648438,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "aqueduct_04",
+        "gameObject": "Shell Shard Fossil Tiny Egg",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            79.23999786376953,
+            54.29999923706055,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            79.23999786376953,
+            54.29999923706055,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "aqueduct_04",
+        "gameObject": "Shell Shard Fossil Tiny Egg (1)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            15.720000267028809,
+            17.1200008392334,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            15.720000267028809,
+            17.1200008392334,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "aqueduct_04",
+        "gameObject": "Shell Shard Fossil Tiny Egg (2)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            12.670000076293945,
+            15.020000457763672,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            12.670000076293945,
+            15.020000457763672,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "aqueduct_04",
+        "gameObject": "Shell Shard Fossil Tiny Front (1)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            17.75,
+            16.959999084472656,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            17.75,
+            16.959999084472656,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "aqueduct_04",
+        "gameObject": "Shell Shard Fossil Tiny Front",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            75.23999786376953,
+            55.72999954223633,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            75.23999786376953,
+            55.72999954223633,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "aqueduct_05",
+        "gameObject": "Shell Shard Fossil Dustpen Short",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            254.16000366210938,
+            39.599998474121094,
+            0.0071000000461936
+        ],
+        "worldPosition": [
+            254.16000366210938,
+            39.599998474121094,
+            0.0071000000461936
+        ],
+        "amount": 8,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "aqueduct_05",
+        "gameObject": "Shell Shard Fossil Dustpen Tall (1)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            252.75,
+            38.959999084472656,
+            0.007199999876320362
+        ],
+        "worldPosition": [
+            252.75,
+            38.959999084472656,
+            0.007199999876320362
+        ],
+        "amount": 8,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "aqueduct_05",
+        "gameObject": "Shell Shard Fossil Dustpen Tall (2)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            207.3300018310547,
+            34.22999954223633,
+            0.007199999876320362
+        ],
+        "worldPosition": [
+            207.3300018310547,
+            34.22999954223633,
+            0.007199999876320362
+        ],
+        "amount": 8,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "aqueduct_05",
+        "gameObject": "Shell Shard Fossil Dustpen Tall",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            258.8358459472656,
+            40.153751373291016,
+            0.007199999876320362
+        ],
+        "worldPosition": [
+            258.8358459472656,
+            40.153751373291016,
+            0.007199999876320362
+        ],
+        "amount": 8,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "arborium_06",
+        "gameObject": "Shell Shard Fossil Coral Conch (1)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            70.75,
+            25.040000915527344,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            70.75,
+            25.040000915527344,
+            0.007000000216066837
+        ],
+        "amount": 8,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "arborium_06",
+        "gameObject": "Shell Shard Fossil Coral Conch",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            5.690000057220459,
+            18.360000610351562,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            5.690000057220459,
+            18.360000610351562,
+            0.007000000216066837
+        ],
+        "amount": 8,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "bonetown",
+        "gameObject": "Black Thread States/Normal World/fixer_constructs/fixer_statue/Shell Shard Fossil Big/Break Wall Effect/Chunk",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            0.04399999976158142,
+            -0.9240000247955322,
+            0.006000000052154064
+        ],
+        "worldPosition": [
+            216.4282394349575,
+            8.188299678266048,
+            0.015949999913573265
+        ],
+        "amount": 15,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "bonetown",
+        "gameObject": "Black Thread States/Normal World/fixer_constructs/fixer_statue/Shell Shard Fossil Big",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            -8.779999732971191,
+            0.8600000143051147,
+            0.009949999861419201
+        ],
+        "worldPosition": [
+            215.85423946380615,
+            9.212299704551697,
+            0.009949999861419201
+        ],
+        "amount": 38,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "bonetown",
+        "gameObject": "Black Thread States/Normal World/fixer_constructs/fixer_statue/Shell Shard Fossil Big/Break Wall Effect/Chunk (1)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            -0.2549999952316284,
+            0.27799999713897705,
+            0.003000000026077032
+        ],
+        "worldPosition": [
+            216.1292394399643,
+            9.390299700200558,
+            0.012949999887496233
+        ],
+        "amount": 11,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "bone_01",
+        "gameObject": "Shell Shard Fossil Tiny Egg",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            48.20000076293945,
+            74.93000030517578,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            48.20000076293945,
+            74.93000030517578,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "bone_04",
+        "gameObject": "Shell Shard Fossil Tiny Front (3)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            48.4900016784668,
+            7.639999866485596,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            48.4900016784668,
+            7.639999866485596,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "bone_04",
+        "gameObject": "Shell Shard Fossil Tiny Front (2)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            46.70000076293945,
+            8.479999542236328,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            46.70000076293945,
+            8.479999542236328,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "bone_07",
+        "gameObject": "Shell Shard Fossil Large Uni",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            49.372459411621094,
+            40.99613952636719,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            49.372459411621094,
+            40.99613952636719,
+            0.007000000216066837
+        ],
+        "amount": 20,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "bone_14",
+        "gameObject": "Shell Shard Fossil Tiny Bumpy",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            101.69999694824219,
+            35.15999984741211,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            101.69999694824219,
+            35.15999984741211,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "bone_14",
+        "gameObject": "Shell Shard Fossil Tiny Front",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            103.37999725341797,
+            35.59000015258789,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            103.37999725341797,
+            35.59000015258789,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "bone_east_02b",
+        "gameObject": "Shell Shard Fossil Mid",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            293.44000244140625,
+            19.040000915527344,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            293.44000244140625,
+            19.040000915527344,
+            0.007000000216066837
+        ],
+        "amount": 30,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "bone_east_09b",
+        "gameObject": "ant_rosary_string (1)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            61.83000183105469,
+            142.7100067138672,
+            0.010999999940395355
+        ],
+        "worldPosition": [
+            61.83000183105469,
+            142.7100067138672,
+            0.010999999940395355
+        ],
+        "amount": 10,
+        "currency": "rosaries"
+    },
+    {
+        "sceneName": "bone_east_09b",
+        "gameObject": "ant_rosary_string",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            63.9900016784668,
+            143.13999938964844,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            63.9900016784668,
+            143.13999938964844,
+            0.009999999776482582
+        ],
+        "amount": 10,
+        "currency": "rosaries"
+    },
+    {
+        "sceneName": "bone_east_13",
+        "gameObject": "Shell Shard Fossil Dock (2)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            74.0999984741211,
+            4.650000095367432,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            74.0999984741211,
+            4.650000095367432,
+            0.007000000216066837
+        ],
+        "amount": 12,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "bone_east_13",
+        "gameObject": "Shell Shard Fossil Dock (1)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            90.9800033569336,
+            4.690000057220459,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            90.9800033569336,
+            4.690000057220459,
+            0.007000000216066837
+        ],
+        "amount": 12,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "bone_east_13",
+        "gameObject": "Shell Shard Fossil Dock (3)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            76.27999877929688,
+            4.519999980926514,
+            0.007199999876320362
+        ],
+        "worldPosition": [
+            76.27999877929688,
+            4.519999980926514,
+            0.007199999876320362
+        ],
+        "amount": 12,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "bone_east_16",
+        "gameObject": "ant_rosary_string (1)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            13.050000190734863,
+            18.3700008392334,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            13.050000190734863,
+            18.3700008392334,
+            0.009999999776482582
+        ],
+        "amount": 10,
+        "currency": "rosaries"
+    },
+    {
+        "sceneName": "bone_east_16",
+        "gameObject": "ant_rosary_string",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            11.40999984741211,
+            18.84000015258789,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            11.40999984741211,
+            18.84000015258789,
+            0.009999999776482582
+        ],
+        "amount": 10,
+        "currency": "rosaries"
+    },
+    {
+        "sceneName": "bone_east_16",
+        "gameObject": "ant_rosary_string (2)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            9.0,
+            18.59000015258789,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            9.0,
+            18.59000015258789,
+            0.009999999776482582
+        ],
+        "amount": 10,
+        "currency": "rosaries"
+    },
+    {
+        "sceneName": "bone_east_17",
+        "gameObject": "ant_rosary_string (1)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            8.979999542236328,
+            85.08999633789062,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            8.979999542236328,
+            85.08999633789062,
+            0.009999999776482582
+        ],
+        "amount": 10,
+        "currency": "rosaries"
+    },
+    {
+        "sceneName": "bone_east_17",
+        "gameObject": "ant_rosary_string",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            10.210000038146973,
+            84.08999633789062,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            10.210000038146973,
+            84.08999633789062,
+            0.009999999776482582
+        ],
+        "amount": 10,
+        "currency": "rosaries"
+    },
+    {
+        "sceneName": "bone_east_17b",
+        "gameObject": "ant_rosary_string (1)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            10.880000114440918,
+            32.08000183105469,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            10.880000114440918,
+            32.08000183105469,
+            0.009999999776482582
+        ],
+        "amount": 10,
+        "currency": "rosaries"
+    },
+    {
+        "sceneName": "bone_east_17b",
+        "gameObject": "ant_rosary_string",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            11.920928001403809,
+            32.25,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            11.920928001403809,
+            32.25,
+            0.009999999776482582
+        ],
+        "amount": 10,
+        "currency": "rosaries"
+    },
+    {
+        "sceneName": "bone_east_18",
+        "gameObject": "ant_shell_shard_string (1)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            135.0399932861328,
+            38.869998931884766,
+            0.009999990463256836
+        ],
+        "worldPosition": [
+            135.0399932861328,
+            38.869998931884766,
+            0.009999990463256836
+        ],
+        "amount": 9,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "bone_east_18",
+        "gameObject": "ant_shell_shard_string",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            137.97999572753906,
+            38.88999938964844,
+            0.009999990463256836
+        ],
+        "worldPosition": [
+            137.97999572753906,
+            38.88999938964844,
+            0.009999990463256836
+        ],
+        "amount": 9,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "bone_east_18",
+        "gameObject": "ant_rosary_string",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            139.8699951171875,
+            38.380001068115234,
+            0.009999990463256836
+        ],
+        "worldPosition": [
+            139.8699951171875,
+            38.380001068115234,
+            0.009999990463256836
+        ],
+        "amount": 10,
+        "currency": "rosaries"
+    },
+    {
+        "sceneName": "bone_east_24",
+        "gameObject": "ant_rosary_string (1)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            245.94000244140625,
+            67.80999755859375,
+            0.012299999594688416
+        ],
+        "worldPosition": [
+            245.94000244140625,
+            67.80999755859375,
+            0.012299999594688416
+        ],
+        "amount": 10,
+        "currency": "rosaries"
+    },
+    {
+        "sceneName": "bone_east_24",
+        "gameObject": "Shell Shard Fossil Tiny Bumpy",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            107.38999938964844,
+            51.29999923706055,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            107.38999938964844,
+            51.29999923706055,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "bone_east_24",
+        "gameObject": "Shell Shard Fossil Tiny Egg",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            17.440000534057617,
+            22.290000915527344,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            17.440000534057617,
+            22.290000915527344,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "bone_east_24",
+        "gameObject": "Shell Shard Fossil Tiny Front",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            16.931171417236328,
+            19.613481521606445,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            16.931171417236328,
+            19.613481521606445,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "bone_east_24",
+        "gameObject": "Shell Shard Fossil Mid Variant",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            194.6300048828125,
+            8.510000228881836,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            194.6300048828125,
+            8.510000228881836,
+            0.007000000216066837
+        ],
+        "amount": 33,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "bone_east_24",
+        "gameObject": "ant_rosary_string_large",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            247.64999389648438,
+            67.75,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            247.64999389648438,
+            67.75,
+            0.009999999776482582
+        ],
+        "amount": 120,
+        "currency": "rosaries"
+    },
+    {
+        "sceneName": "bone_east_lavachallenge",
+        "gameObject": "Shell Shard Fossil Mid",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            14.640000343322754,
+            193.00999450683594,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            14.640000343322754,
+            193.00999450683594,
+            0.007000000216066837
+        ],
+        "amount": 33,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "coral_02",
+        "gameObject": "Shell Shard Fossil Tiny Bumpy",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            54.70000076293945,
+            12.479999542236328,
+            0.006999999284744263
+        ],
+        "worldPosition": [
+            54.70000076293945,
+            12.479999542236328,
+            0.006999999284744263
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "coral_02",
+        "gameObject": "Shell Shard Fossil Tiny Egg",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            56.40999984741211,
+            11.079999923706055,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            56.40999984741211,
+            11.079999923706055,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "coral_02",
+        "gameObject": "Shell Shard Fossil Tiny Front",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            50.88999938964844,
+            12.729999542236328,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            50.88999938964844,
+            12.729999542236328,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "coral_24",
+        "gameObject": "Shell Shard Fossil Tiny Bumpy",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            124.5199966430664,
+            23.059999465942383,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            124.5199966430664,
+            23.059999465942383,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "coral_24",
+        "gameObject": "Shell Shard Fossil Tiny Egg",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            126.80000305175781,
+            23.459999084472656,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            126.80000305175781,
+            23.459999084472656,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "coral_27",
+        "gameObject": "Shell Shard Fossil Tiny Egg",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            59.12000274658203,
+            25.399999618530273,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            59.12000274658203,
+            25.399999618530273,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "coral_27",
+        "gameObject": "Shell Shard Fossil Tiny Front",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            57.25990295410156,
+            26.780000686645508,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            57.25990295410156,
+            26.780000686645508,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "coral_36",
+        "gameObject": "Shell Shard Fossil Tiny Egg",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            29.623210906982422,
+            51.727046966552734,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            29.623210906982422,
+            51.727046966552734,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "coral_36",
+        "gameObject": "Shell Shard Fossil Beast",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            19.770000457763672,
+            48.58000183105469,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            19.770000457763672,
+            48.58000183105469,
+            0.007000000216066837
+        ],
+        "amount": 72,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "coral_38",
+        "gameObject": "Group/Shell Shard Fossil Tiny Egg",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            1.649999976158142,
+            5.960000038146973,
+            -0.4983285367488861
+        ],
+        "worldPosition": [
+            63.46000134944916,
+            48.54000186920166,
+            0.006999999284744263
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "coral_38",
+        "gameObject": "Group/Shell Shard Fossil Tiny Front (2)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            3.630000114440918,
+            5.599999904632568,
+            -0.4983285367488861
+        ],
+        "worldPosition": [
+            65.44000148773193,
+            48.180001735687256,
+            0.006999999284744263
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "coral_38",
+        "gameObject": "Group/Shell Shard Fossil Tiny Front (1)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            1.4299999475479126,
+            -2.4200000762939453,
+            -0.4983285367488861
+        ],
+        "worldPosition": [
+            63.24000132083893,
+            40.16000175476074,
+            0.006999999284744263
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "coral_38",
+        "gameObject": "Group/Shell Shard Fossil Tiny Front",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            -5.050000190734863,
+            1.9199999570846558,
+            -0.4983285367488861
+        ],
+        "worldPosition": [
+            56.76000118255615,
+            44.50000178813934,
+            0.006999999284744263
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "coral_40",
+        "gameObject": "Shell Shard Fossil Coral Conch (1)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            19.225976943969727,
+            20.280000686645508,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            19.225976943969727,
+            20.280000686645508,
+            0.007000000216066837
+        ],
+        "amount": 8,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "coral_40",
+        "gameObject": "Shell Shard Fossil Coral Conch",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            16.355981826782227,
+            20.8799991607666,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            16.355981826782227,
+            20.8799991607666,
+            0.007000000216066837
+        ],
+        "amount": 8,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "coral_41",
+        "gameObject": "Group/Shell Shard Fossil Coral Conch",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            58.41466522216797,
+            31.326904296875,
+            0.6782118678092957
+        ],
+        "worldPosition": [
+            142.09304809570312,
+            59.11186218261719,
+            0.00700002908706665
+        ],
+        "amount": 8,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "cradle_03",
+        "gameObject": "Shell Shard Fossil Mid Variant",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            74.30000305175781,
+            84.05999755859375,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            74.30000305175781,
+            84.05999755859375,
+            0.007000000216066837
+        ],
+        "amount": 33,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "dock_01",
+        "gameObject": "Song Shard Barrel",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            30.520000457763672,
+            36.040000915527344,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            30.520000457763672,
+            36.040000915527344,
+            0.007000000216066837
+        ],
+        "amount": 16,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "dock_02",
+        "gameObject": "Song Shard Barrel",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            119.94999694824219,
+            79.03362274169922,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            119.94999694824219,
+            79.03362274169922,
+            0.007000000216066837
+        ],
+        "amount": 16,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "dock_02b",
+        "gameObject": "Shell Shard Fossil Tiny Bumpy",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            26.450000762939453,
+            36.72999954223633,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            26.450000762939453,
+            36.72999954223633,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "dock_02b",
+        "gameObject": "Shell Shard Fossil Tiny Egg",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            32.59000015258789,
+            37.349998474121094,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            32.59000015258789,
+            37.349998474121094,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "dock_02b",
+        "gameObject": "Song Shard Barrel",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            31.940000534057617,
+            32.17981719970703,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            31.940000534057617,
+            32.17981719970703,
+            0.007000000216066837
+        ],
+        "amount": 16,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "dock_02b",
+        "gameObject": "Shell Shard Fossil Tiny Front",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            27.770000457763672,
+            37.5099983215332,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            27.770000457763672,
+            37.5099983215332,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "dust_03",
+        "gameObject": "Shell Shard Fossil Tiny Bumpy",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            102.44000244140625,
+            30.940000534057617,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            102.44000244140625,
+            30.940000534057617,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "dust_03",
+        "gameObject": "Shell Shard Fossil Tiny Egg",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            105.05999755859375,
+            29.299999237060547,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            105.05999755859375,
+            29.299999237060547,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "dust_03",
+        "gameObject": "Shell Shard Fossil Tiny Front",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            96.77865600585938,
+            28.950000762939453,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            96.77865600585938,
+            28.950000762939453,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "dust_04",
+        "gameObject": "Shell Shard Fossil Tiny Bumpy (1)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            78.54000091552734,
+            55.029998779296875,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            78.54000091552734,
+            55.029998779296875,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "dust_04",
+        "gameObject": "Shell Shard Fossil Tiny Front",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            77.01000213623047,
+            55.9900016784668,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            77.01000213623047,
+            55.9900016784668,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "dust_05",
+        "gameObject": "Shell Shard Fossil Tiny Egg",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            19.780000686645508,
+            10.09000015258789,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            19.780000686645508,
+            10.09000015258789,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "dust_05",
+        "gameObject": "Shell Shard Fossil Tiny Front",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            17.760000228881836,
+            10.0600004196167,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            17.760000228881836,
+            10.0600004196167,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "greymoor_16",
+        "gameObject": "Shell Shard Fossil Tiny Bumpy",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            91.77999877929688,
+            14.560001373291016,
+            0.00700002908706665
+        ],
+        "worldPosition": [
+            91.77999877929688,
+            14.560001373291016,
+            0.00700002908706665
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "greymoor_16",
+        "gameObject": "Shell Shard Fossil Tiny Egg (1)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            90.17999267578125,
+            13.09000015258789,
+            0.00700002908706665
+        ],
+        "worldPosition": [
+            90.17999267578125,
+            13.09000015258789,
+            0.00700002908706665
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "greymoor_17",
+        "gameObject": "Group/Shell Shard Fossil Tiny Egg (3)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            7.139999866485596,
+            -2.6700000762939453,
+            -0.4484997093677521
+        ],
+        "worldPosition": [
+            33.84000062942505,
+            24.6299991607666,
+            0.006999999284744263
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "greymoor_17",
+        "gameObject": "Group/Shell Shard Fossil Tiny Egg (1)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            5.070000171661377,
+            8.020000457763672,
+            -0.4484997093677521
+        ],
+        "worldPosition": [
+            31.77000093460083,
+            35.31999969482422,
+            0.006999999284744263
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "greymoor_17",
+        "gameObject": "Group/Shell Shard Fossil Tiny Front (1)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            5.500112533569336,
+            -3.009999990463257,
+            -0.4484997093677521
+        ],
+        "worldPosition": [
+            32.20011329650879,
+            24.28999924659729,
+            0.006999999284744263
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "greymoor_17",
+        "gameObject": "Group/Shell Shard Fossil Tiny Front",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            15.321976661682129,
+            1.8011226654052734,
+            -0.4484997093677521
+        ],
+        "worldPosition": [
+            42.02197742462158,
+            29.10112190246582,
+            0.006999999284744263
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "greymoor_17",
+        "gameObject": "Group/Shell Shard Fossil Tiny Front (2)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            3.4800000190734863,
+            3.309999942779541,
+            -0.4484997093677521
+        ],
+        "worldPosition": [
+            30.18000078201294,
+            30.609999179840088,
+            0.006999999284744263
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "hang_09",
+        "gameObject": "Song Shard Under Chest",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            105.0999984741211,
+            16.729286193847656,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            105.0999984741211,
+            16.729286193847656,
+            0.007000000216066837
+        ],
+        "amount": 15,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "hang_15",
+        "gameObject": "Song Shard Under Chest",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            70.13099670410156,
+            13.187999725341797,
+            -0.09000000357627869
+        ],
+        "worldPosition": [
+            70.13099670410156,
+            13.187999725341797,
+            -0.09000000357627869
+        ],
+        "amount": 15,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "library_07",
+        "gameObject": "Song Shard Under Chest",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            55.5,
+            126.61000061035156,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            55.5,
+            126.61000061035156,
+            0.007000000216066837
+        ],
+        "amount": 15,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "library_11b",
+        "gameObject": "Shell Shard Fossil Tiny Bumpy",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            41.90999984741211,
+            141.16000366210938,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            41.90999984741211,
+            141.16000366210938,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "library_11b",
+        "gameObject": "Shell Shard Fossil Tiny Egg",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            29.889999389648438,
+            139.02000427246094,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            29.889999389648438,
+            139.02000427246094,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "library_11b",
+        "gameObject": "Shell Shard Fossil Tiny Egg (2)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            41.77000045776367,
+            143.5500030517578,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            41.77000045776367,
+            143.5500030517578,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "library_11b",
+        "gameObject": "Song Shard Barrel (1)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            24.3799991607666,
+            88.98999786376953,
+            0.0071000000461936
+        ],
+        "worldPosition": [
+            24.3799991607666,
+            88.98999786376953,
+            0.0071000000461936
+        ],
+        "amount": 16,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "library_11b",
+        "gameObject": "Song Shard Barrel",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            27.65999984741211,
+            88.98999786376953,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            27.65999984741211,
+            88.98999786376953,
+            0.007000000216066837
+        ],
+        "amount": 16,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "library_11b",
+        "gameObject": "Shell Shard Fossil Tiny Front",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            39.2599983215332,
+            144.99000549316406,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            39.2599983215332,
+            144.99000549316406,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "library_12",
+        "gameObject": "Shell Shard Fossil Dustpen Short",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            39.4900016784668,
+            13.479999542236328,
+            0.007199999876320362
+        ],
+        "worldPosition": [
+            39.4900016784668,
+            13.479999542236328,
+            0.007199999876320362
+        ],
+        "amount": 8,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "library_12",
+        "gameObject": "Shell Shard Fossil Tiny Egg",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            44.810001373291016,
+            104.30999755859375,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            44.810001373291016,
+            104.30999755859375,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "library_12",
+        "gameObject": "Shell Shard Fossil Tiny Front",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            47.189998626708984,
+            105.12999725341797,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            47.189998626708984,
+            105.12999725341797,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "library_12",
+        "gameObject": "Shell Shard Fossil Dustpen Tall",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            40.880001068115234,
+            13.479999542236328,
+            0.007199999876320362
+        ],
+        "worldPosition": [
+            40.880001068115234,
+            13.479999542236328,
+            0.007199999876320362
+        ],
+        "amount": 8,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "library_12b",
+        "gameObject": "Song Shard Under Chest",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            163.7899932861328,
+            17.0363826751709,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            163.7899932861328,
+            17.0363826751709,
+            0.007000000216066837
+        ],
+        "amount": 15,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "library_13",
+        "gameObject": "Song Shard Barrel",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            24.469999313354492,
+            29.170000076293945,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            24.469999313354492,
+            29.170000076293945,
+            0.007000000216066837
+        ],
+        "amount": 16,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "mosstown_03",
+        "gameObject": "Shell Shard Fossil Tiny Bumpy",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            6.550000190734863,
+            86.61000061035156,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            6.550000190734863,
+            86.61000061035156,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "mosstown_03",
+        "gameObject": "Shell Shard Fossil Tiny Egg",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            11.470000267028809,
+            86.81999969482422,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            11.470000267028809,
+            86.81999969482422,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "mosstown_03",
+        "gameObject": "Shell Shard Fossil Tiny Front",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            8.680000305175781,
+            86.45999908447266,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            8.680000305175781,
+            86.45999908447266,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "peak_01",
+        "gameObject": "Shell Shard Fossil Tiny Bumpy (1)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            94.55999755859375,
+            110.33000183105469,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            94.55999755859375,
+            110.33000183105469,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "peak_01",
+        "gameObject": "Shell Shard Fossil Tiny Egg",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            94.58000183105469,
+            112.3499984741211,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            94.58000183105469,
+            112.3499984741211,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "peak_06",
+        "gameObject": "Shell Shard Fossil Tiny Egg",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            8.890000343322754,
+            44.16999816894531,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            8.890000343322754,
+            44.16999816894531,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "peak_06",
+        "gameObject": "Shell Shard Fossil Tiny Front",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            10.680000305175781,
+            45.41999816894531,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            10.680000305175781,
+            45.41999816894531,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "peak_07",
+        "gameObject": "Shell Shard Fossil Tiny Bumpy",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            33.15999984741211,
+            49.150001525878906,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            33.15999984741211,
+            49.150001525878906,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "peak_07",
+        "gameObject": "Shell Shard Fossil Tiny Egg",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            32.150001525878906,
+            51.630001068115234,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            32.150001525878906,
+            51.630001068115234,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "peak_07",
+        "gameObject": "Shell Shard Fossil Tiny Front",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            30.350000381469727,
+            54.58000183105469,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            30.350000381469727,
+            54.58000183105469,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "room_forge",
+        "gameObject": "Song Shard Barrel",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            4.53000020980835,
+            20.03314971923828,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            4.53000020980835,
+            20.03314971923828,
+            0.007000000216066837
+        ],
+        "amount": 16,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "shadow_10",
+        "gameObject": "Shell Shard Fossil Tiny Egg",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            165.35000610351562,
+            5.590000152587891,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            165.35000610351562,
+            5.590000152587891,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "shadow_10",
+        "gameObject": "Shell Shard Fossil Tiny Front",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            168.1699981689453,
+            5.179999828338623,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            168.1699981689453,
+            5.179999828338623,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "shadow_11",
+        "gameObject": "Shell Shard Fossil Tiny Bumpy",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            4.869999885559082,
+            11.670000076293945,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            4.869999885559082,
+            11.670000076293945,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "shadow_11",
+        "gameObject": "Shell Shard Fossil Tiny Egg",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            6.440000057220459,
+            14.729999542236328,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            6.440000057220459,
+            14.729999542236328,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "shadow_25",
+        "gameObject": "Shell Shard Fossil Tiny Egg",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            15.269692420959473,
+            31.73699951171875,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            15.269692420959473,
+            31.73699951171875,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "shadow_25",
+        "gameObject": "Shell Shard Fossil Tiny Front",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            17.687999725341797,
+            30.57699966430664,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            17.687999725341797,
+            30.57699966430664,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "shadow_25",
+        "gameObject": "Shell Shard Fossil Mid Variant",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            8.899999618530273,
+            31.239999771118164,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            8.899999618530273,
+            31.239999771118164,
+            0.007000000216066837
+        ],
+        "amount": 33,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "shellwood_01",
+        "gameObject": "Shell Shard Fossil Tiny Bumpy (1)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            111.61000061035156,
+            26.209999084472656,
+            0.007199999876320362
+        ],
+        "worldPosition": [
+            111.61000061035156,
+            26.209999084472656,
+            0.007199999876320362
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "shellwood_01",
+        "gameObject": "Shell Shard Fossil Tiny Bumpy",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            106.61000061035156,
+            23.270000457763672,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            106.61000061035156,
+            23.270000457763672,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "shellwood_01",
+        "gameObject": "Shell Shard Fossil Tiny Front",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            108.26000213623047,
+            23.350000381469727,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            108.26000213623047,
+            23.350000381469727,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "shellwood_11",
+        "gameObject": "Shell Shard Fossil Tiny Bumpy",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            81.94000244140625,
+            72.69000244140625,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            81.94000244140625,
+            72.69000244140625,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "shellwood_11",
+        "gameObject": "Shell Shard Fossil Tiny Bumpy (2)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            77.45999908447266,
+            68.02999877929688,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            77.45999908447266,
+            68.02999877929688,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "shellwood_11",
+        "gameObject": "Shell Shard Fossil Tiny Bumpy (1)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            82.83999633789062,
+            69.87999725341797,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            82.83999633789062,
+            69.87999725341797,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "shellwood_11",
+        "gameObject": "Shell Shard Fossil Mid",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            77.58999633789062,
+            72.08999633789062,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            77.58999633789062,
+            72.08999633789062,
+            0.007000000216066837
+        ],
+        "amount": 30,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "shellwood_11",
+        "gameObject": "Shell Shard Fossil Tiny Egg",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            79.2699966430664,
+            75.91000366210938,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            79.2699966430664,
+            75.91000366210938,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "shellwood_25",
+        "gameObject": "Shell Shard Fossil Tiny Egg (1)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            31.459999084472656,
+            11.654746055603027,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            31.459999084472656,
+            11.654746055603027,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "slab_05",
+        "gameObject": "Shell Shard Fossil Tiny Egg",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            49.77000045776367,
+            33.0099983215332,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            49.77000045776367,
+            33.0099983215332,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "slab_05",
+        "gameObject": "Shell Shard Fossil Tiny Front (1)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            55.77000045776367,
+            28.510000228881836,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            55.77000045776367,
+            28.510000228881836,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "slab_05",
+        "gameObject": "Shell Shard Fossil Tiny Front",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            52.29999923706055,
+            31.739999771118164,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            52.29999923706055,
+            31.739999771118164,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "slab_12",
+        "gameObject": "Shell Shard Fossil Tiny Bumpy",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            24.66922378540039,
+            18.3799991607666,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            24.66922378540039,
+            18.3799991607666,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "slab_12",
+        "gameObject": "Shell Shard Fossil Tiny Egg",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            23.469999313354492,
+            16.06999969482422,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            23.469999313354492,
+            16.06999969482422,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "slab_18",
+        "gameObject": "Shell Shard Fossil Tiny Bumpy",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            82.23999786376953,
+            70.30999755859375,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            82.23999786376953,
+            70.30999755859375,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "slab_18",
+        "gameObject": "Shell Shard Fossil Tiny Front",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            82.9000015258789,
+            72.41000366210938,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            82.9000015258789,
+            72.41000366210938,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "song_01",
+        "gameObject": "Song Shard Barrel",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            71.0999984741211,
+            110.0199966430664,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            71.0999984741211,
+            110.0199966430664,
+            0.007000000216066837
+        ],
+        "amount": 16,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "tut_01",
+        "gameObject": "Shell Shard Fossil Large Uni",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            79.61000061035156,
+            9.84000015258789,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            79.61000061035156,
+            9.84000015258789,
+            0.007000000216066837
+        ],
+        "amount": 20,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "tut_01b",
+        "gameObject": "Shell Shard Fossil Tiny Egg",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            144.4499969482422,
+            51.45000076293945,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            144.4499969482422,
+            51.45000076293945,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "tut_01b",
+        "gameObject": "Shell Shard Fossil Mid (1)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            86.4800033569336,
+            44.11262512207031,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            86.4800033569336,
+            44.11262512207031,
+            0.007000000216066837
+        ],
+        "amount": 15,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "tut_01b",
+        "gameObject": "Shell Shard Fossil Tiny Front",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            145.3000030517578,
+            54.599998474121094,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            145.3000030517578,
+            54.599998474121094,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "tut_02",
+        "gameObject": "Shell Shard Fossil Tiny Bumpy",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            14.710000038146973,
+            36.060001373291016,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            14.710000038146973,
+            36.060001373291016,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "tut_02",
+        "gameObject": "Shell Shard Fossil Tiny Egg",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            14.119999885559082,
+            32.41999816894531,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            14.119999885559082,
+            32.41999816894531,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "tut_02",
+        "gameObject": "Shell Shard Fossil Tiny Front",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            13.319999694824219,
+            37.310001373291016,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            13.319999694824219,
+            37.310001373291016,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "under_03b",
+        "gameObject": "Song Shard Under Chest",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            9.859999656677246,
+            14.010000228881836,
+            0.006000000052154064
+        ],
+        "worldPosition": [
+            9.859999656677246,
+            14.010000228881836,
+            0.006000000052154064
+        ],
+        "amount": 15,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "under_04",
+        "gameObject": "Song Shard Under Chest",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            7.88938570022583,
+            21.99941635131836,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            7.88938570022583,
+            21.99941635131836,
+            0.007000000216066837
+        ],
+        "amount": 15,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "under_07c",
+        "gameObject": "Song Shard Under Chest (1)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            46.470001220703125,
+            63.720001220703125,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            46.470001220703125,
+            63.720001220703125,
+            0.007000000216066837
+        ],
+        "amount": 15,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "under_08",
+        "gameObject": "Song Shard Under Chest",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            101.2699966430664,
+            28.854639053344727,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            101.2699966430664,
+            28.854639053344727,
+            0.007000000216066837
+        ],
+        "amount": 15,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "under_17",
+        "gameObject": "Song Shard Under Chest",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            55.77000045776367,
+            3.319999933242798,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            55.77000045776367,
+            3.319999933242798,
+            0.007000000216066837
+        ],
+        "amount": 15,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "under_27",
+        "gameObject": "Song Shard Barrel",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            16.530000686645508,
+            28.1299991607666,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            16.530000686645508,
+            28.1299991607666,
+            0.007000000216066837
+        ],
+        "amount": 16,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "wisp_09",
+        "gameObject": "Shell Shard Fossil Tiny Bumpy (1)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            7.75,
+            18.610000610351562,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            7.75,
+            18.610000610351562,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "wisp_09",
+        "gameObject": "Shell Shard Fossil Tiny Bumpy",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            72.79000091552734,
+            7.619999885559082,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            72.79000091552734,
+            7.619999885559082,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "wisp_09",
+        "gameObject": "Shell Shard Fossil Tiny Egg (3)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            4.630000114440918,
+            24.139999389648438,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            4.630000114440918,
+            24.139999389648438,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "wisp_09",
+        "gameObject": "Shell Shard Fossil Tiny Egg (2)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            4.019999980926514,
+            20.59000015258789,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            4.019999980926514,
+            20.59000015258789,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "wisp_09",
+        "gameObject": "Shell Shard Fossil Tiny Egg",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            72.7699966430664,
+            5.400000095367432,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            72.7699966430664,
+            5.400000095367432,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "wisp_09",
+        "gameObject": "Shell Shard Fossil Tiny Egg (1)",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            16.030000686645508,
+            24.290000915527344,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            16.030000686645508,
+            24.290000915527344,
+            0.007000000216066837
+        ],
+        "amount": 5,
+        "currency": "shellShards"
+    },
+    {
+        "sceneName": "wisp_09",
+        "gameObject": "Shell Shard Fossil Mid Variant",
+        "active": true,
+        "componentType": "BreakableHolder",
+        "localPosition": [
+            10.600000381469727,
+            24.850000381469727,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            10.600000381469727,
+            24.850000381469727,
+            0.007000000216066837
+        ],
+        "amount": 24,
+        "currency": "shellShards"
+    }
+]
