@@ -48,3 +48,8 @@ for.
 Typically objects with a RosaryCacheHanging component represent hanging rosary strings
 that are empty (whereas RosaryCacheString represents hanging rosary strings that are
 not empty).
+
+## Missing Files
+
+As well as components I haven't thought of, things like the consumable rosary/shell deposits
+(rosary necklaces, beast shards, pristine cores etc) and chests have not been included.
