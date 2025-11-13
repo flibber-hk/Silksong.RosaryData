@@ -1,0 +1,142 @@
+[
+    {
+        "sceneName": "abyss_09",
+        "gameObject": "Thread Spinner Weaver/Thread Spinner",
+        "active": true,
+        "componentType": "Breakable",
+        "localPosition": [
+            -0.029999999329447746,
+            -1.4900000095367432,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            50.67665741033852,
+            346.9658715724945,
+            0.007000000216066837
+        ],
+        "silkPerHit": 2,
+        "numHits": 5,
+        "persistence": "semipersistent",
+        "silk": 10
+    },
+    {
+        "sceneName": "bone_15",
+        "gameObject": "Thread Spinner",
+        "active": true,
+        "componentType": "Breakable",
+        "localPosition": [
+            78.37000274658203,
+            1.7000000476837158,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            78.37000274658203,
+            1.7000000476837158,
+            0.007000000216066837
+        ],
+        "silkPerHit": 2,
+        "numHits": 5,
+        "persistence": "semipersistent",
+        "silk": 10
+    },
+    {
+        "sceneName": "hang_01",
+        "gameObject": "Thread Spinner",
+        "active": true,
+        "componentType": "Breakable",
+        "localPosition": [
+            16.510000228881836,
+            78.6500015258789,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            16.510000228881836,
+            78.6500015258789,
+            0.007000000216066837
+        ],
+        "silkPerHit": 2,
+        "numHits": 5,
+        "persistence": "semipersistent",
+        "silk": 10
+    },
+    {
+        "sceneName": "peak_04d",
+        "gameObject": "Group/Thread Spinner Weaver (1)/Thread Spinner",
+        "active": true,
+        "componentType": "Breakable",
+        "localPosition": [
+            -0.029999999329447746,
+            -1.4900000095367432,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            90.38291046209633,
+            11.299999952316284,
+            0.007000000216066837
+        ],
+        "silkPerHit": 2,
+        "numHits": 5,
+        "persistence": "semipersistent",
+        "silk": 10
+    },
+    {
+        "sceneName": "peak_04d",
+        "gameObject": "Thread Spinner Weaver/Thread Spinner",
+        "active": true,
+        "componentType": "Breakable",
+        "localPosition": [
+            -0.029999999329447746,
+            -1.4900000095367432,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            91.33000061102211,
+            10.959999799728394,
+            0.007000000216066837
+        ],
+        "silkPerHit": 2,
+        "numHits": 5,
+        "persistence": "semipersistent",
+        "silk": 10
+    },
+    {
+        "sceneName": "peak_05e",
+        "gameObject": "Thread Spinner Weaver/Thread Spinner",
+        "active": true,
+        "componentType": "Breakable",
+        "localPosition": [
+            -0.029999999329447746,
+            -1.4900000095367432,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            94.6600024420768,
+            11.299999952316284,
+            0.007000000216066837
+        ],
+        "silkPerHit": 2,
+        "numHits": 5,
+        "persistence": "semipersistent",
+        "silk": 10
+    },
+    {
+        "sceneName": "song_03",
+        "gameObject": "Thread Spinner",
+        "active": true,
+        "componentType": "Breakable",
+        "localPosition": [
+            69.88999938964844,
+            2.4915692806243896,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            69.88999938964844,
+            2.4915692806243896,
+            0.007000000216066837
+        ],
+        "silkPerHit": 2,
+        "numHits": 5,
+        "persistence": "semipersistent",
+        "silk": 10
+    }
+]

@@ -49,6 +49,16 @@ Typically objects with a RosaryCacheHanging component represent hanging rosary s
 that are empty (whereas RosaryCacheString represents hanging rosary strings that are
 not empty).
 
+### breakable.json
+
+This enumerates objects with a Breakable component, as well as giving silk, shards or rosaries.
+The persistence indicates what causes the object to respawn.
+
+### thread.json
+
+This enumerates large silk spools with a ThreadSpinner component. Most silk spools are in the
+breakable.json file.
+
 ## Missing Files
 
 As well as components I haven't thought of, things like the consumable rosary/shell deposits
