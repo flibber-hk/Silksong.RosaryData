@@ -59,6 +59,20 @@ The persistence indicates what causes the object to respawn.
 This enumerates large silk spools with a ThreadSpinner component. Most silk spools are in the
 breakable.json file.
 
+### levers.json
+
+This enumerates levers. The persistent represents the attached PersistentBoolItem data associated
+with the component. The pbiGoName entry in the persistent bool item is the name of the gameObject
+that the persistent bool item is attached to. In all cases, the persistent bool item is attached
+to a gameObject in the same scene as the lever.
+If the SceneName and ID are null in the persistent bool data, the SceneName will be replaced by
+the scene name of the object, and the ID will be replaced by the name of the gameObject (pbiGoName).
+
+The pdBool represents a player data bool field that is set to true when the lever is hit.
+For Lever components (not Lever_tk2d), if the pdBool is not null then the persistent bool item
+component is ignored (in favour of the pdBool).
+
+
 ## Missing Files
 
 As well as components I haven't thought of, things like the consumable rosary/shell deposits

@@ -1,0 +1,6727 @@
+[
+    {
+        "sceneName": "ant_05b",
+        "gameObject": "Black Thread States Thread Only Variant/Normal World/Group/ant_lever_persistent",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            2.4614181518554688,
+            -0.015104293823242188,
+            0.017500000074505806
+        ],
+        "worldPosition": [
+            110.52512550354004,
+            3.4076900482177734,
+            0.03500000014901161
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "ant_lever_persistent",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "ant_17",
+        "gameObject": "Trap Scene/ant_lever_persistent",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            10.989999771118164,
+            8.680000305175781,
+            0.03500000014901161
+        ],
+        "worldPosition": [
+            10.989999771118164,
+            8.680000305175781,
+            0.03500000014901161
+        ],
+        "pdBool": "antBenchTrapDefused",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "ant_lever_persistent",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "ant_19",
+        "gameObject": "ant_lever_persistent",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            89.29000091552734,
+            35.47610092163086,
+            0.03500000014901161
+        ],
+        "worldPosition": [
+            89.29000091552734,
+            35.47610092163086,
+            0.03500000014901161
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "ant_lever_persistent",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "arborium_01",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            14.039999008178711,
+            139.57999634742737,
+            -0.0020130006596446037
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "arborium_01",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            14.03999948501587,
+            137.88999634981155,
+            -0.0019130004802718759
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "arborium_07",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            75.20000076293945,
+            21.080000162124634,
+            0.010699999518692493
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "arborium_07",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            75.20000123977661,
+            19.39000016450882,
+            0.010799999698065221
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "arborium_08",
+        "gameObject": "Pipe_Vent_Hatch (1)/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            49.029998779296875,
+            10.663700342178345,
+            -0.004892992787063122
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "arborium_08",
+        "gameObject": "Pipe_Vent_Hatch (2)/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            75.03999710083008,
+            5.544999837875366,
+            0.007223499473184347
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "arborium_08",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            85.24999618530273,
+            3.509999990463257,
+            -0.004893000237643719
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "arborium_08",
+        "gameObject": "Pipe_Vent_Hatch (1)/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            49.02999925613403,
+            8.97370034456253,
+            -0.004792992607690394
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "arborium_08",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            85.24999666213989,
+            1.8199999928474426,
+            -0.004793000058270991
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "arborium_08",
+        "gameObject": "Pipe_Vent_Hatch (2)/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            75.03999757766724,
+            3.854999840259552,
+            0.007323499652557075
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "arborium_11",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            29.979999542236328,
+            24.940000772476196,
+            0.010699999518692493
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "arborium_11",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            29.980000019073486,
+            23.250000774860382,
+            0.010799999698065221
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "bellshrine",
+        "gameObject": "Whole Scene/Bellshrine Sequence/Bell Shrine Lever",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.010000228881835938,
+            -12.220000267028809,
+            0.008999999612569809
+        ],
+        "worldPosition": [
+            20.489999771118164,
+            5.070000648498535,
+            0.008999999612569809
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "bellshrine_02",
+        "gameObject": "Black Thread States/Normal World/Bellshrine Sequence/Bell Shrine Lever",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.010000228881835938,
+            -12.220000267028809,
+            0.008999999612569809
+        ],
+        "worldPosition": [
+            20.489999771118164,
+            5.070000648498535,
+            0.008999999612569809
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "bellshrine_03",
+        "gameObject": "Whole Scene/Bellshrine Sequence/Bell Shrine Lever",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.010000228881835938,
+            -12.220000267028809,
+            0.008999999612569809
+        ],
+        "worldPosition": [
+            20.489999771118164,
+            5.070000648498535,
+            0.008999999612569809
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "bellshrine_05",
+        "gameObject": "Song_lever_side old",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            37.810001373291016,
+            -14.930000305175781,
+            0.0
+        ],
+        "worldPosition": [
+            37.810001373291016,
+            -14.930000305175781,
+            0.0
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "bellshrine_05",
+        "gameObject": "Whole Scene/Bellshrine Sequence/Bell Shrine Lever",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.010000228881835938,
+            -12.220000267028809,
+            0.008999999612569809
+        ],
+        "worldPosition": [
+            20.489999771118164,
+            5.070000648498535,
+            0.008999999612569809
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "bellshrine_enclave",
+        "gameObject": "Whole Scene/Bellshrine Sequence/Bell Shrine Lever",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.010000228881835938,
+            -12.260000228881836,
+            0.008999999612569809
+        ],
+        "worldPosition": [
+            28.489999771118164,
+            5.030000686645508,
+            0.008999999612569809
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "belltown_shrine",
+        "gameObject": "Whole Scene/Song_lever_side",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            22.790000915527344,
+            20.979999542236328,
+            0.00800000037997961
+        ],
+        "worldPosition": [
+            22.790000915527344,
+            20.979999542236328,
+            0.00800000037997961
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "belltown_shrine",
+        "gameObject": "Black Thread States Thread Only Variant/Normal World/Boss Scene/Bellshrine Sequence Bellhart/Bell Shrine Lever",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -1.340000033378601,
+            -12.220000267028809,
+            0.008999999612569809
+        ],
+        "worldPosition": [
+            52.78039562702179,
+            9.661964297294617,
+            0.008999999612569809
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "bellway_city",
+        "gameObject": "Understore Lever",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            92.91000366210938,
+            29.350000381469727,
+            0.009499999694526196
+        ],
+        "worldPosition": [
+            92.91000366210938,
+            29.350000381469727,
+            0.009499999694526196
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Understore Lever",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "bellway_peak",
+        "gameObject": "Song_lever_side",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            10.960000038146973,
+            21.969999313354492,
+            0.008999999612569809
+        ],
+        "worldPosition": [
+            10.960000038146973,
+            21.969999313354492,
+            0.008999999612569809
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "bonetown",
+        "gameObject": "Black Thread States/Normal World/Bone Lever",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            176.66000366210938,
+            54.41999816894531,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            209.85000228881836,
+            66.55999851226807,
+            0.007000000216066837
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Bone Lever",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "bone_01",
+        "gameObject": "Great Bone Gate Scene/Bone Lever",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            20.90999984741211,
+            0.6800000071525574,
+            -5.410968780517578
+        ],
+        "worldPosition": [
+            87.58211135864258,
+            12.570654571056366,
+            0.006999969482421875
+        ],
+        "pdBool": "greatBoneGateOpened",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Bone Lever",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "bone_03",
+        "gameObject": "Song_lever_side",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            45.560001373291016,
+            91.01000213623047,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            45.560001373291016,
+            91.01000213623047,
+            0.007000000216066837
+        ],
+        "pdBool": "bone03_openedTrapdoor",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "bone_04",
+        "gameObject": "Bone Lever",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            20.41699981689453,
+            25.66200065612793,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            20.41699981689453,
+            25.66200065612793,
+            0.007000000216066837
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Bone Lever",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "bone_04",
+        "gameObject": "Song_lever_side",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            118.19000244140625,
+            24.25,
+            0.004999999888241291
+        ],
+        "worldPosition": [
+            118.19000244140625,
+            24.25,
+            0.004999999888241291
+        ],
+        "pdBool": "bone01shortcutPlat",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "bone_04",
+        "gameObject": "Song_lever_side right",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            157.72999572753906,
+            4.980000019073486,
+            0.004999999888241291
+        ],
+        "worldPosition": [
+            157.72999572753906,
+            4.980000019073486,
+            0.004999999888241291
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side right",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "bone_08",
+        "gameObject": "lever",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            11.069999694824219,
+            92.4000015258789,
+            0.0
+        ],
+        "worldPosition": [
+            11.069999694824219,
+            92.4000015258789,
+            0.0
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "lever",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "bone_10",
+        "gameObject": "Song_lever_side",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            99.04000091552734,
+            30.110000610351562,
+            0.004999999888241291
+        ],
+        "worldPosition": [
+            99.04000091552734,
+            30.110000610351562,
+            0.004999999888241291
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "bone_east_01",
+        "gameObject": "Song_lever_side",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            42.02000045776367,
+            24.809999465942383,
+            0.004999999888241291
+        ],
+        "worldPosition": [
+            42.02000045776367,
+            24.809999465942383,
+            0.004999999888241291
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "bone_east_01",
+        "gameObject": "Song_lever_side (1)",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            5.409999847412109,
+            55.79999923706055,
+            0.012000000104308128
+        ],
+        "worldPosition": [
+            5.409999847412109,
+            55.79999923706055,
+            0.012000000104308128
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side (1)",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "bone_east_05",
+        "gameObject": "Song_lever_side (1)",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            7.610000133514404,
+            22.799999237060547,
+            0.004999999888241291
+        ],
+        "worldPosition": [
+            7.610000133514404,
+            22.799999237060547,
+            0.004999999888241291
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side (1)",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "bone_east_05",
+        "gameObject": "Song_lever_side",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            6.539999961853027,
+            13.15999984741211,
+            0.0
+        ],
+        "worldPosition": [
+            6.539999961853027,
+            13.15999984741211,
+            0.0
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "bone_east_10_church",
+        "gameObject": "Rhino Scene/Song_lever_side",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            132.10000610351562,
+            15.630000114440918,
+            0.0
+        ],
+        "worldPosition": [
+            132.10000610351562,
+            15.630000114440918,
+            0.0
+        ],
+        "pdBool": "rhinoChurchUnlocked",
+        "persistent": {
+            "SceneName": "Song_lever_side",
+            "ID": "Bone_East_10_Church",
+            "pbiGoName": "Song_lever_side",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "bone_east_11",
+        "gameObject": "Song_lever_side",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            12.420000076293945,
+            2.950000047683716,
+            0.008999999612569809
+        ],
+        "worldPosition": [
+            12.420000076293945,
+            2.950000047683716,
+            0.008999999612569809
+        ],
+        "pdBool": "openedGeyserShaft",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "bone_east_11",
+        "gameObject": "Song_lever_side (1)",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            18.84000015258789,
+            81.01000213623047,
+            0.004999999888241291
+        ],
+        "worldPosition": [
+            18.84000015258789,
+            81.01000213623047,
+            0.004999999888241291
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side (1)",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "bone_east_11",
+        "gameObject": "Bone East 11 Cross Over Group/ant_lever_persistent",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -15.039999961853027,
+            0.37000274658203125,
+            0.03500000014901161
+        ],
+        "worldPosition": [
+            4.960000038146973,
+            116.37000274658203,
+            0.03500000014901161
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Bone East 11 Cross Over Group",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "bone_east_11",
+        "gameObject": "Bone East 11 Cross Over Group/ant_lever_persistent (1)",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            14.630001068115234,
+            0.37000274658203125,
+            0.03500000014901161
+        ],
+        "worldPosition": [
+            34.630001068115234,
+            116.37000274658203,
+            0.03500000014901161
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Bone East 11 Cross Over Group",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "bone_east_12",
+        "gameObject": "dock_pipe_trapdoor/Levers/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.029994934797286987,
+            0.6700000166893005,
+            0.0
+        ],
+        "worldPosition": [
+            35.020000487565994,
+            6.409999787807465,
+            0.009999999776482582
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "bone_east_12",
+        "gameObject": "Demo States/Regular/Song_lever_side",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            0.0,
+            0.0,
+            0.004999999888241291
+        ],
+        "worldPosition": [
+            72.91000366210938,
+            17.071857452392578,
+            0.004999999888241291
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "bone_east_12",
+        "gameObject": "dock_pipe_trapdoor/Levers/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.029994934797286987,
+            -0.809999942779541,
+            0.0
+        ],
+        "worldPosition": [
+            35.020000487565994,
+            4.929999828338623,
+            0.009999999776482582
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "bone_east_13",
+        "gameObject": "dock_pipe_trapdoor/Levers/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.029994934797286987,
+            0.6700000166893005,
+            0.0
+        ],
+        "worldPosition": [
+            9.000000983476639,
+            22.389999330043793,
+            0.009999999776482582
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "bone_east_13",
+        "gameObject": "Song_lever_side",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            119.95999908447266,
+            21.6200008392334,
+            0.004999999888241291
+        ],
+        "worldPosition": [
+            119.95999908447266,
+            21.6200008392334,
+            0.004999999888241291
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "bone_east_13",
+        "gameObject": "dock_pipe_trapdoor/Levers/Lever Bottom",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.029994934797286987,
+            -0.809999942779541,
+            0.0
+        ],
+        "worldPosition": [
+            9.000000983476639,
+            20.90999937057495,
+            0.009999999776482582
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "bone_east_15",
+        "gameObject": "Song_lever_side",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            48.66999816894531,
+            59.52000045776367,
+            0.006000000052154064
+        ],
+        "worldPosition": [
+            48.66999816894531,
+            59.52000045776367,
+            0.006000000052154064
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "bone_east_17",
+        "gameObject": "ant_lever_persistent",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            53.43000030517578,
+            97.37999725341797,
+            0.03500000014901161
+        ],
+        "worldPosition": [
+            53.43000030517578,
+            97.37999725341797,
+            0.03500000014901161
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "ant_lever_persistent",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "bone_east_18",
+        "gameObject": "ant_lever_persistent (1)",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            130.94000244140625,
+            37.54999923706055,
+            0.0350000262260437
+        ],
+        "worldPosition": [
+            130.94000244140625,
+            37.54999923706055,
+            0.0350000262260437
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "ant_lever_persistent (1)",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "bone_east_24",
+        "gameObject": "ant_lever_persistent",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            62.39099884033203,
+            51.395999908447266,
+            0.03500000014901161
+        ],
+        "worldPosition": [
+            62.39099884033203,
+            51.395999908447266,
+            0.03500000014901161
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "ant_lever_persistent",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "bone_east_24",
+        "gameObject": "ant_lever_persistent (1)",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            256.57000732421875,
+            38.220001220703125,
+            0.03500000014901161
+        ],
+        "worldPosition": [
+            256.57000732421875,
+            38.220001220703125,
+            0.03500000014901161
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "ant_lever_persistent (1)",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "bone_east_weavehome",
+        "gameObject": "weaver_lift_power_chamber (1)/switches/Lever_Right",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            5.110000133514404,
+            6.070000171661377,
+            -6.038360118865967
+        ],
+        "worldPosition": [
+            107.590003490448,
+            71.95999956130981,
+            -0.15000009536743164
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "bone_east_weavehome",
+        "gameObject": "weaver_lift_power_chamber (1)/switches/Lever_Left",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -10.619999885559082,
+            6.130000114440918,
+            -6.038360118865967
+        ],
+        "worldPosition": [
+            91.86000347137451,
+            72.01999950408936,
+            -0.15000009536743164
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "cog_04",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            4.042999744415283,
+            77.79200196266174,
+            0.004343499429523945
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "cog_04",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            4.043000221252441,
+            76.10200196504593,
+            0.004443499608896673
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "cog_05",
+        "gameObject": "Pipe_Vent_Hatch (2)/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            38.47999954223633,
+            17.760000467300415,
+            0.0031600994989275932
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "cog_05",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            43.7599983215332,
+            17.830000162124634,
+            0.006379999686032534
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "cog_05",
+        "gameObject": "Pipe_Vent_Hatch (2)/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            38.480000019073486,
+            16.0700004696846,
+            0.003260099678300321
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "cog_05",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            43.75999879837036,
+            16.14000016450882,
+            0.0064799998654052615
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "cog_07",
+        "gameObject": "Pipe_Vent_Hatch (2)/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            65.17000198364258,
+            12.750000238418579,
+            0.0025635994970798492
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "cog_07",
+        "gameObject": "Pipe_Vent_Hatch (3)/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            60.303001403808594,
+            43.56300187110901,
+            0.0039509995840489864
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "cog_07",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            10.557999610900879,
+            33.518999338150024,
+            0.0039509995840489864
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "cog_07",
+        "gameObject": "Pipe_Vent_Hatch (3)/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            60.30300188064575,
+            41.873001873493195,
+            0.004050999763421714
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "cog_07",
+        "gameObject": "Pipe_Vent_Hatch (2)/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            65.17000246047974,
+            11.060000240802765,
+            0.002663599676452577
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "cog_07",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Top",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            10.558000087738037,
+            31.82899934053421,
+            0.004050999763421714
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "coral_02",
+        "gameObject": "Song_lever_side",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            143.0399932861328,
+            34.15156173706055,
+            0.007199999876320362
+        ],
+        "worldPosition": [
+            143.0399932861328,
+            34.15156173706055,
+            0.007199999876320362
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "coral_03",
+        "gameObject": "Song_lever_side",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            20.81999969482422,
+            123.95999908447266,
+            0.004999999888241291
+        ],
+        "worldPosition": [
+            20.81999969482422,
+            123.95999908447266,
+            0.004999999888241291
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "crawl_02",
+        "gameObject": "Song_lever_side",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            10.619999885559082,
+            36.22999954223633,
+            0.004999999888241291
+        ],
+        "worldPosition": [
+            10.619999885559082,
+            36.22999954223633,
+            0.004999999888241291
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "dock_02",
+        "gameObject": "Bridge Group/Innerworks Trap Bridge Large Long/lever_left",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -36.42000198364258,
+            -2.0,
+            0.008999999612569809
+        ],
+        "worldPosition": [
+            42.130001068115234,
+            30.709999084472656,
+            0.008999999612569809
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dock_02",
+        "gameObject": "Bridge Group/Innerworks Trap Bridge Large Long/lever_right",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            9.699999809265137,
+            -2.0,
+            0.008999999612569809
+        ],
+        "worldPosition": [
+            88.25000286102295,
+            30.709999084472656,
+            0.008999999612569809
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dock_02b",
+        "gameObject": "Song_lever_side",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            47.36000061035156,
+            56.150001525878906,
+            0.005000114440917969
+        ],
+        "worldPosition": [
+            47.36000061035156,
+            56.150001525878906,
+            0.005000114440917969
+        ],
+        "pdBool": "docks_02_shortcut_right",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "dock_03",
+        "gameObject": "dock_pipe_trapdoor (2)/Levers/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.029994934797286987,
+            0.6700000166893005,
+            0.0
+        ],
+        "worldPosition": [
+            124.00999835133553,
+            78.4399966597557,
+            0.009999999776482582
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dock_03",
+        "gameObject": "Song_lever_side",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            69.08999633789062,
+            109.70999908447266,
+            0.004999999888241291
+        ],
+        "worldPosition": [
+            69.08999633789062,
+            109.70999908447266,
+            0.004999999888241291
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "dock_03",
+        "gameObject": "dock_pipe_trapdoor (2)/Levers/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.029994934797286987,
+            -0.809999942779541,
+            0.0
+        ],
+        "worldPosition": [
+            124.00999835133553,
+            76.95999670028687,
+            0.009999999776482582
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dock_03c",
+        "gameObject": "dock_pipe_trapdoor (3)/Levers/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.029994934797286987,
+            0.6700000166893005,
+            0.0
+        ],
+        "worldPosition": [
+            115.9399986565113,
+            62.300001084804535,
+            0.009999999776482582
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dock_03c",
+        "gameObject": "dock_pipe_trapdoor (2)/Levers/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.029994934797286987,
+            0.6700000166893005,
+            0.0
+        ],
+        "worldPosition": [
+            124.00999835133553,
+            79.4399966597557,
+            0.009999999776482582
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dock_03c",
+        "gameObject": "dock_pipe_trapdoor (1)/Levers/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.029994934797286987,
+            0.6700000166893005,
+            0.0
+        ],
+        "worldPosition": [
+            20.08000186085701,
+            50.176492631435394,
+            0.009999999776482582
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dock_03c",
+        "gameObject": "dock_pipe_opener_door (1)/Lever Right",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            3.6500000953674316,
+            5.489999771118164,
+            0.019999999552965164
+        ],
+        "worldPosition": [
+            126.95999765396118,
+            59.28000068664551,
+            0.019999999552965164
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dock_03c",
+        "gameObject": "dock_pipe_opener_door (1)/Lever Left",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            0.1899999976158142,
+            5.409999847412109,
+            0.019999999552965164
+        ],
+        "worldPosition": [
+            123.49999755620956,
+            59.20000076293945,
+            0.019999999552965164
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dock_03c",
+        "gameObject": "dock_pipe_trapdoor (3)/Levers/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.029994934797286987,
+            -0.809999942779541,
+            0.0
+        ],
+        "worldPosition": [
+            115.9399986565113,
+            60.82000112533569,
+            0.009999999776482582
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dock_03c",
+        "gameObject": "dock_pipe_trapdoor (1)/Levers/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.029994934797286987,
+            -0.809999942779541,
+            0.0
+        ],
+        "worldPosition": [
+            20.08000186085701,
+            48.69649267196655,
+            0.009999999776482582
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dock_03c",
+        "gameObject": "dock_pipe_trapdoor (2)/Levers/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.029994934797286987,
+            -0.809999942779541,
+            0.0
+        ],
+        "worldPosition": [
+            124.00999835133553,
+            77.95999670028687,
+            0.009999999776482582
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dock_03d",
+        "gameObject": "dock_pipe_trapdoor/Levers/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.029994934797286987,
+            0.6700000166893005,
+            0.0
+        ],
+        "worldPosition": [
+            20.08000186085701,
+            65.48999971151352,
+            0.009999999776482582
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dock_03d",
+        "gameObject": "dock_pipe_trapdoor (1)/Levers/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.029994934797286987,
+            0.6700000166893005,
+            0.0
+        ],
+        "worldPosition": [
+            20.08000186085701,
+            49.519998490810394,
+            0.009999999776482582
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dock_03d",
+        "gameObject": "dock_pipe_trapdoor/Levers/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.029994934797286987,
+            -0.809999942779541,
+            0.0
+        ],
+        "worldPosition": [
+            20.08000186085701,
+            64.00999975204468,
+            0.009999999776482582
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dock_03d",
+        "gameObject": "dock_pipe_trapdoor (1)/Levers/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.029994934797286987,
+            -0.809999942779541,
+            0.0
+        ],
+        "worldPosition": [
+            20.08000186085701,
+            48.03999853134155,
+            0.009999999776482582
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dock_06_church",
+        "gameObject": "Song_lever_side",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            37.31999969482422,
+            13.34000015258789,
+            0.004999999888241291
+        ],
+        "worldPosition": [
+            37.31999969482422,
+            13.34000015258789,
+            0.004999999888241291
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "dock_08",
+        "gameObject": "Song_lever_side",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            55.04999923706055,
+            23.700000762939453,
+            0.004999999888241291
+        ],
+        "worldPosition": [
+            55.04999923706055,
+            23.700000762939453,
+            0.004999999888241291
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "dock_11",
+        "gameObject": "Song_lever_side (2)",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            139.05999755859375,
+            67.5199966430664,
+            0.004999999888241291
+        ],
+        "worldPosition": [
+            139.05999755859375,
+            67.5199966430664,
+            0.004999999888241291
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side (2)",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "dock_11",
+        "gameObject": "Song_lever_side",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            52.999935150146484,
+            66.39716339111328,
+            0.004999999888241291
+        ],
+        "worldPosition": [
+            52.999935150146484,
+            66.39716339111328,
+            0.004999999888241291
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "dock_11",
+        "gameObject": "Song_lever_side (1)",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            79.03611755371094,
+            66.66446685791016,
+            0.004999999888241291
+        ],
+        "worldPosition": [
+            79.03611755371094,
+            66.66446685791016,
+            0.004999999888241291
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side (1)",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "dust_02",
+        "gameObject": "greymoor_flip_bridge/controls/lever_top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            1.0706787109375,
+            0.31000006198883057,
+            -3.046999931335449
+        ],
+        "worldPosition": [
+            23.087678909301758,
+            12.738000400364399,
+            0.007390022277832031
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dust_02",
+        "gameObject": "greymoor_flip_bridge (1)/controls/lever_top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            1.0706787109375,
+            0.31000006198883057,
+            -3.046999931335449
+        ],
+        "worldPosition": [
+            8.074678897857666,
+            22.73400069028139,
+            0.007390022277832031
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dust_02",
+        "gameObject": "greymoor_flip_bridge (1)/controls/lever_bottom",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            0.9700000286102295,
+            0.31000006198883057,
+            -3.0468900203704834
+        ],
+        "worldPosition": [
+            7.9740002155303955,
+            22.73400069028139,
+            0.0074999332427978516
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dust_02",
+        "gameObject": "greymoor_flip_bridge/controls/lever_bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            0.9700000286102295,
+            0.31000006198883057,
+            -3.0468900203704834
+        ],
+        "worldPosition": [
+            22.987000226974487,
+            12.738000400364399,
+            0.0074999332427978516
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dust_02",
+        "gameObject": "greymoor_lever_simple_EDITED",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            10.800000190734863,
+            87.87999725341797,
+            0.09000000357627869
+        ],
+        "worldPosition": [
+            10.800000190734863,
+            87.87999725341797,
+            0.09000000357627869
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "greymoor_lever_simple_EDITED",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "dust_02",
+        "gameObject": "greymoor_lever_simple",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            50.91999816894531,
+            106.69000244140625,
+            0.09000000357627869
+        ],
+        "worldPosition": [
+            50.91999816894531,
+            106.69000244140625,
+            0.09000000357627869
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "Dust_02",
+            "ID": "Dust_02Gate",
+            "pbiGoName": "greymoor_lever_simple",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "dust_04",
+        "gameObject": "greymoor_lever_simple",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            2.4000000953674316,
+            54.68000030517578,
+            0.03999999910593033
+        ],
+        "worldPosition": [
+            2.4000000953674316,
+            54.68000030517578,
+            0.03999999910593033
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "Dust_02",
+            "ID": "Dust_02Gate",
+            "pbiGoName": "greymoor_lever_simple",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "dust_05",
+        "gameObject": "greymoor_flip_bridge (1)/controls/lever_top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            1.0706787109375,
+            0.31000006198883057,
+            -3.046999931335449
+        ],
+        "worldPosition": [
+            167.14068603515625,
+            7.735000140964985,
+            0.013390022329986095
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dust_05",
+        "gameObject": "greymoor_flip_bridge/controls/lever_top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            1.0706787109375,
+            0.31000006198883057,
+            -3.046999931335449
+        ],
+        "worldPosition": [
+            159.07000732421875,
+            16.79272986203432,
+            0.013390022329986095
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dust_05",
+        "gameObject": "greymoor_flip_bridge (2)/controls/lever_top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            1.0706787109375,
+            0.31000006198883057,
+            -3.046999931335449
+        ],
+        "worldPosition": [
+            150.09567260742188,
+            7.735000140964985,
+            0.013390022329986095
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dust_05",
+        "gameObject": "greymoor_flip_bridge (2)/controls/lever_bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            0.9700000286102295,
+            0.31000006198883057,
+            -3.0468900203704834
+        ],
+        "worldPosition": [
+            149.9949939250946,
+            7.735000140964985,
+            0.013499933294951916
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dust_05",
+        "gameObject": "greymoor_flip_bridge/controls/lever_bottom",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            0.9700000286102295,
+            0.31000006198883057,
+            -3.0468900203704834
+        ],
+        "worldPosition": [
+            158.96932864189148,
+            16.79272986203432,
+            0.013499933294951916
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dust_05",
+        "gameObject": "greymoor_flip_bridge (1)/controls/lever_bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            0.9700000286102295,
+            0.31000006198883057,
+            -3.0468900203704834
+        ],
+        "worldPosition": [
+            167.04000735282898,
+            7.735000140964985,
+            0.013499933294951916
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dust_05",
+        "gameObject": "greymoor_lever_simple",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            341.4800109863281,
+            23.649999618530273,
+            0.027000000700354576
+        ],
+        "worldPosition": [
+            341.4800109863281,
+            23.649999618530273,
+            0.027000000700354576
+        ],
+        "pdBool": "openedDust05Gate",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "greymoor_lever_simple",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "dust_06",
+        "gameObject": "greymoor_flip_bridge (3)/controls/lever_top",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            1.0706787109375,
+            0.31000006198883057,
+            -3.046999931335449
+        ],
+        "worldPosition": [
+            4.0706787109375,
+            177.74099493771791,
+            0.007390022277832031
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dust_06",
+        "gameObject": "greymoor_flip_bridge (2)/controls/lever_top",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            1.0706787109375,
+            0.31000006198883057,
+            -3.046999931335449
+        ],
+        "worldPosition": [
+            26.056678771972656,
+            177.74099493771791,
+            0.007390022277832031
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dust_06",
+        "gameObject": "greymoor_flip_bridge (2)/controls/lever_bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            0.9700000286102295,
+            0.31000006198883057,
+            -3.0468900203704834
+        ],
+        "worldPosition": [
+            25.956000089645386,
+            177.74099493771791,
+            0.0074999332427978516
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dust_06",
+        "gameObject": "greymoor_flip_bridge (3)/controls/lever_bottom",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            0.9700000286102295,
+            0.31000006198883057,
+            -3.0468900203704834
+        ],
+        "worldPosition": [
+            3.9700000286102295,
+            177.74099493771791,
+            0.0074999332427978516
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dust_chef",
+        "gameObject": "greymoor_lever_simple",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            5.960375785827637,
+            35.01388931274414,
+            0.017999999225139618
+        ],
+        "worldPosition": [
+            5.960375785827637,
+            35.01388931274414,
+            0.017999999225139618
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "greymoor_lever_simple",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "dust_chef",
+        "gameObject": "greymoor_flip_bridge_split/greymoor_flip_bridge/controls/lever_top",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            1.0706787109375,
+            0.31000006198883057,
+            -3.046999931335449
+        ],
+        "worldPosition": [
+            10.350678443908691,
+            24.799999300390482,
+            0.007390022277832031
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dust_chef",
+        "gameObject": "greymoor_flip_bridge_split/greymoor_flip_bridge/controls/lever_bottom",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            0.9700000286102295,
+            0.31000006198883057,
+            -3.0468900203704834
+        ],
+        "worldPosition": [
+            10.249999761581421,
+            24.799999300390482,
+            0.0074999332427978516
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dust_chef",
+        "gameObject": "greymoor_flip_bridge_split/greymoor_flip_bridge (1)/controls/lever_bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            0.9700000286102295,
+            0.31000006198883057,
+            -3.0468900203704834
+        ],
+        "worldPosition": [
+            10.249999761581421,
+            22.01999932900071,
+            0.0074999332427978516
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dust_chef",
+        "gameObject": "greymoor_flip_bridge_split/greymoor_flip_bridge (1)/controls/lever_top",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            1.0706787109375,
+            0.31000006198883057,
+            -3.046999931335449
+        ],
+        "worldPosition": [
+            10.350678443908691,
+            22.01999932900071,
+            0.007390022277832031
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dust_maze_01",
+        "gameObject": "Mist Maze Controller/Trap Sets/Trap Set/greymoor_flip_bridge/controls/lever_top",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            1.0706787109375,
+            0.31000006198883057,
+            -3.046999931335449
+        ],
+        "worldPosition": [
+            127.08567810058594,
+            12.738000400364399,
+            0.007390022277832031
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dust_maze_01",
+        "gameObject": "Mist Maze Controller/Trap Sets/Trap Set/greymoor_flip_bridge (1)/controls/lever_top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            1.0706787109375,
+            0.31000006198883057,
+            -3.046999931335449
+        ],
+        "worldPosition": [
+            127.08567810058594,
+            12.738000400364399,
+            0.007390022277832031
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dust_maze_01",
+        "gameObject": "Mist Maze Controller/Trap Sets/Trap Set/greymoor_flip_bridge (1)/controls/lever_bottom",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            0.9700000286102295,
+            0.31000006198883057,
+            -3.0468900203704834
+        ],
+        "worldPosition": [
+            126.98499941825867,
+            12.738000400364399,
+            0.0074999332427978516
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dust_maze_01",
+        "gameObject": "Mist Maze Controller/Trap Sets/Trap Set/greymoor_flip_bridge/controls/lever_bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            0.9700000286102295,
+            0.31000006198883057,
+            -3.0468900203704834
+        ],
+        "worldPosition": [
+            126.98499941825867,
+            12.738000400364399,
+            0.0074999332427978516
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dust_maze_02",
+        "gameObject": "Mist Maze Controller/Level Set/greymoor_flip_bridge/controls/lever_top",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            1.0706787109375,
+            0.31000006198883057,
+            -3.046999931335449
+        ],
+        "worldPosition": [
+            50.082679748535156,
+            12.736999996006489,
+            0.007390022277832031
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dust_maze_02",
+        "gameObject": "Mist Maze Controller/Level Set/greymoor_flip_bridge (1)/controls/lever_top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            1.0706787109375,
+            0.31000006198883057,
+            -3.046999931335449
+        ],
+        "worldPosition": [
+            50.082679748535156,
+            12.736999996006489,
+            0.007390022277832031
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dust_maze_02",
+        "gameObject": "Mist Maze Controller/Level Set/greymoor_flip_bridge (1)/controls/lever_bottom",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            0.9700000286102295,
+            0.31000006198883057,
+            -3.0468900203704834
+        ],
+        "worldPosition": [
+            49.982001066207886,
+            12.736999996006489,
+            0.0074999332427978516
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dust_maze_02",
+        "gameObject": "Mist Maze Controller/Level Set/greymoor_flip_bridge/controls/lever_bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            0.9700000286102295,
+            0.31000006198883057,
+            -3.0468900203704834
+        ],
+        "worldPosition": [
+            49.982001066207886,
+            12.736999996006489,
+            0.0074999332427978516
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dust_maze_03",
+        "gameObject": "Mist Maze Controller/Level Set (2)/greymoor_flip_bridge/controls/lever_top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            1.0706787109375,
+            0.31000006198883057,
+            -3.046999931335449
+        ],
+        "worldPosition": [
+            16.074678421020508,
+            36.7380004003644,
+            0.007390022277832031
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dust_maze_03",
+        "gameObject": "Mist Maze Controller/Level Set (2)/greymoor_flip_bridge (1)/controls/lever_top",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            1.0706787109375,
+            0.31000006198883057,
+            -3.046999931335449
+        ],
+        "worldPosition": [
+            16.074678421020508,
+            36.7380004003644,
+            0.007390022277832031
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dust_maze_03",
+        "gameObject": "Mist Maze Controller/Level Set (2)/greymoor_flip_bridge/controls/lever_bottom",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            0.9700000286102295,
+            0.31000006198883057,
+            -3.0468900203704834
+        ],
+        "worldPosition": [
+            15.973999738693237,
+            36.7380004003644,
+            0.0074999332427978516
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dust_maze_03",
+        "gameObject": "Mist Maze Controller/Level Set (2)/greymoor_flip_bridge (1)/controls/lever_bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            0.9700000286102295,
+            0.31000006198883057,
+            -3.0468900203704834
+        ],
+        "worldPosition": [
+            15.973999738693237,
+            36.7380004003644,
+            0.0074999332427978516
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dust_maze_04",
+        "gameObject": "greymoor_flip_bridge/controls/lever_top",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            1.0706787109375,
+            0.31000006198883057,
+            -3.046999931335449
+        ],
+        "worldPosition": [
+            111.08168029785156,
+            35.73899985104799,
+            0.007390022277832031
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "dust_maze_04",
+        "gameObject": "greymoor_flip_bridge/controls/lever_bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            0.9700000286102295,
+            0.31000006198883057,
+            -3.0468900203704834
+        ],
+        "worldPosition": [
+            110.98100161552429,
+            35.73899985104799,
+            0.0074999332427978516
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "greymoor_01",
+        "gameObject": "Song_lever_side",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            117.23999786376953,
+            17.050697326660156,
+            0.004999999888241291
+        ],
+        "worldPosition": [
+            117.23999786376953,
+            17.050697326660156,
+            0.004999999888241291
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "greymoor_02",
+        "gameObject": "greymoor_lever_simple",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            4.559999942779541,
+            125.56999969482422,
+            0.03500000014901161
+        ],
+        "worldPosition": [
+            4.559999942779541,
+            125.56999969482422,
+            0.03500000014901161
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "greymoor_lever_simple",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "greymoor_02",
+        "gameObject": "Greymoor Stand Lever - Bridge",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            78.54520416259766,
+            63.25202560424805,
+            0.00800000037997961
+        ],
+        "worldPosition": [
+            78.54520416259766,
+            63.25202560424805,
+            0.00800000037997961
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Greymoor Stand Lever - Bridge",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "greymoor_02",
+        "gameObject": "Greymoor Stand Lever - Crane",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            69.72000122070312,
+            38.16999816894531,
+            0.00800000037997961
+        ],
+        "worldPosition": [
+            69.72000122070312,
+            38.16999816894531,
+            0.00800000037997961
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Greymoor Stand Lever - Crane",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "greymoor_06",
+        "gameObject": "belltown_lever_drop_plat/drop_plat/lever",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0686492919921875,
+            0.50274658203125,
+            0.07100000232458115
+        ],
+        "worldPosition": [
+            14.400140762329102,
+            137.90052032470703,
+            0.0
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "belltown_lever_drop_plat",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "greymoor_07",
+        "gameObject": "greymoor_lever_simple",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            64.62000274658203,
+            26.540000915527344,
+            0.05000000074505806
+        ],
+        "worldPosition": [
+            64.62000274658203,
+            26.540000915527344,
+            0.05000000074505806
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "greymoor_lever_simple",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "greymoor_15",
+        "gameObject": "greymoor_lever_simple",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            71.05999755859375,
+            67.31999969482422,
+            0.05000000074505806
+        ],
+        "worldPosition": [
+            71.05999755859375,
+            67.31999969482422,
+            0.05000000074505806
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "greymoor_lever_simple",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "greymoor_15b",
+        "gameObject": "greymoor_flip_bridge/controls/lever_top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            1.0706787109375,
+            0.31000006198883057,
+            -3.046999931335449
+        ],
+        "worldPosition": [
+            184.09268188476562,
+            45.72900152951479,
+            0.007390022277832031
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "greymoor_15b",
+        "gameObject": "greymoor_flip_bridge/controls/lever_bottom",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            0.9700000286102295,
+            0.31000006198883057,
+            -3.0468900203704834
+        ],
+        "worldPosition": [
+            183.99200320243835,
+            45.72900152951479,
+            0.0074999332427978516
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "greymoor_15b",
+        "gameObject": "Greymoor Stand Lever",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            150.35708618164062,
+            15.905163764953613,
+            0.00800000037997961
+        ],
+        "worldPosition": [
+            150.35708618164062,
+            15.905163764953613,
+            0.00800000037997961
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Greymoor Stand Lever",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "greymoor_15b",
+        "gameObject": "Greymoor Stand Lever (1)",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            110.04000091552734,
+            86.3127670288086,
+            0.008999999612569809
+        ],
+        "worldPosition": [
+            110.04000091552734,
+            86.3127670288086,
+            0.008999999612569809
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Greymoor Stand Lever (1)",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "greymoor_16",
+        "gameObject": "greymoor_flip_bridge/controls/lever_top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            1.0706787109375,
+            0.31000006198883057,
+            -3.046999931335449
+        ],
+        "worldPosition": [
+            64.08367538452148,
+            19.742000110447407,
+            0.007390022277832031
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "greymoor_16",
+        "gameObject": "greymoor_flip_bridge/controls/lever_bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            0.9700000286102295,
+            0.31000006198883057,
+            -3.0468900203704834
+        ],
+        "worldPosition": [
+            63.982996702194214,
+            19.742000110447407,
+            0.0074999332427978516
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "greymoor_20c",
+        "gameObject": "Battle Scene/greymoor_flip_bridge (1)/controls/lever_top",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            1.0706787109375,
+            0.31000006198883057,
+            -3.046999931335449
+        ],
+        "worldPosition": [
+            37.07667827606201,
+            30.735000140964985,
+            0.007390022277832031
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "greymoor_20c",
+        "gameObject": "Battle Scene/greymoor_flip_bridge (1)/controls/lever_bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            0.9700000286102295,
+            0.31000006198883057,
+            -3.0468900203704834
+        ],
+        "worldPosition": [
+            36.97599959373474,
+            30.735000140964985,
+            0.0074999332427978516
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "hang_06",
+        "gameObject": "Bot Blocker/offset/sprite/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            0.0,
+            3.180000066757202,
+            0.019999999552965164
+        ],
+        "worldPosition": [
+            28.910579681396484,
+            3.440000057220459,
+            0.018999999505467713
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Bot Blocker",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "hang_06_bank",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            24.139999389648438,
+            22.02000069618225,
+            0.004939999431371689
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "hang_06_bank",
+        "gameObject": "Pipe_Vent_Hatch (1)/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            45.23999786376953,
+            17.420000314712524,
+            0.010699999518692493
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "hang_06_bank",
+        "gameObject": "Song_lever_side",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            73.38999938964844,
+            31.09000015258789,
+            0.004999999888241291
+        ],
+        "worldPosition": [
+            73.38999938964844,
+            31.09000015258789,
+            0.004999999888241291
+        ],
+        "pdBool": "bankOpened",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "hang_06_bank",
+        "gameObject": "Pipe_Vent_Hatch (1)/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            45.23999834060669,
+            15.73000031709671,
+            0.010799999698065221
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "hang_06_bank",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Top",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            24.139999866485596,
+            20.330000698566437,
+            0.005039999610744417
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "hang_14",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            55.91999816894531,
+            28.600000619888306,
+            0.00578349968418479
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "hang_14",
+        "gameObject": "Pipe_Vent_Hatch (1)/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            80.47999954223633,
+            24.559999704360962,
+            0.00578349968418479
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "hang_14",
+        "gameObject": "Pipe_Vent_Hatch (1)/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            80.48000001907349,
+            22.869999706745148,
+            0.0058834998635575175
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "hang_14",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            55.91999864578247,
+            26.91000062227249,
+            0.0058834998635575175
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "library_02",
+        "gameObject": "GameObject/Pipe_Vent_Hatch (2)/Lever Cog/Lever Bottom",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            -0.5430030822753906,
+            45.83999848365784,
+            0.010699999518692493
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "library_02",
+        "gameObject": "GameObject/Pipe_Vent_Hatch/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            57.0569953918457,
+            48.73000168800354,
+            0.0014636637642979622
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "library_02",
+        "gameObject": "GameObject/Pipe_Vent_Hatch (1)/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            90.01699447631836,
+            55.598772287368774,
+            0.0014636637642979622
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "library_02",
+        "gameObject": "GameObject/Pipe_Vent_Hatch (2)/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            -0.5430026054382324,
+            44.14999848604202,
+            0.010799999698065221
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "library_02",
+        "gameObject": "GameObject/Pipe_Vent_Hatch (1)/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            90.01699495315552,
+            53.90877228975296,
+            0.00156366394367069
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "library_02",
+        "gameObject": "GameObject/Pipe_Vent_Hatch/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            57.05699586868286,
+            47.040001690387726,
+            0.00156366394367069
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "library_03",
+        "gameObject": "left_side/innerworks_lever",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            15.399999618530273,
+            3.4700164794921875,
+            0.008999999612569809
+        ],
+        "worldPosition": [
+            29.899999618530273,
+            41.97001647949219,
+            0.008999999612569809
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "innerworks_lever",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "library_03",
+        "gameObject": "Song_lever_side",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            18.3700008392334,
+            40.20000076293945,
+            0.004999999888241291
+        ],
+        "worldPosition": [
+            18.3700008392334,
+            40.20000076293945,
+            0.004999999888241291
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "library_04",
+        "gameObject": "Song_lever_side",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            50.0,
+            160.26998901367188,
+            0.004999999888241291
+        ],
+        "worldPosition": [
+            50.0,
+            160.26998901367188,
+            0.004999999888241291
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "library_04",
+        "gameObject": "Song_lever_side (1)",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            10.150002479553223,
+            88.12999725341797,
+            0.004999999888241291
+        ],
+        "worldPosition": [
+            10.150002479553223,
+            88.12999725341797,
+            0.004999999888241291
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side (1)",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "library_07",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            24.25,
+            171.24999451637268,
+            2.3999251425266266e-05
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "library_07",
+        "gameObject": "innerworks_trap_bridge/lever_right",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            7.340000152587891,
+            -1.659999966621399,
+            0.008999999612569809
+        ],
+        "worldPosition": [
+            27.5,
+            76.82999789714813,
+            0.008999999612569809
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "library_07",
+        "gameObject": "innerworks_trap_bridge/lever_left",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            0.3499999940395355,
+            -1.6699999570846558,
+            0.008999999612569809
+        ],
+        "worldPosition": [
+            20.509999841451645,
+            76.81999790668488,
+            0.008999999612569809
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "library_07",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            24.250000476837158,
+            169.55999451875687,
+            0.00012399943079799414
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "library_09",
+        "gameObject": "Pipe_Vent_Hatch (1)/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            139.3400001525879,
+            2.4600000381469727,
+            2.3973174393177032e-05
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "library_09",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            152.22999954223633,
+            22.459999322891235,
+            0.010699999518692493
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "library_09",
+        "gameObject": "Song_lever_side",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            16.239999771118164,
+            17.420000076293945,
+            0.004999999888241291
+        ],
+        "worldPosition": [
+            16.239999771118164,
+            17.420000076293945,
+            0.004999999888241291
+        ],
+        "pdBool": "libraryRoofShortcut",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "library_09",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            152.2300000190735,
+            20.76999932527542,
+            0.010799999698065221
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "library_09",
+        "gameObject": "Pipe_Vent_Hatch (1)/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            139.34000062942505,
+            0.7700000405311584,
+            0.0001239733537659049
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "library_11",
+        "gameObject": "Vent Pass Through/Understore Lever (1)",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            6.422571182250977,
+            233.90603637695312,
+            0.00950002670288086
+        ],
+        "worldPosition": [
+            6.422571182250977,
+            233.90603637695312,
+            0.00950002670288086
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "library_11",
+        "gameObject": "Vent Pass Through/Understore Lever",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            25.420000076293945,
+            233.90603637695312,
+            0.00950002670288086
+        ],
+        "worldPosition": [
+            25.420000076293945,
+            233.90603637695312,
+            0.00950002670288086
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "library_11",
+        "gameObject": "Understore Big Plate Gate/Lever",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.6700057983398438,
+            -0.0028715133666992188,
+            0.0
+        ],
+        "worldPosition": [
+            1.0799942016601562,
+            91.33712482452393,
+            -0.11999999731779099
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Understore Big Plate Gate",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "library_11",
+        "gameObject": "Move Up/library_lift_large/Cage/Lever",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            0.11400000005960464,
+            2.0439999103546143,
+            0.00989999994635582
+        ],
+        "worldPosition": [
+            15.894313491880894,
+            265.5210257768631,
+            0.00989999994635582
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "library_11b",
+        "gameObject": "Library_11b_bottom/Plug_Gate/Active/Lever",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.294403076171875,
+            -0.031269073486328125,
+            0.05442187562584877
+        ],
+        "worldPosition": [
+            60.40559768676758,
+            19.868898391723633,
+            0.012975189834833145
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Plug_Gate",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "library_12",
+        "gameObject": "Plug_Gate/Active/Lever",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.294403076171875,
+            -0.031269073486328125,
+            0.05442187562584877
+        ],
+        "worldPosition": [
+            56.36558532714844,
+            102.84873580932617,
+            0.012975189834833145
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Plug_Gate",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "library_13",
+        "gameObject": "Song_lever_side (1)",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            27.549999237060547,
+            18.010000228881836,
+            0.004999999888241291
+        ],
+        "worldPosition": [
+            27.549999237060547,
+            18.010000228881836,
+            0.004999999888241291
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side (1)",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "library_13",
+        "gameObject": "Song_lever_side",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            104.04000091552734,
+            22.309999465942383,
+            0.009499999694526196
+        ],
+        "worldPosition": [
+            104.04000091552734,
+            22.309999465942383,
+            0.009499999694526196
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "library_15",
+        "gameObject": "Song_lever_side",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            8.449999809265137,
+            13.100000381469727,
+            0.004999999888241291
+        ],
+        "worldPosition": [
+            8.449999809265137,
+            13.100000381469727,
+            0.004999999888241291
+        ],
+        "pdBool": "scholarAcolytesReleased",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "mosstown_01",
+        "gameObject": "Bone Lever",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            24.3700008392334,
+            13.680000305175781,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            24.3700008392334,
+            13.680000305175781,
+            0.007000000216066837
+        ],
+        "pdBool": "mosstown01_shortcut",
+        "persistent": {
+            "SceneName": "Mosstown_01",
+            "ID": "Trapdoor Lever",
+            "pbiGoName": "Bone Lever",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "mosstown_02",
+        "gameObject": "Bone Lever 2",
+        "active": false,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            25.059999465942383,
+            33.97999954223633,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            25.059999465942383,
+            33.97999954223633,
+            0.007000000216066837
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Bone Lever 2",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "peak_05",
+        "gameObject": "Group/Song_lever_side",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            20.008392333984375,
+            10.04205322265625,
+            -2.447866439819336
+        ],
+        "worldPosition": [
+            222.36837768554688,
+            164.51205444335938,
+            0.005000114440917969
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "room_crowcourt",
+        "gameObject": "Battle Scene/Gates/greymoor_flip_bridge_BG (1)/controls/lever_bottom",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            1.0706787109375,
+            0.31000006198883057,
+            -3.0468900203704834
+        ],
+        "worldPosition": [
+            29.540678024291992,
+            55.70999884605408,
+            0.3131098747253418
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "room_crowcourt",
+        "gameObject": "Battle Scene/Gates/greymoor_flip_bridge_BG (1)/controls/lever_top",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            1.0706787109375,
+            0.31000006198883057,
+            -3.0468900203704834
+        ],
+        "worldPosition": [
+            29.540678024291992,
+            55.70999884605408,
+            0.3131098747253418
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "room_crowcourt",
+        "gameObject": "Battle Scene/Bone Lever",
+        "active": false,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            5.060802459716797,
+            14.420000076293945,
+            -1.7230000495910645
+        ],
+        "worldPosition": [
+            29.30080223083496,
+            62.26999855041504,
+            0.006999969482421875
+        ],
+        "pdBool": "hitCrowCourtSwitch",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Bone Lever",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "room_crowcourt",
+        "gameObject": "Battle Scene/Gates/greymoor_flip_bridge_BG/controls/lever_top",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            1.0706787109375,
+            0.31000006198883057,
+            -3.0468900203704834
+        ],
+        "worldPosition": [
+            29.540678024291992,
+            55.70999884605408,
+            0.3131098747253418
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "room_crowcourt",
+        "gameObject": "Battle Scene/Gates/greymoor_flip_bridge_BG/controls/lever_bottom",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            1.0706787109375,
+            0.31000006198883057,
+            -3.0468900203704834
+        ],
+        "worldPosition": [
+            29.540678024291992,
+            55.70999884605408,
+            0.3131098747253418
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "room_crowcourt",
+        "gameObject": "greymoor_lever_simple",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            28.479999542236328,
+            65.83999633789062,
+            0.09000000357627869
+        ],
+        "worldPosition": [
+            28.479999542236328,
+            65.83999633789062,
+            0.09000000357627869
+        ],
+        "pdBool": "hitCrowCourtSwitch",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "greymoor_lever_simple",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "room_forge",
+        "gameObject": "Battle Scene/Extra Scene Doors/dock_pipe_trapdoor (2)/Levers/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.029994934797286987,
+            0.6700000166893005,
+            0.0
+        ],
+        "worldPosition": [
+            73.96000292897224,
+            21.409999787807465,
+            0.009999999776482582
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "room_forge",
+        "gameObject": "dock_pipe_trapdoor/Levers/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.029994934797286987,
+            0.6700000166893005,
+            0.0
+        ],
+        "worldPosition": [
+            73.96000292897224,
+            31.409999787807465,
+            0.009999999776482582
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "room_forge",
+        "gameObject": "dock_pipe_trapdoor (4)/Levers/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.029994934797286987,
+            0.6700000166893005,
+            0.0
+        ],
+        "worldPosition": [
+            38.97000125050545,
+            59.68999665975571,
+            0.03399999998509884
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "room_forge",
+        "gameObject": "dock_pipe_opener_door (1)/Lever Right",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            3.6500000953674316,
+            5.489999771118164,
+            0.019999999552965164
+        ],
+        "worldPosition": [
+            37.55999994277954,
+            21.15999984741211,
+            0.019999999552965164
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "room_forge",
+        "gameObject": "dock_pipe_opener_door (1)/Lever Left",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            0.1899999976158142,
+            5.409999847412109,
+            0.019999999552965164
+        ],
+        "worldPosition": [
+            34.099999845027924,
+            21.079999923706055,
+            0.019999999552965164
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "room_forge",
+        "gameObject": "Song_lever_side",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            51.400001525878906,
+            32.040000915527344,
+            0.007199999876320362
+        ],
+        "worldPosition": [
+            51.400001525878906,
+            32.040000915527344,
+            0.007199999876320362
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "room_forge",
+        "gameObject": "Battle Scene/Extra Scene Doors/dock_pipe_trapdoor (2)/Levers/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.029994934797286987,
+            -0.809999942779541,
+            0.0
+        ],
+        "worldPosition": [
+            73.96000292897224,
+            19.929999828338623,
+            0.009999999776482582
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "room_forge",
+        "gameObject": "dock_pipe_trapdoor/Levers/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.029994934797286987,
+            -0.809999942779541,
+            0.0
+        ],
+        "worldPosition": [
+            73.96000292897224,
+            29.929999828338623,
+            0.009999999776482582
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "room_forge",
+        "gameObject": "dock_pipe_trapdoor (4)/Levers/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.029994934797286987,
+            -0.809999942779541,
+            0.0
+        ],
+        "worldPosition": [
+            38.97000125050545,
+            58.209996700286865,
+            0.03399999998509884
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "shadow_weavehome",
+        "gameObject": "Group/weaver_lift_power_chamber/switches/Lever_Right",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            5.130000114440918,
+            8.319999694824219,
+            -6.038360118865967
+        ],
+        "worldPosition": [
+            134.8816785812378,
+            63.788787841796875,
+            -0.1500002145767212
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "shadow_weavehome",
+        "gameObject": "Group/weaver_lift_power_chamber/switches/Lever_Left",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -10.569999694824219,
+            8.34000015258789,
+            -6.038360118865967
+        ],
+        "worldPosition": [
+            119.18167877197266,
+            63.80878829956055,
+            -0.1500002145767212
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "slab_02",
+        "gameObject": "slab_jail_lever",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            12.8100004196167,
+            6.139999866485596,
+            0.008799999952316284
+        ],
+        "worldPosition": [
+            12.8100004196167,
+            6.139999866485596,
+            0.008799999952316284
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "Slab_02",
+            "ID": "slab_jail_lever",
+            "pbiGoName": "slab_jail_lever",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "slab_03",
+        "gameObject": "slab_jail_lever",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            23.25,
+            103.1500015258789,
+            0.008799999952316284
+        ],
+        "worldPosition": [
+            23.25,
+            103.1500015258789,
+            0.008799999952316284
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "slab_jail_lever",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "slab_03",
+        "gameObject": "slab_jail_lever (1)",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            6.019999980926514,
+            122.15310668945312,
+            0.008799999952316284
+        ],
+        "worldPosition": [
+            6.019999980926514,
+            122.15310668945312,
+            0.008799999952316284
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "slab_jail_lever (1)",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "slab_22",
+        "gameObject": "slab_jail_lever",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            33.59000015258789,
+            8.930000305175781,
+            0.008799999952316284
+        ],
+        "worldPosition": [
+            33.59000015258789,
+            8.930000305175781,
+            0.008799999952316284
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "slab_jail_lever",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "song_01",
+        "gameObject": "GameObject (3)/Song_lever_side",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            6.176475524902344,
+            3.2843589782714844,
+            -11.588302612304688
+        ],
+        "worldPosition": [
+            100.17517852783203,
+            79.0843620300293,
+            0.008000373840332031
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "song_01",
+        "gameObject": "Pipe Vent Hatch Split/Pipe_Vent_Hatch/Lever Cog/Lever Bottom",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            90.13000106811523,
+            109.930002450943,
+            0.010699999518692493
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "song_01",
+        "gameObject": "Pipe Vent Hatch Split/Pipe_Vent_Hatch (1)/Lever Cog/Lever Bottom",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            83.61000108718872,
+            106.2700023651123,
+            0.010699999518692493
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "song_01",
+        "gameObject": "Pipe Vent Hatch Split/Pipe_Vent_Hatch/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            90.13000154495239,
+            108.24000245332718,
+            0.010799999698065221
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "song_01",
+        "gameObject": "Pipe Vent Hatch Split/Pipe_Vent_Hatch (1)/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            83.61000156402588,
+            104.58000236749649,
+            0.010799999698065221
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "song_01b",
+        "gameObject": "Song_lever_side (1)",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            57.2400016784668,
+            4.059999942779541,
+            0.007199999876320362
+        ],
+        "worldPosition": [
+            57.2400016784668,
+            4.059999942779541,
+            0.007199999876320362
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side (1)",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "song_01c",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Bottom",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            -0.9300005435943604,
+            1.7819006443023682,
+            -0.00021700840443372726
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "song_01c",
+        "gameObject": "Pipe_Vent_Hatch (1)/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            22.1299991607666,
+            34.71999955177307,
+            -0.007509994320571423
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "song_01c",
+        "gameObject": "Pipe_Vent_Hatch (1)/Lever Cog/Lever Top",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            22.12999963760376,
+            33.02999955415726,
+            -0.007409994141198695
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "song_01c",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            -0.9300000667572021,
+            0.09190064668655396,
+            -0.0001170082250609994
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "song_02",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            0.04500000178813934,
+            -0.08699999749660492,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            78.18700258433819,
+            14.652000024914742,
+            0.006379999686032534
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "song_02",
+        "gameObject": "Pipe_Vent_Hatch (1)/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            0.04500000178813934,
+            -0.1488877534866333,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            95.17500154674053,
+            14.590112268924713,
+            0.006379999686032534
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "song_02",
+        "gameObject": "Pipe_Vent_Hatch (1)/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            95.13000154495239,
+            13.859000027179718,
+            0.0064799998654052615
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "song_02",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            78.14200258255005,
+            13.859000027179718,
+            0.0064799998654052615
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "song_04",
+        "gameObject": "Bot Blocker/offset/sprite/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            0.0,
+            2.3399999141693115,
+            0.019999999552965164
+        ],
+        "worldPosition": [
+            27.975616306066513,
+            2.3799999356269836,
+            0.018999999505467713
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "Song_04",
+            "ID": "Bot Blocker",
+            "pbiGoName": "Bot Blocker",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "song_04",
+        "gameObject": "innerworks_trap_bridge/lever_right",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            7.340000152587891,
+            -1.659999966621399,
+            0.008999999612569809
+        ],
+        "worldPosition": [
+            111.4849967956543,
+            28.81999957561493,
+            0.008999999612569809
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "song_04",
+        "gameObject": "innerworks_trap_bridge/lever_left",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            0.3499999940395355,
+            -1.6699999570846558,
+            0.008999999612569809
+        ],
+        "worldPosition": [
+            104.49499663710594,
+            28.809999585151672,
+            0.008999999612569809
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "song_09b",
+        "gameObject": "Pipe_Vent_Hatch (1)/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            50.84000015258789,
+            118.72364258766174,
+            -0.0011599985882639885
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "song_09b",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            22.389999389648438,
+            125.71000123023987,
+            -0.0011600004509091377
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "song_09b",
+        "gameObject": "Song_lever_side",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            91.58999633789062,
+            131.86000061035156,
+            0.007199999876320362
+        ],
+        "worldPosition": [
+            91.58999633789062,
+            131.86000061035156,
+            0.007199999876320362
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "song_09b",
+        "gameObject": "Song_lever_side (1)",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            11.029999732971191,
+            131.99000549316406,
+            0.007209999952465296
+        ],
+        "worldPosition": [
+            11.029999732971191,
+            131.99000549316406,
+            0.007209999952465296
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side (1)",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "song_09b",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            22.389999866485596,
+            124.02000123262405,
+            -0.0010600002715364099
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "song_09b",
+        "gameObject": "Pipe_Vent_Hatch (1)/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            50.84000062942505,
+            117.03364259004593,
+            -0.0010599984088912606
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "song_10",
+        "gameObject": "Pipe_Cog_Lever",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            122.04045867919922,
+            61.10545349121094,
+            0.010699999518692493
+        ],
+        "worldPosition": [
+            122.04045867919922,
+            61.10545349121094,
+            0.010699999518692493
+        ],
+        "pdBool": "openedCitadelSpaRight",
+        "persistent": null
+    },
+    {
+        "sceneName": "song_10",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            0.04500000178813934,
+            -0.0949999988079071,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            79.21400301158428,
+            50.65499970316887,
+            0.006379999686032534
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "song_10",
+        "gameObject": "Song_lever_side",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            63.720001220703125,
+            57.9900016784668,
+            0.00989999994635582
+        ],
+        "worldPosition": [
+            63.720001220703125,
+            57.9900016784668,
+            0.00989999994635582
+        ],
+        "pdBool": "openedCitadelSpaLeft",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "song_10",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            79.16900300979614,
+            49.86999970674515,
+            0.0064799998654052615
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "song_11",
+        "gameObject": "Plug_Gate/Active/Lever",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.294403076171875,
+            -0.031269073486328125,
+            0.05442187562584877
+        ],
+        "worldPosition": [
+            58.365596771240234,
+            181.00498580932617,
+            0.00950000062584877
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Plug_Gate",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "song_11",
+        "gameObject": "Song_lever_side",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            25.34000015258789,
+            62.15999984741211,
+            0.004999999888241291
+        ],
+        "worldPosition": [
+            25.34000015258789,
+            62.15999984741211,
+            0.004999999888241291
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "song_18",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Bottom",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            70.34199905395508,
+            20.50000023841858,
+            -0.005140000022947788
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "song_18",
+        "gameObject": "Pipe_Vent_Hatch (4)/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            70.35000228881836,
+            61.850000619888306,
+            -0.005140000022947788
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "song_18",
+        "gameObject": "Pipe_Vent_Hatch (1)/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            51.91999435424805,
+            61.850000619888306,
+            -0.005140000022947788
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "song_18",
+        "gameObject": "Pipe_Vent_Hatch (2)/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            92.34000015258789,
+            56.510000467300415,
+            -0.005140000022947788
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "song_18",
+        "gameObject": "Pipe_Vent_Hatch (4)/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            70.35000276565552,
+            60.16000062227249,
+            -0.00503999984357506
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "song_18",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            70.34199953079224,
+            18.810000240802765,
+            -0.00503999984357506
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "song_18",
+        "gameObject": "Pipe_Vent_Hatch (2)/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            92.34000062942505,
+            54.8200004696846,
+            -0.00503999984357506
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "song_18",
+        "gameObject": "Pipe_Vent_Hatch (1)/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            51.919994831085205,
+            60.16000062227249,
+            -0.00503999984357506
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "song_19_entrance",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            61.95199966430664,
+            64.65999817848206,
+            -0.00491500087082386
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "song_19_entrance",
+        "gameObject": "Song_lever_side",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            -27.040000915527344,
+            152.04000854492188,
+            0.004999999888241291
+        ],
+        "worldPosition": [
+            -27.040000915527344,
+            152.04000854492188,
+            0.004999999888241291
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "song_19_entrance",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            61.9520001411438,
+            62.96999818086624,
+            -0.004815000691451132
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "song_20b",
+        "gameObject": "Dial Door Bridge/lever_left",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -14.619921684265137,
+            -2.169983386993408,
+            0.008999999612569809
+        ],
+        "worldPosition": [
+            11.07007884979248,
+            188.10000562667847,
+            0.008999999612569809
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "song_20b",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Bottom",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            44.880001068115234,
+            232.62999939918518,
+            0.010699999518692493
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "song_20b",
+        "gameObject": "Dial Door Bridge/lever_top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            6.670000076293945,
+            14.489999771118164,
+            0.008999999612569809
+        ],
+        "worldPosition": [
+            32.36000061035156,
+            204.75998878479004,
+            0.008999999612569809
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "song_20b",
+        "gameObject": "Song_lever_side",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            13.967475891113281,
+            233.97860717773438,
+            0.005000114440917969
+        ],
+        "worldPosition": [
+            13.967475891113281,
+            233.97860717773438,
+            0.005000114440917969
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "song_20b",
+        "gameObject": "Dial Door Bridge/lever_bot",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            4.920000076293945,
+            -19.1299991607666,
+            0.008999999612569809
+        ],
+        "worldPosition": [
+            30.610000610351562,
+            171.13998985290527,
+            0.008999999612569809
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "song_20b",
+        "gameObject": "Dial Door Bridge/lever_right",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            14.197078704833984,
+            -2.169982433319092,
+            0.008999999612569809
+        ],
+        "worldPosition": [
+            39.8870792388916,
+            188.10000658035278,
+            0.008999999612569809
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "song_20b",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            44.88000154495239,
+            230.93999940156937,
+            0.010799999698065221
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "song_27",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            56.56852340698242,
+            14.93999981880188,
+            0.010699999518692493
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "song_27",
+        "gameObject": "Song_lever_side",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            4.150000095367432,
+            10.369999885559082,
+            0.004999999888241291
+        ],
+        "worldPosition": [
+            4.150000095367432,
+            10.369999885559082,
+            0.004999999888241291
+        ],
+        "pdBool": "song_27_opened",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "song_27",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            56.56852388381958,
+            13.249999821186066,
+            0.010799999698065221
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "tube_hub",
+        "gameObject": "Pipe_Vent_Hatch (1)/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            44.77000045776367,
+            22.690000772476196,
+            0.00493998546153307
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "tube_hub",
+        "gameObject": "cradle_pipe_trapdoor/Understore Lever",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -1.9508689641952515,
+            -2.0532493591308594,
+            0.107846200466156
+        ],
+        "worldPosition": [
+            27.489999413490295,
+            93.9272346496582,
+            0.009499967098236084
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "cradle_pipe_trapdoor",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "tube_hub",
+        "gameObject": "Black Thread States/Normal World/Understore Lever",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            3.1300010681152344,
+            31.65999984741211,
+            0.009499999694526196
+        ],
+        "worldPosition": [
+            36.31999969482422,
+            43.80000019073486,
+            0.009499999694526196
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Understore Lever",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "tube_hub",
+        "gameObject": "Pipe_Vent_Hatch (1)/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            44.77000093460083,
+            21.000000774860382,
+            0.0050399856409057975
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_01",
+        "gameObject": "Pipe_Cog_Lever",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            33.02000045776367,
+            76.87000274658203,
+            0.010699999518692493
+        ],
+        "worldPosition": [
+            33.02000045776367,
+            76.87000274658203,
+            0.010699999518692493
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Pipe_Cog_Lever",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "under_01b",
+        "gameObject": "Understore Big Plate Gate/Lever",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.6700057983398438,
+            -0.0028715133666992188,
+            0.0
+        ],
+        "worldPosition": [
+            42.8799934387207,
+            5.8871283531188965,
+            0.0
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "Under_01b",
+            "ID": "Understore Big Plate Gate",
+            "pbiGoName": "Understore Big Plate Gate",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "under_02",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            9.139999389648438,
+            187.8100073337555,
+            0.0007567992433905602
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_02",
+        "gameObject": "Song_lever_side (3)",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            7.510000228881836,
+            162.10000610351562,
+            0.004999999888241291
+        ],
+        "worldPosition": [
+            7.510000228881836,
+            162.10000610351562,
+            0.004999999888241291
+        ],
+        "pdBool": "droppedFloorBreakerPlat",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side (3)",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "under_02",
+        "gameObject": "Song_lever_side",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            12.170000076293945,
+            94.08000183105469,
+            0.004999999888241291
+        ],
+        "worldPosition": [
+            12.170000076293945,
+            94.08000183105469,
+            0.004999999888241291
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "under_02",
+        "gameObject": "Song_lever_side (1)",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            34.11000061035156,
+            24.170000076293945,
+            0.004999999888241291
+        ],
+        "worldPosition": [
+            34.11000061035156,
+            24.170000076293945,
+            0.004999999888241291
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side (1)",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "under_02",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            9.139999866485596,
+            186.12000733613968,
+            0.000856799422763288
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_03d",
+        "gameObject": "Pipe_Vent_Hatch (2)/Lever Cog/Lever Bottom",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            28.049999237060547,
+            14.050000429153442,
+            0.010699999518692493
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_03d",
+        "gameObject": "Pipe_Vent_Hatch (1)/Lever Cog/Lever Bottom",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            24.119998931884766,
+            20.510000467300415,
+            0.010699999518692493
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_03d",
+        "gameObject": "Pipe_Vent_Hatch (1)/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            24.119999408721924,
+            18.8200004696846,
+            0.010799999698065221
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_03d",
+        "gameObject": "Pipe_Vent_Hatch (2)/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            28.049999713897705,
+            12.360000431537628,
+            0.010799999698065221
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_04",
+        "gameObject": "Understore Big Plate Gate/Lever",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.6700057983398438,
+            -0.0028715133666992188,
+            0.0
+        ],
+        "worldPosition": [
+            111.59999084472656,
+            12.9971284866333,
+            0.0
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Understore Big Plate Gate",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "under_05",
+        "gameObject": "Song_lever_side",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            1.9600000381469727,
+            40.25,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            1.9600000381469727,
+            40.25,
+            0.007000000216066837
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "under_06",
+        "gameObject": "dock_pipe_trapdoor/Levers/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.029994934797286987,
+            0.6700000166893005,
+            0.0
+        ],
+        "worldPosition": [
+            95.95820239186287,
+            23.179931581020355,
+            0.009999999776482582
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_06",
+        "gameObject": "dock_pipe_trapdoor/Levers/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.029994934797286987,
+            -0.809999942779541,
+            0.0
+        ],
+        "worldPosition": [
+            95.95820239186287,
+            21.699931621551514,
+            0.009999999776482582
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_07c",
+        "gameObject": "Bot Blocker/offset/sprite/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0589900016784668,
+            -2.9700000286102295,
+            0.019999999552965164
+        ],
+        "worldPosition": [
+            56.90100908279419,
+            102.58000302314758,
+            0.018999999505467713
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "Under_07c",
+            "ID": "Bot Blocker",
+            "pbiGoName": "Bot Blocker",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "under_08",
+        "gameObject": "dock_pipe_trapdoor/Levers/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.029994934797286987,
+            0.6700000166893005,
+            0.0
+        ],
+        "worldPosition": [
+            95.92931750416756,
+            16.36100000143051,
+            0.009999999776482582
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_08",
+        "gameObject": "Pipe_Vent_Hatch (1)/Lever Cog/Lever Bottom",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            114.72999954223633,
+            52.53999924659729,
+            0.010699999518692493
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_08",
+        "gameObject": "Pipe_Vent_Hatch (2)/Lever Cog/Lever Bottom",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            118.65999984741211,
+            46.080000162124634,
+            0.010699999518692493
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_08",
+        "gameObject": "dock_pipe_trapdoor/Levers/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.029994934797286987,
+            -0.809999942779541,
+            0.0
+        ],
+        "worldPosition": [
+            95.92931750416756,
+            14.88100004196167,
+            0.009999999776482582
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_08",
+        "gameObject": "Pipe_Vent_Hatch (2)/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            118.66000032424927,
+            44.39000016450882,
+            0.010799999698065221
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_08",
+        "gameObject": "Pipe_Vent_Hatch (1)/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            114.73000001907349,
+            50.849999248981476,
+            0.010799999698065221
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_10",
+        "gameObject": "Battle Scene/Gates/Pipe_Vent_Hatch_BG/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.7490000128746033,
+            0.0012000000569969416
+        ],
+        "worldPosition": [
+            54.77999925613403,
+            4.430999994277954,
+            0.010699999751523137
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_10",
+        "gameObject": "Song_lever_side",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            15.930000305175781,
+            11.619999885559082,
+            0.004999999888241291
+        ],
+        "worldPosition": [
+            15.930000305175781,
+            11.619999885559082,
+            0.004999999888241291
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "under_10",
+        "gameObject": "Battle Scene/Gates/Pipe_Vent_Hatch_BG/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            0.0,
+            0.699999988079071,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            54.77999925613403,
+            5.879999995231628,
+            0.010699999518692493
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_11",
+        "gameObject": "Pipe_Cog_Lever",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            48.689998626708984,
+            3.9000000953674316,
+            0.010699999518692493
+        ],
+        "worldPosition": [
+            48.689998626708984,
+            3.9000000953674316,
+            0.010699999518692493
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Pipe_Cog_Lever",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "under_13",
+        "gameObject": "Pipe_Vent_Hatch (1)/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            40.47744369506836,
+            64.50998902320862,
+            0.010699999518692493
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_13",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            11.47744083404541,
+            73.5499975681305,
+            0.010699999518692493
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_13",
+        "gameObject": "Innerworks Trap Bridge Large/lever_left",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -8.359999656677246,
+            -2.0,
+            0.008999999612569809
+        ],
+        "worldPosition": [
+            17.160000801086426,
+            80.7699966430664,
+            0.008999999612569809
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_13",
+        "gameObject": "Innerworks Trap Bridge Large/lever_right",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            9.699999809265137,
+            -2.0,
+            0.008999999612569809
+        ],
+        "worldPosition": [
+            35.22000026702881,
+            80.7699966430664,
+            0.008999999612569809
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_13",
+        "gameObject": "Pipe_Vent_Hatch (1)/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            40.47744417190552,
+            62.819989025592804,
+            0.010799999698065221
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_13",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            11.477441310882568,
+            71.85999757051468,
+            0.010799999698065221
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_17",
+        "gameObject": "Pipe_Vent_Hatch (5)/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            86.6410026550293,
+            21.68000054359436,
+            0.0006989995017647743
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_17",
+        "gameObject": "Pipe_Vent_Hatch (8)/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            82.40900039672852,
+            32.690000772476196,
+            0.0013159997761249542
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_17",
+        "gameObject": "Pipe_Vent_Hatch (3)/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            132.1400032043457,
+            21.559000253677368,
+            -0.0022790003567934036
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_17",
+        "gameObject": "Pipe_Vent_Hatch (4)/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            101.1400032043457,
+            21.573000192642212,
+            -0.0016620000824332237
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_17",
+        "gameObject": "Pipe_Vent_Hatch (6)/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            59.76499938964844,
+            21.62999939918518,
+            -0.00017300061881542206
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_17",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            132.14999771118164,
+            32.80000138282776,
+            0.0013159997761249542
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_17",
+        "gameObject": "Pipe_Vent_Hatch (7)/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            63.9849967956543,
+            32.78999924659729,
+            0.002188299782574177
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_17",
+        "gameObject": "Pipe_Vent_Hatch (3)/Lever Cog/Lever Top",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            132.14000368118286,
+            19.869000256061554,
+            -0.0021790001774206758
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_17",
+        "gameObject": "Pipe_Vent_Hatch (8)/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            82.40900087356567,
+            31.000000774860382,
+            0.001415999955497682
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_17",
+        "gameObject": "Pipe_Vent_Hatch (5)/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            86.64100313186646,
+            19.990000545978546,
+            0.0007989996811375022
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_17",
+        "gameObject": "Pipe_Vent_Hatch (7)/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            63.984997272491455,
+            31.099999248981476,
+            0.0022882999619469047
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_17",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            132.1499981880188,
+            31.110001385211945,
+            0.001415999955497682
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_17",
+        "gameObject": "Pipe_Vent_Hatch (4)/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            101.14000368118286,
+            19.883000195026398,
+            -0.0015619999030604959
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_17",
+        "gameObject": "Pipe_Vent_Hatch (6)/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            59.764999866485596,
+            19.939999401569366,
+            -7.300043944269419e-05
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_17",
+        "gameObject": "Pipe Vent Hatch Split (2)/Pipe_Vent_Hatch (1)/Lever Cog/Lever Bottom",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            42.558000564575195,
+            9.325000286102295,
+            0.008154399460181594
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_17",
+        "gameObject": "Pipe Vent Hatch Split (1)/Pipe_Vent_Hatch (1)/Lever Cog/Lever Bottom",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            107.53000068664551,
+            9.325000286102295,
+            0.008154399460181594
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_17",
+        "gameObject": "Pipe Vent Hatch Split (2)/Pipe_Vent_Hatch/Lever Cog/Lever Bottom",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            49.077999114990234,
+            12.505000352859497,
+            0.008154399460181594
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_17",
+        "gameObject": "Pipe Vent Hatch Split (1)/Pipe_Vent_Hatch/Lever Cog/Lever Bottom",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            114.04999923706055,
+            12.505000352859497,
+            0.008154399460181594
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_17",
+        "gameObject": "Pipe Vent Hatch Split (1)/Pipe_Vent_Hatch (1)/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            107.53000116348267,
+            7.635000288486481,
+            0.008254399639554322
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_17",
+        "gameObject": "Pipe Vent Hatch Split (2)/Pipe_Vent_Hatch (1)/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            42.55800104141235,
+            7.635000288486481,
+            0.008254399639554322
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_17",
+        "gameObject": "Pipe Vent Hatch Split (1)/Pipe_Vent_Hatch/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            114.0499997138977,
+            10.815000355243683,
+            0.008254399639554322
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_17",
+        "gameObject": "Pipe Vent Hatch Split (2)/Pipe_Vent_Hatch/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            49.07799959182739,
+            10.815000355243683,
+            0.008254399639554322
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_18",
+        "gameObject": "Battle Scene/Gates/Pipe_Vent_Hatch (1)/Lever Cog/Lever Bottom",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            128.3400001525879,
+            48.19999814033508,
+            0.0019303997978568077
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_18",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Bottom",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            140.92999649047852,
+            11.760000467300415,
+            0.0006199991330504417
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_18",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            140.92999696731567,
+            10.0700004696846,
+            0.0007199993124231696
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_18",
+        "gameObject": "Battle Scene/Gates/Pipe_Vent_Hatch (1)/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            128.34000062942505,
+            46.50999814271927,
+            0.0020303999772295356
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_19c",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Bottom",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            6.7599992752075195,
+            35.96999955177307,
+            0.010699999518692493
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_19c",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            6.759999752044678,
+            34.27999955415726,
+            0.010799999698065221
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_23",
+        "gameObject": "Pipe Vent Hatch Split/Pipe_Vent_Hatch/Lever Cog/Lever Bottom",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            26.94999885559082,
+            22.542999505996704,
+            0.010699999518692493
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_23",
+        "gameObject": "Pipe Vent Hatch Split/Pipe_Vent_Hatch (1)/Lever Cog/Lever Bottom",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            20.43000030517578,
+            19.690000772476196,
+            0.010699999518692493
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_23",
+        "gameObject": "Song_lever_side",
+        "active": true,
+        "componentType": "Lever_tk2d",
+        "localPosition": [
+            149.5399932861328,
+            22.12700080871582,
+            0.007000000216066837
+        ],
+        "worldPosition": [
+            149.5399932861328,
+            22.12700080871582,
+            0.007000000216066837
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Song_lever_side",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "under_23",
+        "gameObject": "Pipe Vent Hatch Split/Pipe_Vent_Hatch/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            26.94999933242798,
+            20.85299950838089,
+            0.010799999698065221
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_23",
+        "gameObject": "Pipe Vent Hatch Split/Pipe_Vent_Hatch (1)/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            20.43000078201294,
+            18.000000774860382,
+            0.010799999698065221
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "ward_01",
+        "gameObject": "Understore Lever R Sub",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            44.85999298095703,
+            51.959686279296875,
+            0.009499999694526196
+        ],
+        "worldPosition": [
+            44.85999298095703,
+            51.959686279296875,
+            0.009499999694526196
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Understore Lever L Main",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "ward_01",
+        "gameObject": "Understore Lever L Main",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            25.979999542236328,
+            51.959686279296875,
+            0.009499999694526196
+        ],
+        "worldPosition": [
+            25.979999542236328,
+            51.959686279296875,
+            0.009499999694526196
+        ],
+        "pdBool": "",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "Understore Lever L Main",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "ward_01",
+        "gameObject": "under_lift_large/Cage/Lever",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            0.20000000298023224,
+            2.950000047683716,
+            0.009999999776482582
+        ],
+        "worldPosition": [
+            35.470000460743904,
+            102.63939774036407,
+            0.009999999776482582
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "ward_02",
+        "gameObject": "Boss Scene Parent/Pipe_Vent_Hatch/Lever Cog/Lever Bottom",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            60.439998626708984,
+            13.380000352859497,
+            0.010699999518692493
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "ward_02",
+        "gameObject": "Boss Scene Parent/Pipe_Vent_Hatch/Lever Cog/Lever Top",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            60.43999910354614,
+            11.690000355243683,
+            0.010799999698065221
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "ward_02b",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Bottom",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            94.36999893188477,
+            21.639999628067017,
+            0.010699999518692493
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "ward_02b",
+        "gameObject": "Pipe_Vent_Hatch (1)/Lever Cog/Lever Bottom",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            87.10000228881836,
+            13.639999628067017,
+            0.010699999518692493
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "ward_02b",
+        "gameObject": "Pipe_Vent_Hatch/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            94.36999940872192,
+            19.949999630451202,
+            0.010799999698065221
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "ward_02b",
+        "gameObject": "Pipe_Vent_Hatch (1)/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            87.10000276565552,
+            11.949999630451202,
+            0.010799999698065221
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "ward_05",
+        "gameObject": "Pipe_Vent_Hatch (2)/Lever Cog/Lever Bottom",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            23.969999313354492,
+            8.02999997138977,
+            0.010699999518692493
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "ward_05",
+        "gameObject": "Pipe_Vent_Hatch (1)/Lever Cog/Lever Bottom",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            20.1299991607666,
+            14.700000047683716,
+            0.010699999518692493
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "ward_05",
+        "gameObject": "Pipe_Vent_Hatch (1)/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            20.12999963760376,
+            13.010000050067902,
+            0.010799999698065221
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "ward_05",
+        "gameObject": "Pipe_Vent_Hatch (2)/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            23.96999979019165,
+            6.339999973773956,
+            0.010799999698065221
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "ward_07",
+        "gameObject": "Group/Pipe_Vent_Hatch (1)/Lever Cog/Lever Bottom",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            102.76999282836914,
+            13.140000581741333,
+            0.010699999518692493
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "ward_07",
+        "gameObject": "Group/Pipe_Vent_Hatch (2)/Lever Cog/Lever Bottom",
+        "active": false,
+        "componentType": "Lever",
+        "localPosition": [
+            -4.76837158203125e-07,
+            0.8100000023841858,
+            0.001199999824166298
+        ],
+        "worldPosition": [
+            106.18999099731445,
+            6.68000054359436,
+            0.010699999518692493
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "ward_07",
+        "gameObject": "Group/Pipe_Vent_Hatch (2)/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            106.18999147415161,
+            4.990000545978546,
+            0.010799999698065221
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "ward_07",
+        "gameObject": "Group/Pipe_Vent_Hatch (1)/Lever Cog/Lever Top",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -0.0,
+            -0.8799999952316284,
+            0.0013000000035390258
+        ],
+        "worldPosition": [
+            102.7699933052063,
+            11.450000584125519,
+            0.010799999698065221
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "weave_12",
+        "gameObject": "weaver_lift_power_chamber/switches/Lever_Right",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            5.130000114440918,
+            8.319999694824219,
+            -6.038360118865967
+        ],
+        "worldPosition": [
+            47.03999996185303,
+            17.830001831054688,
+            -0.15000009536743164
+        ],
+        "pdBool": "",
+        "persistent": null
+    },
+    {
+        "sceneName": "weave_12",
+        "gameObject": "weaver_lift_power_chamber/switches/Lever_Left",
+        "active": true,
+        "componentType": "Lever",
+        "localPosition": [
+            -10.569999694824219,
+            8.34000015258789,
+            -6.038360118865967
+        ],
+        "worldPosition": [
+            31.34000015258789,
+            17.85000228881836,
+            -0.15000009536743164
+        ],
+        "pdBool": "",
+        "persistent": null
+    }
+]
