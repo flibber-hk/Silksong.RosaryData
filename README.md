@@ -72,6 +72,11 @@ The pdBool represents a player data bool field that is set to true when the leve
 For Lever components (not Lever_tk2d), if the pdBool is not null then the persistent bool item
 component is ignored (in favour of the pdBool).
 
+### fsm_levers.json
+
+This enumerates FSMs which have an event including LEVER as a substring in their list of FSM events.
+The persistent bool item is the item attached to the gameobject, if it exists. Some levers,
+such as the greymoor fan levers that you have to hit multiple times, are included here.
 
 ## Missing Files
 

@@ -1,0 +1,943 @@
+[
+    {
+        "sceneName": "bellshrine",
+        "gameObject": "Whole Scene/Bellshrine Sequence/Bell Shrine Lever",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            -0.010000228881835938,
+            -12.220000267028809,
+            0.008999999612569809
+        ],
+        "worldPosition": [
+            20.489999771118164,
+            5.070000648498535,
+            0.008999999612569809
+        ],
+        "FsmName": "Activate Delayed",
+        "persistent": null
+    },
+    {
+        "sceneName": "bellshrine_02",
+        "gameObject": "Black Thread States/Normal World/Bellshrine Sequence/Bell Shrine Lever",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            -0.010000228881835938,
+            -12.220000267028809,
+            0.008999999612569809
+        ],
+        "worldPosition": [
+            20.489999771118164,
+            5.070000648498535,
+            0.008999999612569809
+        ],
+        "FsmName": "Activate Delayed",
+        "persistent": null
+    },
+    {
+        "sceneName": "bellshrine_03",
+        "gameObject": "Whole Scene/Bellshrine Sequence/Bell Shrine Lever",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            -0.010000228881835938,
+            -12.220000267028809,
+            0.008999999612569809
+        ],
+        "worldPosition": [
+            20.489999771118164,
+            5.070000648498535,
+            0.008999999612569809
+        ],
+        "FsmName": "Activate Delayed",
+        "persistent": null
+    },
+    {
+        "sceneName": "bellshrine_05",
+        "gameObject": "Whole Scene/Bellshrine Sequence/Bell Shrine Lever",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            -0.010000228881835938,
+            -12.220000267028809,
+            0.008999999612569809
+        ],
+        "worldPosition": [
+            20.489999771118164,
+            5.070000648498535,
+            0.008999999612569809
+        ],
+        "FsmName": "Activate Delayed",
+        "persistent": null
+    },
+    {
+        "sceneName": "bellshrine_enclave",
+        "gameObject": "Whole Scene/Bellshrine Sequence/Bell Shrine Lever",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            -0.010000228881835938,
+            -12.260000228881836,
+            0.008999999612569809
+        ],
+        "worldPosition": [
+            28.489999771118164,
+            5.030000686645508,
+            0.008999999612569809
+        ],
+        "FsmName": "Activate Delayed",
+        "persistent": null
+    },
+    {
+        "sceneName": "belltown_shrine",
+        "gameObject": "Black Thread States Thread Only Variant/Normal World/Boss Scene/Bellshrine Sequence Bellhart/Bell Shrine Lever",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            -1.340000033378601,
+            -12.220000267028809,
+            0.008999999612569809
+        ],
+        "worldPosition": [
+            52.78039562702179,
+            9.661964297294617,
+            0.008999999612569809
+        ],
+        "FsmName": "Activate Delayed",
+        "persistent": null
+    },
+    {
+        "sceneName": "bone_east_weavehome",
+        "gameObject": "weaver_lift_power_chamber (1)",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            102.4800033569336,
+            65.88999938964844,
+            5.888360023498535
+        ],
+        "worldPosition": [
+            102.4800033569336,
+            65.88999938964844,
+            5.888360023498535
+        ],
+        "FsmName": "States",
+        "persistent": null
+    },
+    {
+        "sceneName": "cog_04",
+        "gameObject": "cog_lever",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            41.15999984741211,
+            84.62999725341797,
+            -0.46000000834465027
+        ],
+        "worldPosition": [
+            41.15999984741211,
+            84.62999725341797,
+            -0.46000000834465027
+        ],
+        "FsmName": "Control",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "cog_lever",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "cog_04",
+        "gameObject": "cog_lever (1)",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            57.38999938964844,
+            141.83999633789062,
+            -0.46000000834465027
+        ],
+        "worldPosition": [
+            57.38999938964844,
+            141.83999633789062,
+            -0.46000000834465027
+        ],
+        "FsmName": "Control",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "cog_lever (1)",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "cog_06",
+        "gameObject": "cog_lever",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            83.11000061035156,
+            34.0,
+            -0.46000000834465027
+        ],
+        "worldPosition": [
+            83.11000061035156,
+            34.0,
+            -0.46000000834465027
+        ],
+        "FsmName": "Control",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "cog_lever",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "cog_07",
+        "gameObject": "Black Thread States/Normal World/Repairable Scene/Song Automaton Ball (1)",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            27.649999618530273,
+            55.650001525878906,
+            0.0
+        ],
+        "worldPosition": [
+            27.649999618530273,
+            55.650001525878906,
+            0.0
+        ],
+        "FsmName": "Control",
+        "persistent": null
+    },
+    {
+        "sceneName": "cog_07",
+        "gameObject": "Battle Scene Test/Battle Scene/Wave 1/Song Automaton Ball L",
+        "active": false,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            12.270000457763672,
+            75.80000305175781,
+            0.0
+        ],
+        "worldPosition": [
+            12.270000457763672,
+            75.80000305175781,
+            0.0
+        ],
+        "FsmName": "Control",
+        "persistent": null
+    },
+    {
+        "sceneName": "cog_07",
+        "gameObject": "Battle Scene Test/Battle Scene/Wave 1/Song Automaton Ball R",
+        "active": false,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            44.189998626708984,
+            79.58000183105469,
+            0.0
+        ],
+        "worldPosition": [
+            44.189998626708984,
+            79.58000183105469,
+            0.0
+        ],
+        "FsmName": "Control",
+        "persistent": null
+    },
+    {
+        "sceneName": "cog_07",
+        "gameObject": "cog_lever",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            41.9900016784668,
+            51.380001068115234,
+            -0.46000000834465027
+        ],
+        "worldPosition": [
+            41.9900016784668,
+            51.380001068115234,
+            -0.46000000834465027
+        ],
+        "FsmName": "Control",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "cog_lever",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "cog_08",
+        "gameObject": "cog_lever",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            37.529998779296875,
+            81.7300033569336,
+            -0.46000000834465027
+        ],
+        "worldPosition": [
+            37.529998779296875,
+            81.7300033569336,
+            -0.46000000834465027
+        ],
+        "FsmName": "Control",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "cog_lever",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "cog_09",
+        "gameObject": "puzzle cylinders/Cog_Choir_Cylinder (3)/Anim Offset/Cog 4/puzzle cog lever",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            -3.979999542236328,
+            -9.209999084472656,
+            0.8458399772644043
+        ],
+        "worldPosition": [
+            50.54996109008789,
+            53.58000183105469,
+            2.2199997901916504
+        ],
+        "FsmName": "Control",
+        "persistent": null
+    },
+    {
+        "sceneName": "cog_09",
+        "gameObject": "puzzle cylinders/Cog_Choir_Cylinder (1)/Anim Offset/Cog 2/puzzle cog lever",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            -3.979999542236328,
+            1.0400047302246094,
+            0.8458399772644043
+        ],
+        "worldPosition": [
+            26.28995704650879,
+            63.83000564575195,
+            2.2199997901916504
+        ],
+        "FsmName": "Control",
+        "persistent": null
+    },
+    {
+        "sceneName": "cog_09",
+        "gameObject": "puzzle cylinders/Cog_Choir_Cylinder (3)/Anim Offset/Cog 2/puzzle cog lever",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            -3.979999542236328,
+            1.0400047302246094,
+            0.8458399772644043
+        ],
+        "worldPosition": [
+            50.54996109008789,
+            63.83000564575195,
+            2.2199997901916504
+        ],
+        "FsmName": "Control",
+        "persistent": null
+    },
+    {
+        "sceneName": "cog_09",
+        "gameObject": "puzzle cylinders/Cog_Choir_Cylinder/Anim Offset/Cog 2/puzzle cog lever",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            -3.979999542236328,
+            1.0400047302246094,
+            0.8458399772644043
+        ],
+        "worldPosition": [
+            14.01995849609375,
+            63.83000564575195,
+            2.2199997901916504
+        ],
+        "FsmName": "Control",
+        "persistent": null
+    },
+    {
+        "sceneName": "cog_09",
+        "gameObject": "puzzle cylinders/Cog_Choir_Cylinder (2)/Anim Offset/Cog 4/puzzle cog lever",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            -3.979999542236328,
+            -9.209999084472656,
+            0.8458399772644043
+        ],
+        "worldPosition": [
+            38.13996124267578,
+            53.58000183105469,
+            2.2199997901916504
+        ],
+        "FsmName": "Control",
+        "persistent": null
+    },
+    {
+        "sceneName": "cog_09",
+        "gameObject": "puzzle cylinders/Cog_Choir_Cylinder (2)/Anim Offset/Cog 2/puzzle cog lever",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            -3.979999542236328,
+            1.0400047302246094,
+            0.8458399772644043
+        ],
+        "worldPosition": [
+            38.13996124267578,
+            63.83000564575195,
+            2.2199997901916504
+        ],
+        "FsmName": "Control",
+        "persistent": null
+    },
+    {
+        "sceneName": "cog_09",
+        "gameObject": "puzzle cylinders/Cog_Choir_Cylinder (1)/Anim Offset/Cog 3/puzzle cog lever",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            -3.979999542236328,
+            -4.029998779296875,
+            0.8458399772644043
+        ],
+        "worldPosition": [
+            26.28995704650879,
+            58.76000213623047,
+            2.2199997901916504
+        ],
+        "FsmName": "Control",
+        "persistent": null
+    },
+    {
+        "sceneName": "cog_09",
+        "gameObject": "puzzle cylinders/Cog_Choir_Cylinder (2)/Anim Offset/Cog 3/puzzle cog lever",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            -3.979999542236328,
+            -4.029998779296875,
+            0.8458399772644043
+        ],
+        "worldPosition": [
+            38.13996124267578,
+            58.76000213623047,
+            2.2199997901916504
+        ],
+        "FsmName": "Control",
+        "persistent": null
+    },
+    {
+        "sceneName": "cog_09",
+        "gameObject": "puzzle cylinders/Cog_Choir_Cylinder/Anim Offset/Cog 4/puzzle cog lever",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            -3.979999542236328,
+            -9.209999084472656,
+            0.8458399772644043
+        ],
+        "worldPosition": [
+            14.01995849609375,
+            53.58000183105469,
+            2.2199997901916504
+        ],
+        "FsmName": "Control",
+        "persistent": null
+    },
+    {
+        "sceneName": "cog_09",
+        "gameObject": "puzzle cylinders/Cog_Choir_Cylinder (3)/Anim Offset/Cog 1/puzzle cog lever",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            -3.5799989700317383,
+            6.069999694824219,
+            0.8458399772644043
+        ],
+        "worldPosition": [
+            50.94996166229248,
+            68.86000061035156,
+            2.2199997901916504
+        ],
+        "FsmName": "Control",
+        "persistent": null
+    },
+    {
+        "sceneName": "cog_09",
+        "gameObject": "puzzle cylinders/Cog_Choir_Cylinder (1)/Anim Offset/Cog 1/puzzle cog lever",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            -3.5799989700317383,
+            6.069999694824219,
+            0.8458399772644043
+        ],
+        "worldPosition": [
+            26.68995761871338,
+            68.86000061035156,
+            2.2199997901916504
+        ],
+        "FsmName": "Control",
+        "persistent": null
+    },
+    {
+        "sceneName": "cog_09",
+        "gameObject": "puzzle cylinders/Cog_Choir_Cylinder (1)/Anim Offset/Cog 4/puzzle cog lever",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            -3.979999542236328,
+            -9.209999084472656,
+            0.8458399772644043
+        ],
+        "worldPosition": [
+            26.28995704650879,
+            53.58000183105469,
+            2.2199997901916504
+        ],
+        "FsmName": "Control",
+        "persistent": null
+    },
+    {
+        "sceneName": "cog_09",
+        "gameObject": "puzzle cylinders/Cog_Choir_Cylinder (3)/Anim Offset/Cog 3/puzzle cog lever",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            -3.979999542236328,
+            -4.029998779296875,
+            0.8458399772644043
+        ],
+        "worldPosition": [
+            50.54996109008789,
+            58.76000213623047,
+            2.2199997901916504
+        ],
+        "FsmName": "Control",
+        "persistent": null
+    },
+    {
+        "sceneName": "cog_09",
+        "gameObject": "puzzle cylinders/Cog_Choir_Cylinder/Anim Offset/Cog 3/puzzle cog lever",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            -3.979999542236328,
+            -4.029998779296875,
+            0.8458399772644043
+        ],
+        "worldPosition": [
+            14.01995849609375,
+            58.76000213623047,
+            2.2199997901916504
+        ],
+        "FsmName": "Control",
+        "persistent": null
+    },
+    {
+        "sceneName": "cog_09",
+        "gameObject": "puzzle cylinders/Cog_Choir_Cylinder/Anim Offset/Cog 1/puzzle cog lever",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            -3.5799989700317383,
+            6.069999694824219,
+            0.8458399772644043
+        ],
+        "worldPosition": [
+            14.41995906829834,
+            68.86000061035156,
+            2.2199997901916504
+        ],
+        "FsmName": "Control",
+        "persistent": null
+    },
+    {
+        "sceneName": "cog_09",
+        "gameObject": "puzzle cylinders/Cog_Choir_Cylinder (2)/Anim Offset/Cog 1/puzzle cog lever",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            -3.5799989700317383,
+            6.069999694824219,
+            0.8458399772644043
+        ],
+        "worldPosition": [
+            38.53996181488037,
+            68.86000061035156,
+            2.2199997901916504
+        ],
+        "FsmName": "Control",
+        "persistent": null
+    },
+    {
+        "sceneName": "cog_bench",
+        "gameObject": "cog_lever",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            21.54388427734375,
+            15.56894302368164,
+            -0.46000000834465027
+        ],
+        "worldPosition": [
+            21.54388427734375,
+            15.56894302368164,
+            -0.46000000834465027
+        ],
+        "FsmName": "Control",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "cog_lever",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "cog_bench",
+        "gameObject": "Group/cog_lever (2)",
+        "active": false,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            -1.8559989929199219,
+            -1.85150146484375,
+            -0.7379999756813049
+        ],
+        "worldPosition": [
+            26.214000701904297,
+            26.788497924804688,
+            -0.09799998998641968
+        ],
+        "FsmName": "Control",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "cog_lever (2)",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "cog_dancers",
+        "gameObject": "Boss Scene/cog_lever",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            45.61000061035156,
+            36.83000183105469,
+            -0.46000000834465027
+        ],
+        "worldPosition": [
+            45.61000061035156,
+            36.83000183105469,
+            -0.46000000834465027
+        ],
+        "FsmName": "Control",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "cog_lever",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "greymoor_04",
+        "gameObject": "propeller (4)",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            26.347000122070312,
+            113.72000122070312,
+            0.0
+        ],
+        "worldPosition": [
+            26.347000122070312,
+            113.72000122070312,
+            0.0
+        ],
+        "FsmName": "Control",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "propeller (4)",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "greymoor_04",
+        "gameObject": "propeller (3)",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            21.979999542236328,
+            87.48999786376953,
+            0.0
+        ],
+        "worldPosition": [
+            21.979999542236328,
+            87.48999786376953,
+            0.0
+        ],
+        "FsmName": "Control",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "propeller (3)",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "greymoor_04",
+        "gameObject": "propeller (2)",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            32.56999969482422,
+            68.4800033569336,
+            0.0
+        ],
+        "worldPosition": [
+            32.56999969482422,
+            68.4800033569336,
+            0.0
+        ],
+        "FsmName": "Control",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "propeller (2)",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "greymoor_04",
+        "gameObject": "propeller (1)",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            19.559999465942383,
+            39.41999816894531,
+            0.0
+        ],
+        "worldPosition": [
+            19.559999465942383,
+            39.41999816894531,
+            0.0
+        ],
+        "FsmName": "Control",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "propeller (1)",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "greymoor_11",
+        "gameObject": "propeller (1)",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            47.68000030517578,
+            33.56999969482422,
+            0.0
+        ],
+        "worldPosition": [
+            47.68000030517578,
+            33.56999969482422,
+            0.0
+        ],
+        "FsmName": "Control",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "propeller (1)",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "greymoor_11",
+        "gameObject": "propeller",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            80.0710678100586,
+            34.540000915527344,
+            0.0
+        ],
+        "worldPosition": [
+            80.0710678100586,
+            34.540000915527344,
+            0.0
+        ],
+        "FsmName": "Control",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "propeller",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "library_07",
+        "gameObject": "understore propeller",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            24.040000915527344,
+            41.38999938964844,
+            0.0
+        ],
+        "worldPosition": [
+            24.040000915527344,
+            41.38999938964844,
+            0.0
+        ],
+        "FsmName": "Control",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "understore propeller",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "room_crowcourt",
+        "gameObject": "Battle Scene/Balloon Raiser/CamLock Balloon",
+        "active": false,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            1.4560184478759766,
+            -5.430000305175781,
+            -1.7300000190734863
+        ],
+        "worldPosition": [
+            25.69601821899414,
+            42.41999816894531,
+            0.0
+        ],
+        "FsmName": "FSM",
+        "persistent": null
+    },
+    {
+        "sceneName": "shadow_weavehome",
+        "gameObject": "Group/weaver_lift_power_chamber",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            7.5700225830078125,
+            0.29312896728515625,
+            7.500412464141846
+        ],
+        "worldPosition": [
+            129.75167846679688,
+            58.468788146972656,
+            5.888359904289246
+        ],
+        "FsmName": "States",
+        "persistent": {
+            "SceneName": "Shadow_Weavehome",
+            "ID": "weaver_lift_power_chamber",
+            "pbiGoName": "weaver_lift_power_chamber",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "song_11",
+        "gameObject": "propeller understore propeller",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            43.0,
+            84.31999969482422,
+            0.0
+        ],
+        "worldPosition": [
+            43.0,
+            84.31999969482422,
+            0.0
+        ],
+        "FsmName": "Control",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "propeller understore propeller",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "under_01",
+        "gameObject": "Understore Lift Scene/Understore_lift",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            19.93000030517578,
+            126.68000030517578,
+            0.0
+        ],
+        "worldPosition": [
+            19.93000030517578,
+            126.68000030517578,
+            0.0
+        ],
+        "FsmName": "Control",
+        "persistent": null
+    },
+    {
+        "sceneName": "under_17",
+        "gameObject": "understore propeller",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            6.869999885559082,
+            0.5960100293159485,
+            0.0
+        ],
+        "worldPosition": [
+            6.869999885559082,
+            0.5960100293159485,
+            0.0
+        ],
+        "FsmName": "Control",
+        "persistent": {
+            "SceneName": "",
+            "ID": "",
+            "pbiGoName": "understore propeller",
+            "IsSemiPersistent": 0
+        }
+    },
+    {
+        "sceneName": "weave_12",
+        "gameObject": "weaver_lift_power_chamber",
+        "active": true,
+        "componentType": "PlayMakerFSM",
+        "localPosition": [
+            41.90999984741211,
+            12.510002136230469,
+            5.888360023498535
+        ],
+        "worldPosition": [
+            41.90999984741211,
+            12.510002136230469,
+            5.888360023498535
+        ],
+        "FsmName": "States",
+        "persistent": {
+            "SceneName": "Weave_12",
+            "ID": "weaver_lift_power_chamber",
+            "pbiGoName": "weaver_lift_power_chamber",
+            "IsSemiPersistent": 0
+        }
+    }
+]
